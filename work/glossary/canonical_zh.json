@@ -1,0 +1,2839 @@
+{
+  "game": "Getter Robo Daikessen!",
+  "product_id": "SLPS-02232",
+  "language": "zh-CN",
+  "version": "0.1-research",
+  "date": "2026-10-22",
+  "scope": "Entity glossary and UI conventions; not a full scenario translation or proof of in-disc text extraction.",
+  "matching_rule": "Exact complete-field entity matching only after identifying field type; never blind English/Japanese substring replacement.",
+  "sources": {
+    "ak_chars": {
+      "url": "https://akurasu.net/wiki/Getter_Robo:_Daikessen!/Characters",
+      "role": "Game-specific playable character identities; Japanese and English spellings"
+    },
+    "ak_units": {
+      "url": "https://akurasu.net/wiki/Getter_Robo:_Daikessen!/Units",
+      "role": "Game-specific units and form identities"
+    },
+    "jp_game": {
+      "url": "https://srw.wiki.cre.jp/wiki/ゲッターロボ大決戦!",
+      "role": "Game-specific cast, factions, pilot abilities and differences from other Getter/SRW games"
+    },
+    "faq": {
+      "url": "https://gamefaqs.gamespot.com/ps/575892-getter-robo-daikessen/faqs/5126",
+      "role": "PS1 game-specific units and weapons; romanization is not authoritative Japanese orthography"
+    },
+    "bili": {
+      "url": "https://www.bilibili.com/bangumi/media/md2352/",
+      "role": "Licensed mainland Chinese Getter series and character usage"
+    },
+    "cn_collab": {
+      "url": "https://www.taptap.cn/moment/750110259372099156",
+      "role": "Licensed Chinese Getter collaboration usage; names only, not this game mechanics"
+    },
+    "cn_collab2": {
+      "url": "https://www.taptap.cn/moment/760247527227263278",
+      "role": "Licensed Chinese usage including 车弁庆, 盖塔皇帝, 盖塔射线 and 闪光烈阳弹"
+    },
+    "gou_cn": {
+      "url": "https://bgm.tv/character/99254",
+      "role": "Secondary mainland usage of 一文字号"
+    },
+    "gai_jp": {
+      "url": "https://srw.wiki.cre.jp/wiki/大道剴",
+      "role": "Original Japanese spelling is 大道剴"
+    },
+    "gai_oldcn": {
+      "url": "https://bbs.newwise.com/thread-382800-1-1.html",
+      "role": "Secondary older Chinese usage 大道凯; not an official Chinese naming source"
+    },
+    "zan": {
+      "url": "https://w.atwiki.jp/aniwotawiki/pages/6331.html",
+      "role": "Japanese original Zan team names 水樹茜, 秋山椿, 柴崎楓"
+    },
+    "cn_liger": {
+      "url": "https://jiangsheng.net/build/html/games/srw4/units/getter_robo.html",
+      "role": "Secondary Chinese convention 盖塔狮虎; not Daikessen mechanics"
+    },
+    "cn_poseidon": {
+      "url": "https://jiangsheng.net/build/html/games/srw4/units/unit_data_ps.html",
+      "role": "Secondary Chinese conventions 盖塔狮虎 and 盖塔海皇"
+    },
+    "cn_weapons": {
+      "url": "https://bkso.baidu.com/item/真盖塔机器人世界最后之日/9269799",
+      "role": "Secondary Chinese weapon-name conventions; no claim of official Daikessen localization"
+    }
+  },
+  "entries": [
+    {
+      "id": "character_001",
+      "category": "character",
+      "ja": "アキラ",
+      "en": "Akira",
+      "zh_CN": "阿基拉",
+      "alternatives": [],
+      "status": "provisional",
+      "presence_sources": [
+        "ak_chars",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "可自定义名的男主角；音译仅作占位，不虚构汉字姓名。",
+      "auto_eligible": false,
+      "ja_field_verified": true
+    },
+    {
+      "id": "character_002",
+      "category": "character",
+      "ja": "ケイ",
+      "en": "Kei",
+      "zh_CN": "凯",
+      "alternatives": [],
+      "status": "provisional",
+      "presence_sources": [
+        "ak_chars",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "可自定义名的女主角；不自动改成早乙女溪或南风溪。",
+      "auto_eligible": false,
+      "ja_field_verified": true
+    },
+    {
+      "id": "character_003",
+      "category": "character",
+      "ja": "流竜馬",
+      "en": "Ryouma Nagare",
+      "zh_CN": "流龙马",
+      "alternatives": [],
+      "status": "licensed_cn_usage",
+      "presence_sources": [
+        "ak_chars",
+        "jp_game"
+      ],
+      "translation_sources": [
+        "bili"
+      ],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "character_004",
+      "category": "character",
+      "ja": "神隼人",
+      "en": "Hayato Jin",
+      "zh_CN": "神隼人",
+      "alternatives": [],
+      "status": "licensed_cn_usage",
+      "presence_sources": [
+        "ak_chars",
+        "jp_game"
+      ],
+      "translation_sources": [
+        "bili"
+      ],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "character_005",
+      "category": "character",
+      "ja": "巴武蔵",
+      "en": "Musashi Tomoe",
+      "zh_CN": "巴武藏",
+      "alternatives": [],
+      "status": "licensed_cn_usage",
+      "presence_sources": [
+        "ak_chars",
+        "jp_game"
+      ],
+      "translation_sources": [
+        "bili"
+      ],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "character_006",
+      "category": "character",
+      "ja": "早乙女達人",
+      "en": "Tatsuhito Saotome",
+      "zh_CN": "早乙女达人",
+      "alternatives": [],
+      "status": "licensed_cn_usage",
+      "presence_sources": [
+        "ak_chars",
+        "jp_game"
+      ],
+      "translation_sources": [
+        "bili"
+      ],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "character_007",
+      "category": "character",
+      "ja": "車弁慶",
+      "en": "Benkei Kuruma",
+      "zh_CN": "车弁庆",
+      "alternatives": [],
+      "status": "licensed_cn_usage",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [
+        "cn_collab2"
+      ],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "character_008",
+      "category": "character",
+      "ja": "早乙女ミチル",
+      "en": "Michiru Saotome",
+      "zh_CN": "早乙女美智流",
+      "alternatives": [
+        "早乙女美智琉",
+        "早乙女米琪露"
+      ],
+      "status": "provisional",
+      "presence_sources": [
+        "ak_chars",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "日文身份已确认；简中存在多种音译，暂用项目译名，待用户或既有字幕规范确定。",
+      "auto_eligible": false,
+      "ja_field_verified": true
+    },
+    {
+      "id": "character_009",
+      "category": "character",
+      "ja": "早乙女博士",
+      "en": "Professor Saotome",
+      "zh_CN": "早乙女博士",
+      "alternatives": [],
+      "status": "licensed_cn_usage",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [
+        "cn_collab"
+      ],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "character_010",
+      "category": "character",
+      "ja": "一文字號",
+      "en": "Gou Ichimonji",
+      "zh_CN": "一文字号",
+      "alternatives": [],
+      "status": "common_zh",
+      "presence_sources": [
+        "ak_chars",
+        "jp_game"
+      ],
+      "translation_sources": [
+        "gou_cn"
+      ],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "character_011",
+      "category": "character",
+      "ja": "橘翔",
+      "en": "Shou Tachibana",
+      "zh_CN": "橘翔",
+      "alternatives": [],
+      "status": "kanji_simplification",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [
+        "jp_game",
+        "zan"
+      ],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "character_012",
+      "category": "character",
+      "ja": "古田",
+      "en": "Furuta",
+      "zh_CN": "古田",
+      "alternatives": [],
+      "status": "kanji_simplification",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [
+        "jp_game",
+        "zan"
+      ],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "character_013",
+      "category": "character",
+      "ja": "橘博士",
+      "en": "Professor Tachibana",
+      "zh_CN": "橘博士",
+      "alternatives": [],
+      "status": "kanji_simplification",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [
+        "jp_game",
+        "zan"
+      ],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "character_014",
+      "category": "character",
+      "ja": "水樹茜",
+      "en": "Akane Mizuki",
+      "zh_CN": "水树茜",
+      "alternatives": [],
+      "status": "kanji_simplification",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [
+        "jp_game",
+        "zan"
+      ],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "character_015",
+      "category": "character",
+      "ja": "秋山椿",
+      "en": "Tsubaki Akiyama",
+      "zh_CN": "秋山椿",
+      "alternatives": [],
+      "status": "kanji_simplification",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [
+        "jp_game",
+        "zan"
+      ],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "character_016",
+      "category": "character",
+      "ja": "柴崎楓",
+      "en": "Kaede Shibasaki",
+      "zh_CN": "柴崎枫",
+      "alternatives": [],
+      "status": "kanji_simplification",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [
+        "jp_game",
+        "zan"
+      ],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "character_017",
+      "category": "character",
+      "ja": "橘信一",
+      "en": "Shinichi Tachibana",
+      "zh_CN": "橘信一",
+      "alternatives": [],
+      "status": "kanji_simplification",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [
+        "jp_game",
+        "zan"
+      ],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "character_018",
+      "category": "character",
+      "ja": "竜二",
+      "en": "Ryuji",
+      "zh_CN": "龙二",
+      "alternatives": [],
+      "status": "kanji_simplification",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [
+        "jp_game",
+        "zan"
+      ],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "character_019",
+      "category": "character",
+      "ja": "大道剴",
+      "en": "Gai Daidou",
+      "zh_CN": "大道剀",
+      "alternatives": [
+        "大道凯"
+      ],
+      "status": "provisional",
+      "presence_sources": [
+        "ak_chars",
+        "jp_game"
+      ],
+      "translation_sources": [
+        "gai_jp",
+        "gai_oldcn"
+      ],
+      "notes": "剴的规范简体为剀；旧汉化常用凯。未确认授权简中译名，自动表暂不应用。",
+      "auto_eligible": false,
+      "ja_field_verified": true
+    },
+    {
+      "id": "character_020",
+      "category": "character",
+      "ja": "ジャック・キング",
+      "en": "Jack King",
+      "zh_CN": "杰克·金",
+      "alternatives": [],
+      "status": "provisional",
+      "presence_sources": [
+        "ak_chars",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "角色确实登场；中文音译为项目占位，未找到授权简中命名。",
+      "auto_eligible": false,
+      "ja_field_verified": true
+    },
+    {
+      "id": "character_021",
+      "category": "character",
+      "ja": "メリー・キング",
+      "en": "Mary King",
+      "zh_CN": "玛丽·金",
+      "alternatives": [],
+      "status": "provisional",
+      "presence_sources": [
+        "ak_chars",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "角色确实登场；中文音译为项目占位，未找到授权简中命名。",
+      "auto_eligible": false,
+      "ja_field_verified": true
+    },
+    {
+      "id": "character_022",
+      "category": "character",
+      "ja": "シュワルツ",
+      "en": "Schwartz Koff",
+      "zh_CN": "施瓦茨",
+      "alternatives": [],
+      "status": "provisional",
+      "presence_sources": [
+        "ak_chars",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "角色确实登场；中文音译为项目占位，未找到授权简中命名。",
+      "auto_eligible": false,
+      "ja_field_verified": true
+    },
+    {
+      "id": "character_023",
+      "category": "character",
+      "ja": "ジョン・ランバート",
+      "en": "John Lambert",
+      "zh_CN": "约翰·兰伯特",
+      "alternatives": [],
+      "status": "provisional",
+      "presence_sources": [
+        "ak_chars",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "角色确实登场；中文音译为项目占位，未找到授权简中命名。",
+      "auto_eligible": false,
+      "ja_field_verified": true
+    },
+    {
+      "id": "character_024",
+      "category": "character",
+      "ja": "ボブ・ホスナー",
+      "en": "Bob Hosner",
+      "zh_CN": "鲍勃·霍斯纳",
+      "alternatives": [],
+      "status": "provisional",
+      "presence_sources": [
+        "ak_chars",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "角色确实登场；中文音译为项目占位，未找到授权简中命名。",
+      "auto_eligible": false,
+      "ja_field_verified": true
+    },
+    {
+      "id": "character_025",
+      "category": "character",
+      "ja": "サム・ホスナー",
+      "en": "Sam Hosner",
+      "zh_CN": "萨姆·霍斯纳",
+      "alternatives": [],
+      "status": "provisional",
+      "presence_sources": [
+        "ak_chars",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "角色确实登场；中文音译为项目占位，未找到授权简中命名。",
+      "auto_eligible": false,
+      "ja_field_verified": true
+    },
+    {
+      "id": "character_026",
+      "category": "character",
+      "ja": "リンダ・ティラミス",
+      "en": "Linda Tiramisu",
+      "zh_CN": "琳达·提拉米斯",
+      "alternatives": [],
+      "status": "provisional",
+      "presence_sources": [
+        "ak_chars",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "角色确实登场；中文音译为项目占位，未找到授权简中命名。",
+      "auto_eligible": false,
+      "ja_field_verified": true
+    },
+    {
+      "id": "character_027",
+      "category": "character",
+      "ja": "ヒム・シャトナー",
+      "en": "Heim Shatner",
+      "zh_CN": "希姆·沙特纳",
+      "alternatives": [],
+      "status": "provisional",
+      "presence_sources": [
+        "ak_chars",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "角色确实登场；中文音译为项目占位，未找到授权简中命名。",
+      "auto_eligible": false,
+      "ja_field_verified": true
+    },
+    {
+      "id": "character_028",
+      "category": "character",
+      "ja": "テキサス艦長",
+      "en": "Captain Texas",
+      "zh_CN": "得克萨斯舰长",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "ak_chars",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "职务称呼，Texas统一译为得克萨斯。",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "character_029",
+      "category": "character",
+      "ja": "地底魔王ゴール",
+      "en": "Emperor Gore",
+      "zh_CN": "地底魔王高尔",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "character_030",
+      "category": "character",
+      "ja": "バット将軍",
+      "en": "General Bat",
+      "zh_CN": "巴特将军",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "character_031",
+      "category": "character",
+      "ja": "キャプテン・ニオン",
+      "en": "Captain Nion",
+      "zh_CN": "尼昂队长",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "character_032",
+      "category": "character",
+      "ja": "ブライ大帝",
+      "en": "Emperor Burai",
+      "zh_CN": "布莱大帝",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "character_033",
+      "category": "character",
+      "ja": "プロフェッサーランドウ",
+      "en": "Professor Rando",
+      "zh_CN": "兰多教授",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "character_034",
+      "category": "character",
+      "ja": "ラセツ男爵",
+      "en": "Baron Rasetsu",
+      "zh_CN": "罗刹男爵",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "本作称男爵，不能套用其他作品的罗刹伯爵。",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "character_035",
+      "category": "character",
+      "ja": "改造ゴール",
+      "en": "Modified Gore",
+      "zh_CN": "改造高尔",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "character_036",
+      "category": "character",
+      "ja": "改造バット将軍",
+      "en": "Modified General Bat",
+      "zh_CN": "改造巴特将军",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "character_037",
+      "category": "character",
+      "ja": "改造ブライ",
+      "en": "Modified Burai",
+      "zh_CN": "改造布莱",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "character_038",
+      "category": "character",
+      "ja": "ギィムバグ軍曹",
+      "en": "Sergeant Giimubagu",
+      "zh_CN": "吉姆巴格军曹",
+      "alternatives": [],
+      "status": "provisional",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "本作最终敌人；中文音译为临时项目译名。",
+      "auto_eligible": false,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_001",
+      "category": "unit",
+      "ja": "イーグル号",
+      "en": "Eagle",
+      "zh_CN": "雄鹰号",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_002",
+      "category": "unit",
+      "ja": "ジャガー号",
+      "en": "Jaguar",
+      "zh_CN": "猎豹号",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_003",
+      "category": "unit",
+      "ja": "ベアー号",
+      "en": "Bear",
+      "zh_CN": "巨熊号",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_004",
+      "category": "unit",
+      "ja": "ゲッター1",
+      "en": "Getter 1",
+      "zh_CN": "盖塔1",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_005",
+      "category": "unit",
+      "ja": "ゲッター2",
+      "en": "Getter 2",
+      "zh_CN": "盖塔2",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_006",
+      "category": "unit",
+      "ja": "ゲッター3",
+      "en": "Getter 3",
+      "zh_CN": "盖塔3",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_007",
+      "category": "unit",
+      "ja": "ゲッター1+2",
+      "en": "Getter 1+2",
+      "zh_CN": "盖塔1+2",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_008",
+      "category": "unit",
+      "ja": "ゲッター2+3",
+      "en": "Getter 2+3",
+      "zh_CN": "盖塔2+3",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_009",
+      "category": "unit",
+      "ja": "ゲッター3+1",
+      "en": "Getter 3+1",
+      "zh_CN": "盖塔3+1",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_010",
+      "category": "unit",
+      "ja": "ドラゴン号",
+      "en": "Dragon",
+      "zh_CN": "飞龙号",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_011",
+      "category": "unit",
+      "ja": "ライガー号",
+      "en": "Liger",
+      "zh_CN": "狮虎号",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_012",
+      "category": "unit",
+      "ja": "ポセイドン号",
+      "en": "Poseidon",
+      "zh_CN": "波塞冬号",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_013",
+      "category": "unit",
+      "ja": "ゲッタードラゴン",
+      "en": "Getter Dragon",
+      "zh_CN": "盖塔龙",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_014",
+      "category": "unit",
+      "ja": "ゲットマシン１",
+      "en": "Get Machine 1",
+      "zh_CN": "盖塔战机1",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_015",
+      "category": "unit",
+      "ja": "ゲットマシン２",
+      "en": "Get Machine 2",
+      "zh_CN": "盖塔战机2",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_016",
+      "category": "unit",
+      "ja": "ゲットマシン３",
+      "en": "Get Machine 3",
+      "zh_CN": "盖塔战机3",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_017",
+      "category": "unit",
+      "ja": "ゲッター號",
+      "en": "Getter Go",
+      "zh_CN": "盖塔号",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_018",
+      "category": "unit",
+      "ja": "ゲッター翔",
+      "en": "Getter Sho",
+      "zh_CN": "盖塔翔",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_019",
+      "category": "unit",
+      "ja": "スーパーゲッター號",
+      "en": "Super Getter Go",
+      "zh_CN": "超级盖塔号",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_020",
+      "category": "unit",
+      "ja": "真イーグル号",
+      "en": "Shin Eagle",
+      "zh_CN": "真雄鹰号",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_021",
+      "category": "unit",
+      "ja": "真ジャガー号",
+      "en": "Shin Jaguar",
+      "zh_CN": "真猎豹号",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_022",
+      "category": "unit",
+      "ja": "真ベアー号",
+      "en": "Shin Bear",
+      "zh_CN": "真巨熊号",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_023",
+      "category": "unit",
+      "ja": "真ゲッター1",
+      "en": "Shin Getter 1",
+      "zh_CN": "真盖塔1",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_024",
+      "category": "unit",
+      "ja": "真ゲッター2",
+      "en": "Shin Getter 2",
+      "zh_CN": "真盖塔2",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_025",
+      "category": "unit",
+      "ja": "真ゲッター3",
+      "en": "Shin Getter 3",
+      "zh_CN": "真盖塔3",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_026",
+      "category": "unit",
+      "ja": "烈火号",
+      "en": "Rekka",
+      "zh_CN": "烈火号",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_027",
+      "category": "unit",
+      "ja": "紫電号",
+      "en": "Shiden",
+      "zh_CN": "紫电号",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_028",
+      "category": "unit",
+      "ja": "金剛号",
+      "en": "Kongou",
+      "zh_CN": "金刚号",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_029",
+      "category": "unit",
+      "ja": "ゲッター烈火",
+      "en": "Getter Rekka",
+      "zh_CN": "盖塔烈火",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_030",
+      "category": "unit",
+      "ja": "ゲッター紫電",
+      "en": "Getter Shiden",
+      "zh_CN": "盖塔紫电",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_031",
+      "category": "unit",
+      "ja": "ゲッター金剛",
+      "en": "Getter Kongou",
+      "zh_CN": "盖塔金刚",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_032",
+      "category": "unit",
+      "ja": "BT-23",
+      "en": "BT-23",
+      "zh_CN": "BT-23",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_033",
+      "category": "unit",
+      "ja": "レディコマンド",
+      "en": "Lady Command",
+      "zh_CN": "女郎指挥艇",
+      "alternatives": [],
+      "status": "provisional",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "单位身份及编号已核对；中文名为项目候选，未确认授权或稳定通行译名，暂不自动替换。",
+      "auto_eligible": false,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_034",
+      "category": "unit",
+      "ja": "テキサスマック",
+      "en": "Texas Mack",
+      "zh_CN": "得克萨斯马克",
+      "alternatives": [],
+      "status": "provisional",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "单位身份及编号已核对；中文名为项目候选，未确认授权或稳定通行译名，暂不自动替换。",
+      "auto_eligible": false,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_035",
+      "category": "unit",
+      "ja": "ステルバーα04",
+      "en": "Stelber Alpha 04",
+      "zh_CN": "斯特尔巴α04",
+      "alternatives": [],
+      "status": "provisional",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "单位身份及编号已核对；中文名为项目候选，未确认授权或稳定通行译名，暂不自动替换。",
+      "auto_eligible": false,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_036",
+      "category": "unit",
+      "ja": "ロボストーンT520",
+      "en": "Robostone T520",
+      "zh_CN": "罗博斯通T520",
+      "alternatives": [],
+      "status": "provisional",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "单位身份及编号已核对；中文名为项目候选，未确认授权或稳定通行译名，暂不自动替换。",
+      "auto_eligible": false,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_037",
+      "category": "unit",
+      "ja": "キングダム007",
+      "en": "Kingdom 007",
+      "zh_CN": "王国007",
+      "alternatives": [],
+      "status": "provisional",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "单位身份及编号已核对；中文名为项目候选，未确认授权或稳定通行译名，暂不自动替换。",
+      "auto_eligible": false,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_038",
+      "category": "unit",
+      "ja": "グスタフH24",
+      "en": "Gustav H24",
+      "zh_CN": "古斯塔夫H24",
+      "alternatives": [],
+      "status": "provisional",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "单位身份及编号已核对；中文名为项目候选，未确认授权或稳定通行译名，暂不自动替换。",
+      "auto_eligible": false,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_039",
+      "category": "unit",
+      "ja": "大型移動艦テキサス",
+      "en": "Texas",
+      "zh_CN": "大型移动舰得克萨斯",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_040",
+      "category": "unit",
+      "ja": "ボルガ80000",
+      "en": "Volga 80000",
+      "zh_CN": "伏尔加80000",
+      "alternatives": [],
+      "status": "provisional",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "单位身份及编号已核对；中文名为项目候选，未确认授权或稳定通行译名，暂不自动替换。",
+      "auto_eligible": false,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_041",
+      "category": "unit",
+      "ja": "ゲッターライガー",
+      "en": "Getter Liger",
+      "zh_CN": "盖塔狮虎",
+      "alternatives": [
+        "盖塔莱卡"
+      ],
+      "status": "common_zh",
+      "presence_sources": [
+        "ak_units"
+      ],
+      "translation_sources": [
+        "cn_liger"
+      ],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_042",
+      "category": "unit",
+      "ja": "ゲッターポセイドン",
+      "en": "Getter Poseidon",
+      "zh_CN": "盖塔波塞冬",
+      "alternatives": [
+        "盖塔海皇",
+        "盖塔海神"
+      ],
+      "status": "project_translation",
+      "presence_sources": [
+        "ak_units"
+      ],
+      "translation_sources": [
+        "cn_poseidon"
+      ],
+      "notes": "本项目采用波塞冬以与战机名一致；海皇、海神为常见旧译。",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_043",
+      "category": "unit",
+      "ja": "ゲッター剴",
+      "en": "Getter Gai",
+      "zh_CN": "盖塔剀",
+      "alternatives": [
+        "盖塔凯"
+      ],
+      "status": "provisional",
+      "presence_sources": [
+        "ak_units"
+      ],
+      "translation_sources": [
+        "gai_jp",
+        "gai_oldcn"
+      ],
+      "notes": "和大道剴相同的剴/剀/凯命名选择，暂不自动替换。",
+      "auto_eligible": false,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_044",
+      "category": "unit",
+      "ja": "ブラックゲッター",
+      "en": "Black Getter",
+      "zh_CN": "黑盖塔",
+      "alternatives": [],
+      "status": "licensed_cn_usage",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [
+        "cn_collab"
+      ],
+      "notes": "本作是备用零件组合的原创混合机，不自动套用OVA黑盖塔的设定。",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_045",
+      "category": "unit",
+      "ja": "ゲッターエンペラー",
+      "en": "Getter Emperor",
+      "zh_CN": "盖塔皇帝",
+      "alternatives": [],
+      "status": "licensed_cn_usage",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [
+        "cn_collab2"
+      ],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_046",
+      "category": "unit",
+      "ja": "真ゲッタードラゴン",
+      "en": "Shin Getter Dragon",
+      "zh_CN": "真盖塔龙",
+      "alternatives": [
+        "真龙"
+      ],
+      "status": "licensed_cn_usage",
+      "presence_sources": [
+        "ak_units",
+        "jp_game"
+      ],
+      "translation_sources": [
+        "cn_collab"
+      ],
+      "notes": "本作是人型最终阶段机，不自动缩成OVA形态称呼真龙。",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "unit_047",
+      "category": "unit",
+      "ja": "クジラ2005D",
+      "en": "Kujira 2500D",
+      "zh_CN": "鲸鱼2005D",
+      "alternatives": [
+        "クジラ",
+        "Kujira 20051D"
+      ],
+      "status": "provisional",
+      "presence_sources": [
+        "ak_units",
+        "faq"
+      ],
+      "translation_sources": [],
+      "notes": "来源有2005D / 2500D / 20051D冲突；等待原盘确认型号。禁止自动替换或修正数字。",
+      "auto_eligible": false,
+      "ja_field_verified": true
+    },
+    {
+      "id": "weapon_001",
+      "category": "weapon",
+      "ja": "ゲッターカッター",
+      "en": "Getter Cutter",
+      "zh_CN": "盖塔切割刃",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "faq"
+      ],
+      "translation_sources": [],
+      "notes": "武器身份见本作攻略；日文为标准化名称，原盘精确拼写尚待核对。仅用英文完整字段匹配，日文字段暂不自动应用。",
+      "auto_eligible": true,
+      "ja_field_verified": false
+    },
+    {
+      "id": "weapon_002",
+      "category": "weapon",
+      "ja": "ゲッタートマホーク",
+      "en": "Getter Tomahawk",
+      "zh_CN": "盖塔战斧",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "faq"
+      ],
+      "translation_sources": [],
+      "notes": "武器身份见本作攻略；日文为标准化名称，原盘精确拼写尚待核对。仅用英文完整字段匹配，日文字段暂不自动应用。",
+      "auto_eligible": true,
+      "ja_field_verified": false
+    },
+    {
+      "id": "weapon_003",
+      "category": "weapon",
+      "ja": "トマホークブーメラン",
+      "en": "Tomahawk Boomerang",
+      "zh_CN": "战斧回旋镖",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "faq"
+      ],
+      "translation_sources": [],
+      "notes": "武器身份见本作攻略；日文为标准化名称，原盘精确拼写尚待核对。仅用英文完整字段匹配，日文字段暂不自动应用。",
+      "auto_eligible": true,
+      "ja_field_verified": false
+    },
+    {
+      "id": "weapon_004",
+      "category": "weapon",
+      "ja": "ゲッターマシンガン",
+      "en": "Getter Machinegun",
+      "zh_CN": "盖塔机枪",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "faq"
+      ],
+      "translation_sources": [],
+      "notes": "武器身份见本作攻略；日文为标准化名称，原盘精确拼写尚待核对。仅用英文完整字段匹配，日文字段暂不自动应用。",
+      "auto_eligible": true,
+      "ja_field_verified": false
+    },
+    {
+      "id": "weapon_005",
+      "category": "weapon",
+      "ja": "ゲッタービーム",
+      "en": "Getter Beam",
+      "zh_CN": "盖塔射线",
+      "alternatives": [],
+      "status": "licensed_cn_usage",
+      "presence_sources": [
+        "faq"
+      ],
+      "translation_sources": [
+        "cn_collab2"
+      ],
+      "notes": "武器身份见本作攻略；日文为标准化名称，原盘精确拼写尚待核对。仅用英文完整字段匹配，日文字段暂不自动应用。 本作通常为直线地图攻击；保留原控制码与攻击属性。",
+      "auto_eligible": true,
+      "ja_field_verified": false
+    },
+    {
+      "id": "weapon_006",
+      "category": "weapon",
+      "ja": "ドリルアーム",
+      "en": "Drill Arm",
+      "zh_CN": "钻头臂",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "faq"
+      ],
+      "translation_sources": [],
+      "notes": "武器身份见本作攻略；日文为标准化名称，原盘精确拼写尚待核对。仅用英文完整字段匹配，日文字段暂不自动应用。",
+      "auto_eligible": true,
+      "ja_field_verified": false
+    },
+    {
+      "id": "weapon_007",
+      "category": "weapon",
+      "ja": "ゲッターアーム",
+      "en": "Getter Arm",
+      "zh_CN": "盖塔臂",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "faq"
+      ],
+      "translation_sources": [],
+      "notes": "武器身份见本作攻略；日文为标准化名称，原盘精确拼写尚待核对。仅用英文完整字段匹配，日文字段暂不自动应用。",
+      "auto_eligible": true,
+      "ja_field_verified": false
+    },
+    {
+      "id": "weapon_008",
+      "category": "weapon",
+      "ja": "ジェットドリル",
+      "en": "Jet Drill",
+      "zh_CN": "喷射钻头",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "faq"
+      ],
+      "translation_sources": [],
+      "notes": "武器身份见本作攻略；日文为标准化名称，原盘精确拼写尚待核对。仅用英文完整字段匹配，日文字段暂不自动应用。",
+      "auto_eligible": true,
+      "ja_field_verified": false
+    },
+    {
+      "id": "weapon_009",
+      "category": "weapon",
+      "ja": "ドリルストーム",
+      "en": "Drill Storm",
+      "zh_CN": "钻头风暴",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "faq"
+      ],
+      "translation_sources": [],
+      "notes": "武器身份见本作攻略；日文为标准化名称，原盘精确拼写尚待核对。仅用英文完整字段匹配，日文字段暂不自动应用。",
+      "auto_eligible": true,
+      "ja_field_verified": false
+    },
+    {
+      "id": "weapon_010",
+      "category": "weapon",
+      "ja": "ゲッタービジョン",
+      "en": "Getter Vision",
+      "zh_CN": "盖塔幻影",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "faq"
+      ],
+      "translation_sources": [],
+      "notes": "武器身份见本作攻略；日文为标准化名称，原盘精确拼写尚待核对。仅用英文完整字段匹配，日文字段暂不自动应用。 本作是武器，不能按机战系列的被动分身技能处理。",
+      "auto_eligible": true,
+      "ja_field_verified": false
+    },
+    {
+      "id": "weapon_011",
+      "category": "weapon",
+      "ja": "ゲッタースマッシュ",
+      "en": "Getter Smash",
+      "zh_CN": "盖塔重击",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "faq"
+      ],
+      "translation_sources": [],
+      "notes": "武器身份见本作攻略；日文为标准化名称，原盘精确拼写尚待核对。仅用英文完整字段匹配，日文字段暂不自动应用。",
+      "auto_eligible": true,
+      "ja_field_verified": false
+    },
+    {
+      "id": "weapon_012",
+      "category": "weapon",
+      "ja": "ゲッタークラッシュ",
+      "en": "Getter Crash",
+      "zh_CN": "盖塔冲撞",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "faq"
+      ],
+      "translation_sources": [],
+      "notes": "武器身份见本作攻略；日文为标准化名称，原盘精确拼写尚待核对。仅用英文完整字段匹配，日文字段暂不自动应用。",
+      "auto_eligible": true,
+      "ja_field_verified": false
+    },
+    {
+      "id": "weapon_013",
+      "category": "weapon",
+      "ja": "ゲッターミサイル",
+      "en": "Getter Missile",
+      "zh_CN": "盖塔导弹",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "faq"
+      ],
+      "translation_sources": [],
+      "notes": "武器身份见本作攻略；日文为标准化名称，原盘精确拼写尚待核对。仅用英文完整字段匹配，日文字段暂不自动应用。",
+      "auto_eligible": true,
+      "ja_field_verified": false
+    },
+    {
+      "id": "weapon_014",
+      "category": "weapon",
+      "ja": "大雪山おろし",
+      "en": "Daisetsuzan Oroshi",
+      "zh_CN": "大雪山崩落",
+      "alternatives": [],
+      "status": "common_zh",
+      "presence_sources": [
+        "faq"
+      ],
+      "translation_sources": [
+        "cn_weapons"
+      ],
+      "notes": "武器身份见本作攻略；日文为标准化名称，原盘精确拼写尚待核对。仅用英文完整字段匹配，日文字段暂不自动应用。 与武藏或弁庆驾驶条件有关；词表不改变使用条件。",
+      "auto_eligible": true,
+      "ja_field_verified": false
+    },
+    {
+      "id": "weapon_015",
+      "category": "weapon",
+      "ja": "ダブルトマホーク",
+      "en": "Double Tomahawk",
+      "zh_CN": "双重战斧",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "faq"
+      ],
+      "translation_sources": [],
+      "notes": "武器身份见本作攻略；日文为标准化名称，原盘精确拼写尚待核对。仅用英文完整字段匹配，日文字段暂不自动应用。",
+      "auto_eligible": true,
+      "ja_field_verified": false
+    },
+    {
+      "id": "weapon_016",
+      "category": "weapon",
+      "ja": "スピンカッター",
+      "en": "Spin Cutter",
+      "zh_CN": "旋转切割刃",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "faq"
+      ],
+      "translation_sources": [],
+      "notes": "武器身份见本作攻略；日文为标准化名称，原盘精确拼写尚待核对。仅用英文完整字段匹配，日文字段暂不自动应用。",
+      "auto_eligible": true,
+      "ja_field_verified": false
+    },
+    {
+      "id": "weapon_017",
+      "category": "weapon",
+      "ja": "マグフォースサンダー",
+      "en": "Magforce Thunder",
+      "zh_CN": "磁力雷霆",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "faq"
+      ],
+      "translation_sources": [],
+      "notes": "武器身份见本作攻略；日文为标准化名称，原盘精确拼写尚待核对。仅用英文完整字段匹配，日文字段暂不自动应用。",
+      "auto_eligible": true,
+      "ja_field_verified": false
+    },
+    {
+      "id": "weapon_018",
+      "category": "weapon",
+      "ja": "ソードトマホーク",
+      "en": "Sword Tomahawk",
+      "zh_CN": "剑刃战斧",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "faq"
+      ],
+      "translation_sources": [],
+      "notes": "武器身份见本作攻略；日文为标准化名称，原盘精确拼写尚待核对。仅用英文完整字段匹配，日文字段暂不自动应用。",
+      "auto_eligible": true,
+      "ja_field_verified": false
+    },
+    {
+      "id": "weapon_019",
+      "category": "weapon",
+      "ja": "ストリングアタック",
+      "en": "String Attack",
+      "zh_CN": "钢索攻击",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "faq"
+      ],
+      "translation_sources": [],
+      "notes": "武器身份见本作攻略；日文为标准化名称，原盘精确拼写尚待核对。仅用英文完整字段匹配，日文字段暂不自动应用。",
+      "auto_eligible": true,
+      "ja_field_verified": false
+    },
+    {
+      "id": "weapon_020",
+      "category": "weapon",
+      "ja": "ブレストボンバー",
+      "en": "Breast Bomber",
+      "zh_CN": "胸部爆弹",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "faq"
+      ],
+      "translation_sources": [],
+      "notes": "武器身份见本作攻略；日文为标准化名称，原盘精确拼写尚待核对。仅用英文完整字段匹配，日文字段暂不自动应用。",
+      "auto_eligible": true,
+      "ja_field_verified": false
+    },
+    {
+      "id": "weapon_021",
+      "category": "weapon",
+      "ja": "トルネードアタック",
+      "en": "Tornado Attack",
+      "zh_CN": "龙卷攻击",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "faq"
+      ],
+      "translation_sources": [],
+      "notes": "武器身份见本作攻略；日文为标准化名称，原盘精确拼写尚待核对。仅用英文完整字段匹配，日文字段暂不自动应用。",
+      "auto_eligible": true,
+      "ja_field_verified": false
+    },
+    {
+      "id": "weapon_022",
+      "category": "weapon",
+      "ja": "ハープーンキャノン",
+      "en": "Harpoon Cannon",
+      "zh_CN": "鱼叉炮",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "faq"
+      ],
+      "translation_sources": [],
+      "notes": "武器身份见本作攻略；日文为标准化名称，原盘精确拼写尚待核对。仅用英文完整字段匹配，日文字段暂不自动应用。",
+      "auto_eligible": true,
+      "ja_field_verified": false
+    },
+    {
+      "id": "weapon_023",
+      "category": "weapon",
+      "ja": "ブレストビーム",
+      "en": "Breast Beam",
+      "zh_CN": "胸部光束",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "faq"
+      ],
+      "translation_sources": [],
+      "notes": "武器身份见本作攻略；日文为标准化名称，原盘精确拼写尚待核对。仅用英文完整字段匹配，日文字段暂不自动应用。",
+      "auto_eligible": true,
+      "ja_field_verified": false
+    },
+    {
+      "id": "weapon_024",
+      "category": "weapon",
+      "ja": "インパクトキャノン",
+      "en": "Impact Cannon",
+      "zh_CN": "冲击炮",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "faq"
+      ],
+      "translation_sources": [],
+      "notes": "武器身份见本作攻略；日文为标准化名称，原盘精确拼写尚待核对。仅用英文完整字段匹配，日文字段暂不自动应用。",
+      "auto_eligible": true,
+      "ja_field_verified": false
+    },
+    {
+      "id": "weapon_025",
+      "category": "weapon",
+      "ja": "真ゲッタートマホーク",
+      "en": "Shin Getter Tomahawk",
+      "zh_CN": "真盖塔战斧",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "faq"
+      ],
+      "translation_sources": [],
+      "notes": "武器身份见本作攻略；日文为标准化名称，原盘精确拼写尚待核对。仅用英文完整字段匹配，日文字段暂不自动应用。",
+      "auto_eligible": true,
+      "ja_field_verified": false
+    },
+    {
+      "id": "weapon_026",
+      "category": "weapon",
+      "ja": "真ゲッタービーム",
+      "en": "Shin Getter Beam",
+      "zh_CN": "真盖塔射线",
+      "alternatives": [],
+      "status": "licensed_cn_usage",
+      "presence_sources": [
+        "faq"
+      ],
+      "translation_sources": [
+        "cn_collab2"
+      ],
+      "notes": "武器身份见本作攻略；日文为标准化名称，原盘精确拼写尚待核对。仅用英文完整字段匹配，日文字段暂不自动应用。",
+      "auto_eligible": true,
+      "ja_field_verified": false
+    },
+    {
+      "id": "weapon_027",
+      "category": "weapon",
+      "ja": "ストナーサンシャイン",
+      "en": "Stoner Sunshine",
+      "zh_CN": "闪光烈阳弹",
+      "alternatives": [],
+      "status": "licensed_cn_usage",
+      "presence_sources": [
+        "faq"
+      ],
+      "translation_sources": [
+        "cn_collab2"
+      ],
+      "notes": "武器身份见本作攻略；日文为标准化名称，原盘精确拼写尚待核对。仅用英文完整字段匹配，日文字段暂不自动应用。",
+      "auto_eligible": true,
+      "ja_field_verified": false
+    },
+    {
+      "id": "weapon_028",
+      "category": "weapon",
+      "ja": "真ゲッタービジョン",
+      "en": "Shin Getter Vision",
+      "zh_CN": "真盖塔幻影",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "faq"
+      ],
+      "translation_sources": [],
+      "notes": "武器身份见本作攻略；日文为标准化名称，原盘精确拼写尚待核对。仅用英文完整字段匹配，日文字段暂不自动应用。",
+      "auto_eligible": true,
+      "ja_field_verified": false
+    },
+    {
+      "id": "weapon_029",
+      "category": "weapon",
+      "ja": "真大雪山おろし",
+      "en": "Shin Daisetsuzan Oroshi",
+      "zh_CN": "真大雪山崩落",
+      "alternatives": [],
+      "status": "common_zh",
+      "presence_sources": [
+        "faq"
+      ],
+      "translation_sources": [
+        "cn_weapons"
+      ],
+      "notes": "武器身份见本作攻略；日文为标准化名称，原盘精确拼写尚待核对。仅用英文完整字段匹配，日文字段暂不自动应用。 与武藏或弁庆驾驶条件有关；词表不改变使用条件。",
+      "auto_eligible": true,
+      "ja_field_verified": false
+    },
+    {
+      "id": "weapon_030",
+      "category": "weapon",
+      "ja": "暗黒乱舞",
+      "en": "Ankoku Ranbu",
+      "zh_CN": "暗黑乱舞",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "faq"
+      ],
+      "translation_sources": [],
+      "notes": "武器身份见本作攻略；日文为标准化名称，原盘精确拼写尚待核对。仅用英文完整字段匹配，日文字段暂不自动应用。",
+      "auto_eligible": true,
+      "ja_field_verified": false
+    },
+    {
+      "id": "weapon_031",
+      "category": "weapon",
+      "ja": "真シャインスパーク",
+      "en": "Shin Shine Spark",
+      "zh_CN": "真闪光爆烈",
+      "alternatives": [],
+      "status": "common_zh",
+      "presence_sources": [
+        "faq"
+      ],
+      "translation_sources": [
+        "cn_weapons"
+      ],
+      "notes": "武器身份见本作攻略；日文为标准化名称，原盘精确拼写尚待核对。仅用英文完整字段匹配，日文字段暂不自动应用。",
+      "auto_eligible": true,
+      "ja_field_verified": false
+    },
+    {
+      "id": "weapon_032",
+      "category": "weapon",
+      "ja": "エンペラービーム",
+      "en": "Emperor Beam",
+      "zh_CN": "皇帝射线",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "faq"
+      ],
+      "translation_sources": [],
+      "notes": "武器身份见本作攻略；日文为标准化名称，原盘精确拼写尚待核对。仅用英文完整字段匹配，日文字段暂不自动应用。",
+      "auto_eligible": true,
+      "ja_field_verified": false
+    },
+    {
+      "id": "ability_001",
+      "category": "ability",
+      "ja": "反撃",
+      "en": "Counterattack",
+      "zh_CN": "反击",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "本作的驾驶员「能力」，不当作通用机战精神指令。",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "ability_002",
+      "category": "ability",
+      "ja": "2回移動",
+      "en": "Move Twice",
+      "zh_CN": "二次移动",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "本作的驾驶员「能力」，不当作通用机战精神指令。 隼人的二次移动在该回合不能攻击；不能翻译成二次行动。",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "ability_003",
+      "category": "ability",
+      "ja": "自爆",
+      "en": "Self-Destruct",
+      "zh_CN": "自爆",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "本作的驾驶员「能力」，不当作通用机战精神指令。",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "ability_004",
+      "category": "ability",
+      "ja": "偵察",
+      "en": "Reconnaissance",
+      "zh_CN": "侦察",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "本作的驾驶员「能力」，不当作通用机战精神指令。",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "ability_005",
+      "category": "ability",
+      "ja": "HP回復",
+      "en": "HP Recovery",
+      "zh_CN": "HP回复",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "本作的驾驶员「能力」，不当作通用机战精神指令。",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "ability_006",
+      "category": "ability",
+      "ja": "復活",
+      "en": "Revival",
+      "zh_CN": "复活",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "本作的驾驶员「能力」，不当作通用机战精神指令。 一文字号的能力为自身复活，不擅加复活友军含义。",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "ability_007",
+      "category": "ability",
+      "ja": "移動補助",
+      "en": "Movement Support",
+      "zh_CN": "移动辅助",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "本作的驾驶员「能力」，不当作通用机战精神指令。",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "ability_008",
+      "category": "ability",
+      "ja": "補修",
+      "en": "Repair",
+      "zh_CN": "修复",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "本作的驾驶员「能力」，不当作通用机战精神指令。",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "ability_009",
+      "category": "ability",
+      "ja": "収集",
+      "en": "Collect",
+      "zh_CN": "收集",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "本作的驾驶员「能力」，不当作通用机战精神指令。 水树茜的能力提高盖塔动力单位自动EN回复，不误译成拾取物品。",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "ability_010",
+      "category": "ability",
+      "ja": "交換",
+      "en": "Swap",
+      "zh_CN": "交换",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "本作的驾驶员「能力」，不当作通用机战精神指令。 柴崎枫与友军交换位置。",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "ability_011",
+      "category": "ability",
+      "ja": "クリティカル",
+      "en": "Critical",
+      "zh_CN": "暴击",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "本作的驾驶员「能力」，不当作通用机战精神指令。",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "ability_012",
+      "category": "ability",
+      "ja": "EN回復",
+      "en": "EN Recovery",
+      "zh_CN": "EN回复",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "本作的驾驶员「能力」，不当作通用机战精神指令。",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "ability_013",
+      "category": "ability",
+      "ja": "逆境",
+      "en": "Adversity",
+      "zh_CN": "逆境",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "本作的驾驶员「能力」，不当作通用机战精神指令。",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "ability_014",
+      "category": "ability",
+      "ja": "我慢",
+      "en": "Endure",
+      "zh_CN": "忍耐",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "本作的驾驶员「能力」，不当作通用机战精神指令。",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "ability_015",
+      "category": "ability",
+      "ja": "移動溜め",
+      "en": "Movement Charge",
+      "zh_CN": "移动蓄力",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "本作的驾驶员「能力」，不当作通用机战精神指令。",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "organization_001",
+      "category": "organization",
+      "ja": "恐竜帝国",
+      "en": "Dinosaur Empire",
+      "zh_CN": "恐龙帝国",
+      "alternatives": [],
+      "status": "kanji_simplification",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "organization_002",
+      "category": "organization",
+      "ja": "百鬼帝国",
+      "en": "Hundred Demon Empire",
+      "zh_CN": "百鬼帝国",
+      "alternatives": [],
+      "status": "kanji_simplification",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "organization_003",
+      "category": "organization",
+      "ja": "昆虫軍団",
+      "en": "Insect Army",
+      "zh_CN": "昆虫军团",
+      "alternatives": [],
+      "status": "kanji_simplification",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "organization_004",
+      "category": "organization",
+      "ja": "ハチュウ人類",
+      "en": "Reptilian Humanoids",
+      "zh_CN": "爬虫人类",
+      "alternatives": [],
+      "status": "kanji_simplification",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "organization_005",
+      "category": "organization",
+      "ja": "早乙女研究所",
+      "en": "Saotome Laboratory",
+      "zh_CN": "早乙女研究所",
+      "alternatives": [],
+      "status": "kanji_simplification",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "organization_006",
+      "category": "organization",
+      "ja": "橘研究所",
+      "en": "Tachibana Laboratory",
+      "zh_CN": "橘研究所",
+      "alternatives": [],
+      "status": "kanji_simplification",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "term_001",
+      "category": "term",
+      "ja": "ゲッター線",
+      "en": "Getter Rays",
+      "zh_CN": "盖塔射线",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "term_002",
+      "category": "term",
+      "ja": "反ゲッター線",
+      "en": "Anti-Getter Rays",
+      "zh_CN": "反盖塔射线",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "term_003",
+      "category": "term",
+      "ja": "ゲッターエネルギー",
+      "en": "Getter Energy",
+      "zh_CN": "盖塔能量",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "保留GE与EN的区分；不得把所有能量字段互换。",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "term_004",
+      "category": "term",
+      "ja": "能力",
+      "en": "Ability",
+      "zh_CN": "能力",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [
+        "jp_game"
+      ],
+      "translation_sources": [],
+      "notes": "",
+      "auto_eligible": true,
+      "ja_field_verified": true
+    },
+    {
+      "id": "ui_001",
+      "category": "ui",
+      "ja": "移動",
+      "en": "Move",
+      "zh_CN": "移动",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [],
+      "translation_sources": [],
+      "notes": "界面用语约定；尚未从原盘确认该完整字段的出现。",
+      "auto_eligible": false,
+      "ja_field_verified": true
+    },
+    {
+      "id": "ui_002",
+      "category": "ui",
+      "ja": "攻撃",
+      "en": "Attack",
+      "zh_CN": "攻击",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [],
+      "translation_sources": [],
+      "notes": "界面用语约定；尚未从原盘确认该完整字段的出现。",
+      "auto_eligible": false,
+      "ja_field_verified": true
+    },
+    {
+      "id": "ui_003",
+      "category": "ui",
+      "ja": "防御",
+      "en": "Defend",
+      "zh_CN": "防御",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [],
+      "translation_sources": [],
+      "notes": "界面用语约定；尚未从原盘确认该完整字段的出现。",
+      "auto_eligible": false,
+      "ja_field_verified": true
+    },
+    {
+      "id": "ui_004",
+      "category": "ui",
+      "ja": "回避",
+      "en": "Evade",
+      "zh_CN": "回避",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [],
+      "translation_sources": [],
+      "notes": "界面用语约定；尚未从原盘确认该完整字段的出现。",
+      "auto_eligible": false,
+      "ja_field_verified": true
+    },
+    {
+      "id": "ui_005",
+      "category": "ui",
+      "ja": "待機",
+      "en": "Wait",
+      "zh_CN": "待机",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [],
+      "translation_sources": [],
+      "notes": "界面用语约定；尚未从原盘确认该完整字段的出现。",
+      "auto_eligible": false,
+      "ja_field_verified": true
+    },
+    {
+      "id": "ui_006",
+      "category": "ui",
+      "ja": "射程",
+      "en": "Range",
+      "zh_CN": "射程",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [],
+      "translation_sources": [],
+      "notes": "界面用语约定；尚未从原盘确认该完整字段的出现。",
+      "auto_eligible": false,
+      "ja_field_verified": true
+    },
+    {
+      "id": "ui_007",
+      "category": "ui",
+      "ja": "命中",
+      "en": "Hit",
+      "zh_CN": "命中",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [],
+      "translation_sources": [],
+      "notes": "界面用语约定；尚未从原盘确认该完整字段的出现。",
+      "auto_eligible": false,
+      "ja_field_verified": true
+    },
+    {
+      "id": "ui_008",
+      "category": "ui",
+      "ja": "地形",
+      "en": "Terrain",
+      "zh_CN": "地形",
+      "alternatives": [],
+      "status": "project_translation",
+      "presence_sources": [],
+      "translation_sources": [],
+      "notes": "界面用语约定；尚未从原盘确认该完整字段的出现。",
+      "auto_eligible": false,
+      "ja_field_verified": true
+    }
+  ],
+  "exact_field_map": {
+    "Ryouma Nagare": "流龙马",
+    "流竜馬": "流龙马",
+    "Hayato Jin": "神隼人",
+    "神隼人": "神隼人",
+    "Musashi Tomoe": "巴武藏",
+    "巴武蔵": "巴武藏",
+    "Tatsuhito Saotome": "早乙女达人",
+    "早乙女達人": "早乙女达人",
+    "Benkei Kuruma": "车弁庆",
+    "車弁慶": "车弁庆",
+    "Professor Saotome": "早乙女博士",
+    "早乙女博士": "早乙女博士",
+    "Gou Ichimonji": "一文字号",
+    "一文字號": "一文字号",
+    "Shou Tachibana": "橘翔",
+    "橘翔": "橘翔",
+    "Furuta": "古田",
+    "古田": "古田",
+    "Professor Tachibana": "橘博士",
+    "橘博士": "橘博士",
+    "Akane Mizuki": "水树茜",
+    "水樹茜": "水树茜",
+    "Tsubaki Akiyama": "秋山椿",
+    "秋山椿": "秋山椿",
+    "Kaede Shibasaki": "柴崎枫",
+    "柴崎楓": "柴崎枫",
+    "Shinichi Tachibana": "橘信一",
+    "橘信一": "橘信一",
+    "Ryuji": "龙二",
+    "竜二": "龙二",
+    "Captain Texas": "得克萨斯舰长",
+    "テキサス艦長": "得克萨斯舰长",
+    "Emperor Gore": "地底魔王高尔",
+    "地底魔王ゴール": "地底魔王高尔",
+    "General Bat": "巴特将军",
+    "バット将軍": "巴特将军",
+    "Captain Nion": "尼昂队长",
+    "キャプテン・ニオン": "尼昂队长",
+    "Emperor Burai": "布莱大帝",
+    "ブライ大帝": "布莱大帝",
+    "Professor Rando": "兰多教授",
+    "プロフェッサーランドウ": "兰多教授",
+    "Baron Rasetsu": "罗刹男爵",
+    "ラセツ男爵": "罗刹男爵",
+    "Modified Gore": "改造高尔",
+    "改造ゴール": "改造高尔",
+    "Modified General Bat": "改造巴特将军",
+    "改造バット将軍": "改造巴特将军",
+    "Modified Burai": "改造布莱",
+    "改造ブライ": "改造布莱",
+    "Eagle": "雄鹰号",
+    "イーグル号": "雄鹰号",
+    "Jaguar": "猎豹号",
+    "ジャガー号": "猎豹号",
+    "Bear": "巨熊号",
+    "ベアー号": "巨熊号",
+    "Getter 1": "盖塔1",
+    "ゲッター1": "盖塔1",
+    "Getter 2": "盖塔2",
+    "ゲッター2": "盖塔2",
+    "Getter 3": "盖塔3",
+    "ゲッター3": "盖塔3",
+    "Getter 1+2": "盖塔1+2",
+    "ゲッター1+2": "盖塔1+2",
+    "Getter 2+3": "盖塔2+3",
+    "ゲッター2+3": "盖塔2+3",
+    "Getter 3+1": "盖塔3+1",
+    "ゲッター3+1": "盖塔3+1",
+    "Dragon": "飞龙号",
+    "ドラゴン号": "飞龙号",
+    "Liger": "狮虎号",
+    "ライガー号": "狮虎号",
+    "Poseidon": "波塞冬号",
+    "ポセイドン号": "波塞冬号",
+    "Getter Dragon": "盖塔龙",
+    "ゲッタードラゴン": "盖塔龙",
+    "Get Machine 1": "盖塔战机1",
+    "ゲットマシン１": "盖塔战机1",
+    "Get Machine 2": "盖塔战机2",
+    "ゲットマシン２": "盖塔战机2",
+    "Get Machine 3": "盖塔战机3",
+    "ゲットマシン３": "盖塔战机3",
+    "Getter Go": "盖塔号",
+    "ゲッター號": "盖塔号",
+    "Getter Sho": "盖塔翔",
+    "ゲッター翔": "盖塔翔",
+    "Super Getter Go": "超级盖塔号",
+    "スーパーゲッター號": "超级盖塔号",
+    "Shin Eagle": "真雄鹰号",
+    "真イーグル号": "真雄鹰号",
+    "Shin Jaguar": "真猎豹号",
+    "真ジャガー号": "真猎豹号",
+    "Shin Bear": "真巨熊号",
+    "真ベアー号": "真巨熊号",
+    "Shin Getter 1": "真盖塔1",
+    "真ゲッター1": "真盖塔1",
+    "Shin Getter 2": "真盖塔2",
+    "真ゲッター2": "真盖塔2",
+    "Shin Getter 3": "真盖塔3",
+    "真ゲッター3": "真盖塔3",
+    "Rekka": "烈火号",
+    "烈火号": "烈火号",
+    "Shiden": "紫电号",
+    "紫電号": "紫电号",
+    "Kongou": "金刚号",
+    "金剛号": "金刚号",
+    "Getter Rekka": "盖塔烈火",
+    "ゲッター烈火": "盖塔烈火",
+    "Getter Shiden": "盖塔紫电",
+    "ゲッター紫電": "盖塔紫电",
+    "Getter Kongou": "盖塔金刚",
+    "ゲッター金剛": "盖塔金刚",
+    "BT-23": "BT-23",
+    "Texas": "大型移动舰得克萨斯",
+    "大型移動艦テキサス": "大型移动舰得克萨斯",
+    "Getter Liger": "盖塔狮虎",
+    "ゲッターライガー": "盖塔狮虎",
+    "Getter Poseidon": "盖塔波塞冬",
+    "ゲッターポセイドン": "盖塔波塞冬",
+    "Black Getter": "黑盖塔",
+    "ブラックゲッター": "黑盖塔",
+    "Getter Emperor": "盖塔皇帝",
+    "ゲッターエンペラー": "盖塔皇帝",
+    "Shin Getter Dragon": "真盖塔龙",
+    "真ゲッタードラゴン": "真盖塔龙",
+    "Getter Cutter": "盖塔切割刃",
+    "Getter Tomahawk": "盖塔战斧",
+    "Tomahawk Boomerang": "战斧回旋镖",
+    "Getter Machinegun": "盖塔机枪",
+    "Getter Beam": "盖塔射线",
+    "Drill Arm": "钻头臂",
+    "Getter Arm": "盖塔臂",
+    "Jet Drill": "喷射钻头",
+    "Drill Storm": "钻头风暴",
+    "Getter Vision": "盖塔幻影",
+    "Getter Smash": "盖塔重击",
+    "Getter Crash": "盖塔冲撞",
+    "Getter Missile": "盖塔导弹",
+    "Daisetsuzan Oroshi": "大雪山崩落",
+    "Double Tomahawk": "双重战斧",
+    "Spin Cutter": "旋转切割刃",
+    "Magforce Thunder": "磁力雷霆",
+    "Sword Tomahawk": "剑刃战斧",
+    "String Attack": "钢索攻击",
+    "Breast Bomber": "胸部爆弹",
+    "Tornado Attack": "龙卷攻击",
+    "Harpoon Cannon": "鱼叉炮",
+    "Breast Beam": "胸部光束",
+    "Impact Cannon": "冲击炮",
+    "Shin Getter Tomahawk": "真盖塔战斧",
+    "Shin Getter Beam": "真盖塔射线",
+    "Stoner Sunshine": "闪光烈阳弹",
+    "Shin Getter Vision": "真盖塔幻影",
+    "Shin Daisetsuzan Oroshi": "真大雪山崩落",
+    "Ankoku Ranbu": "暗黑乱舞",
+    "Shin Shine Spark": "真闪光爆烈",
+    "Emperor Beam": "皇帝射线",
+    "Counterattack": "反击",
+    "反撃": "反击",
+    "Move Twice": "二次移动",
+    "2回移動": "二次移动",
+    "Self-Destruct": "自爆",
+    "自爆": "自爆",
+    "Reconnaissance": "侦察",
+    "偵察": "侦察",
+    "HP Recovery": "HP回复",
+    "HP回復": "HP回复",
+    "Revival": "复活",
+    "復活": "复活",
+    "Movement Support": "移动辅助",
+    "移動補助": "移动辅助",
+    "Repair": "修复",
+    "補修": "修复",
+    "Collect": "收集",
+    "収集": "收集",
+    "Swap": "交换",
+    "交換": "交换",
+    "Critical": "暴击",
+    "クリティカル": "暴击",
+    "EN Recovery": "EN回复",
+    "EN回復": "EN回复",
+    "Adversity": "逆境",
+    "逆境": "逆境",
+    "Endure": "忍耐",
+    "我慢": "忍耐",
+    "Movement Charge": "移动蓄力",
+    "移動溜め": "移动蓄力",
+    "Dinosaur Empire": "恐龙帝国",
+    "恐竜帝国": "恐龙帝国",
+    "Hundred Demon Empire": "百鬼帝国",
+    "百鬼帝国": "百鬼帝国",
+    "Insect Army": "昆虫军团",
+    "昆虫軍団": "昆虫军团",
+    "Reptilian Humanoids": "爬虫人类",
+    "ハチュウ人類": "爬虫人类",
+    "Saotome Laboratory": "早乙女研究所",
+    "早乙女研究所": "早乙女研究所",
+    "Tachibana Laboratory": "橘研究所",
+    "橘研究所": "橘研究所",
+    "Getter Rays": "盖塔射线",
+    "ゲッター線": "盖塔射线",
+    "Anti-Getter Rays": "反盖塔射线",
+    "反ゲッター線": "反盖塔射线",
+    "Getter Energy": "盖塔能量",
+    "ゲッターエネルギー": "盖塔能量",
+    "Ability": "能力",
+    "能力": "能力"
+  },
+  "protected_tokens": [
+    "BT-23",
+    "α04",
+    "T520",
+    "007",
+    "H24",
+    "80000",
+    "HP",
+    "EN",
+    "GE"
+  ],
+  "counts": {
+    "entries": 150,
+    "by_category": {
+      "character": 38,
+      "unit": 47,
+      "weapon": 32,
+      "ability": 15,
+      "organization": 6,
+      "term": 4,
+      "ui": 8
+    },
+    "by_status": {
+      "provisional": 22,
+      "licensed_cn_usage": 12,
+      "common_zh": 5,
+      "kanji_simplification": 14,
+      "project_translation": 97
+    },
+    "auto_eligible_entries": 120,
+    "exact_field_aliases": 207
+  }
+}

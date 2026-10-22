@@ -1,0 +1,3541 @@
+{
+  "scope": "Exact complete core weapon_name/unit_name fields only. Not blind prose substring replacement.",
+  "weapons": 213,
+  "units": 102,
+  "entries": 315,
+  "project_translation_notice": "Additional weapon labels are concise project literal translations. Enemy/unit transliterations flagged provisional; not claimed as official Chinese names.",
+  "entries_audit": [
+    {
+      "ja": "小型ミサイル",
+      "zh_CN": "小型导弹",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:002EF4",
+        "SLPS_022.32:003F68"
+      ]
+    },
+    {
+      "ja": "小型ジャガーミサイル",
+      "zh_CN": "猎豹号小型导弹",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:002F28"
+      ]
+    },
+    {
+      "ja": "大型ミサイル",
+      "zh_CN": "大型导弹",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:002F5C",
+        "SLPS_022.32:003408",
+        "SLPS_022.32:004FDC",
+        "SLPS_022.32:005488"
+      ]
+    },
+    {
+      "ja": "ゲッターカッター",
+      "zh_CN": "盖塔切割刃",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "weapon_001",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:002F90"
+      ]
+    },
+    {
+      "ja": "ゲッタートマホーク",
+      "zh_CN": "盖塔战斧",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "weapon_002",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:002FC4",
+        "SLPS_022.32:003268",
+        "SLPS_022.32:004240",
+        "SLPS_022.32:005044"
+      ]
+    },
+    {
+      "ja": "トマホークブーメラン",
+      "zh_CN": "战斧回旋镖",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "weapon_003",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:002FF8",
+        "SLPS_022.32:00329C",
+        "SLPS_022.32:005010"
+      ]
+    },
+    {
+      "ja": "ゲッターマシンガン",
+      "zh_CN": "盖塔机枪",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "weapon_004",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:00302C"
+      ]
+    },
+    {
+      "ja": "ゲッタービーム",
+      "zh_CN": "盖塔射线",
+      "kind": "weapon_name",
+      "status": "licensed_cn_usage",
+      "origin": "weapon_005",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:003060",
+        "SLPS_022.32:00350C",
+        "SLPS_022.32:004310",
+        "SLPS_022.32:005078"
+      ]
+    },
+    {
+      "ja": "ドリルアーム",
+      "zh_CN": "钻头臂",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "weapon_006",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:003094",
+        "SLPS_022.32:0032D0",
+        "SLPS_022.32:003574",
+        "SLPS_022.32:0050E0"
+      ]
+    },
+    {
+      "ja": "ゲッターアーム",
+      "zh_CN": "盖塔臂",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "weapon_007",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0030C8"
+      ]
+    },
+    {
+      "ja": "ジェットドリル",
+      "zh_CN": "喷射钻头",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "weapon_008",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0030FC",
+        "SLPS_022.32:003304",
+        "SLPS_022.32:0050AC"
+      ]
+    },
+    {
+      "ja": "ドリルストーム",
+      "zh_CN": "钻头风暴",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "weapon_009",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:003130"
+      ]
+    },
+    {
+      "ja": "ゲッタービジョン",
+      "zh_CN": "盖塔幻影",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "weapon_010",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:003164"
+      ]
+    },
+    {
+      "ja": "ゲッタースマッシュ",
+      "zh_CN": "盖塔重击",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "weapon_011",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:003198",
+        "SLPS_022.32:005148"
+      ]
+    },
+    {
+      "ja": "ゲッタークラッシュ",
+      "zh_CN": "盖塔冲撞",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "weapon_012",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0031CC",
+        "SLPS_022.32:00517C"
+      ]
+    },
+    {
+      "ja": "ゲッターミサイル",
+      "zh_CN": "盖塔导弹",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "weapon_013",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:003200",
+        "SLPS_022.32:005114"
+      ]
+    },
+    {
+      "ja": "大雪山おろし",
+      "zh_CN": "大雪山崩落",
+      "kind": "weapon_name",
+      "status": "common_zh",
+      "origin": "weapon_014",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:003234"
+      ]
+    },
+    {
+      "ja": "ゲッタースピンナックル",
+      "zh_CN": "盖塔旋转拳",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:003338"
+      ]
+    },
+    {
+      "ja": "ゲッタージャンピングブレス",
+      "zh_CN": "盖塔跳跃压杀",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:00336C"
+      ],
+      "review_note": "Literal disc spelling is ブレス; jump-press interpretation needs animation confirmation."
+    },
+    {
+      "ja": "バルカン",
+      "zh_CN": "火神炮",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0033A0",
+        "SLPS_022.32:003714",
+        "SLPS_022.32:003748",
+        "SLPS_022.32:0044B0"
+      ]
+    },
+    {
+      "ja": "レーザー",
+      "zh_CN": "激光",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0033D4"
+      ]
+    },
+    {
+      "ja": "ダブルトマホーク",
+      "zh_CN": "双重战斧",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "weapon_015",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:00343C"
+      ]
+    },
+    {
+      "ja": "スピンカッター",
+      "zh_CN": "旋转切割刃",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "weapon_016",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:003470"
+      ]
+    },
+    {
+      "ja": "ダブルトマホークブーメラン",
+      "zh_CN": "双重战斧回旋镖",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0034A4"
+      ]
+    },
+    {
+      "ja": "ゲッタービームランチャー",
+      "zh_CN": "盖塔射线发射器",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0034D8"
+      ]
+    },
+    {
+      "ja": "シャインスパーク",
+      "zh_CN": "闪光爆烈",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:003540"
+      ]
+    },
+    {
+      "ja": "チェーンアタック",
+      "zh_CN": "锁链攻击",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0035A8"
+      ]
+    },
+    {
+      "ja": "ライガーミサイル",
+      "zh_CN": "狮虎导弹",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0035DC"
+      ]
+    },
+    {
+      "ja": "マッハスペシャル",
+      "zh_CN": "马赫幻影",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:003610"
+      ]
+    },
+    {
+      "ja": "バーストアタック",
+      "zh_CN": "爆裂攻击",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:003644"
+      ]
+    },
+    {
+      "ja": "ストロングミサイル",
+      "zh_CN": "强力导弹",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:003678"
+      ]
+    },
+    {
+      "ja": "フィンガーネット",
+      "zh_CN": "手指捕网",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0036AC"
+      ]
+    },
+    {
+      "ja": "ゲッターサイクロン",
+      "zh_CN": "盖塔旋风",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0036E0"
+      ]
+    },
+    {
+      "ja": "ミサイル",
+      "zh_CN": "导弹",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:00377C",
+        "SLPS_022.32:004C68"
+      ]
+    },
+    {
+      "ja": "ナックルボンバー",
+      "zh_CN": "拳击爆弹",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0037B0",
+        "SLPS_022.32:003880"
+      ]
+    },
+    {
+      "ja": "レッグブレード",
+      "zh_CN": "腿部刀刃",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0037E4",
+        "SLPS_022.32:0038B4"
+      ]
+    },
+    {
+      "ja": "ハンディミサイルキャノン",
+      "zh_CN": "手持导弹炮",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:003818",
+        "SLPS_022.32:0038E8"
+      ]
+    },
+    {
+      "ja": "マグフォースサンダー",
+      "zh_CN": "磁力雷霆",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "weapon_017",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:00384C",
+        "SLPS_022.32:00391C"
+      ]
+    },
+    {
+      "ja": "ソードトマホーク",
+      "zh_CN": "剑刃战斧",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "weapon_018",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:003950"
+      ]
+    },
+    {
+      "ja": "ストリングアタック",
+      "zh_CN": "钢索攻击",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "weapon_019",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:003984"
+      ]
+    },
+    {
+      "ja": "ブレストボンバー",
+      "zh_CN": "胸部爆弹",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "weapon_020",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0039B8"
+      ]
+    },
+    {
+      "ja": "トルネードアタック",
+      "zh_CN": "龙卷攻击",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "weapon_021",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0039EC"
+      ]
+    },
+    {
+      "ja": "ハーブンキャノン",
+      "zh_CN": "鱼叉炮",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:003A20"
+      ],
+      "review_note": "Disc spelling differs from standardized ハープーンキャノン; identity interpreted as harpoon cannon."
+    },
+    {
+      "ja": "インパクトキャノン",
+      "zh_CN": "冲击炮",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "weapon_024",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:003A54"
+      ]
+    },
+    {
+      "ja": "ブレストビーム",
+      "zh_CN": "胸部光束",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "weapon_023",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:003A88"
+      ]
+    },
+    {
+      "ja": "スピントルネードアタック",
+      "zh_CN": "旋转龙卷攻击",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:003ABC"
+      ]
+    },
+    {
+      "ja": "直線ビーム",
+      "zh_CN": "直线光束",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:003AF0"
+      ]
+    },
+    {
+      "ja": "拡散ビーム",
+      "zh_CN": "扩散光束",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:003B24"
+      ]
+    },
+    {
+      "ja": "誘導ミサイル",
+      "zh_CN": "制导导弹",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:003B58"
+      ]
+    },
+    {
+      "ja": "真ゲッタートマホーク",
+      "zh_CN": "真盖塔战斧",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "weapon_025",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:003B8C",
+        "SLPS_022.32:003C5C"
+      ]
+    },
+    {
+      "ja": "スプリットビーム",
+      "zh_CN": "分裂光束",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:003BC0",
+        "SLPS_022.32:003C90"
+      ]
+    },
+    {
+      "ja": "真ゲッタービーム",
+      "zh_CN": "真盖塔射线",
+      "kind": "weapon_name",
+      "status": "licensed_cn_usage",
+      "origin": "weapon_026",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:003BF4",
+        "SLPS_022.32:003CC4"
+      ]
+    },
+    {
+      "ja": "ストナーサンシャイン",
+      "zh_CN": "闪光烈阳弹",
+      "kind": "weapon_name",
+      "status": "licensed_cn_usage",
+      "origin": "weapon_027",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:003C28",
+        "SLPS_022.32:003CF8"
+      ]
+    },
+    {
+      "ja": "真ゲッタードリル",
+      "zh_CN": "真盖塔钻头",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:003D2C"
+      ]
+    },
+    {
+      "ja": "真シザーアーム",
+      "zh_CN": "真剪刀臂",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:003D60"
+      ]
+    },
+    {
+      "ja": "真ドリルシェイカー",
+      "zh_CN": "真钻头震击",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:003D94"
+      ]
+    },
+    {
+      "ja": "ドリルハリケーン",
+      "zh_CN": "钻头飓风",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:003DC8"
+      ]
+    },
+    {
+      "ja": "真ゲッタービジョン",
+      "zh_CN": "真盖塔幻影",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "weapon_028",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:003DFC"
+      ]
+    },
+    {
+      "ja": "真ゲッターブロウ",
+      "zh_CN": "真盖塔重拳",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:003E30"
+      ]
+    },
+    {
+      "ja": "真ゲッタークラッシュ",
+      "zh_CN": "真盖塔冲撞",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:003E64"
+      ]
+    },
+    {
+      "ja": "ミサイルストーム",
+      "zh_CN": "导弹风暴",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:003E98"
+      ]
+    },
+    {
+      "ja": "真大雪山おろし",
+      "zh_CN": "真大雪山崩落",
+      "kind": "weapon_name",
+      "status": "common_zh",
+      "origin": "weapon_029",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:003ECC"
+      ]
+    },
+    {
+      "ja": "小型バルカン",
+      "zh_CN": "小型火神炮",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:003F00",
+        "SLPS_022.32:003F34"
+      ]
+    },
+    {
+      "ja": "火斬刀",
+      "zh_CN": "火斩刀",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:003F9C"
+      ]
+    },
+    {
+      "ja": "花乱舞",
+      "zh_CN": "花乱舞",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:003FD0"
+      ]
+    },
+    {
+      "ja": "二刀花乱舞",
+      "zh_CN": "二刀花乱舞",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004004"
+      ]
+    },
+    {
+      "ja": "合わせ風車",
+      "zh_CN": "合击风车",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004038"
+      ]
+    },
+    {
+      "ja": "斬魔光",
+      "zh_CN": "斩魔光",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:00406C"
+      ]
+    },
+    {
+      "ja": "千極針",
+      "zh_CN": "千极针",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0040A0"
+      ]
+    },
+    {
+      "ja": "疾風針",
+      "zh_CN": "疾风针",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0040D4"
+      ]
+    },
+    {
+      "ja": "蛇旋光",
+      "zh_CN": "蛇旋光",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004108"
+      ]
+    },
+    {
+      "ja": "ゲッター影分身",
+      "zh_CN": "盖塔影分身",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:00413C"
+      ]
+    },
+    {
+      "ja": "突撃",
+      "zh_CN": "突击",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004170"
+      ]
+    },
+    {
+      "ja": "破岩掌",
+      "zh_CN": "破岩掌",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0041A4"
+      ]
+    },
+    {
+      "ja": "大刃手裏剣",
+      "zh_CN": "大刃手里剑",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0041D8"
+      ]
+    },
+    {
+      "ja": "修羅爆雷",
+      "zh_CN": "修罗爆雷",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:00420C"
+      ]
+    },
+    {
+      "ja": "ドリルロックバスター",
+      "zh_CN": "钻头破岩击",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004274"
+      ]
+    },
+    {
+      "ja": "アームガン",
+      "zh_CN": "臂炮",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0042A8"
+      ]
+    },
+    {
+      "ja": "暗黒乱舞",
+      "zh_CN": "暗黑乱舞",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "weapon_030",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0042DC"
+      ]
+    },
+    {
+      "ja": "真ドリルアーム",
+      "zh_CN": "真钻头臂",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004344"
+      ]
+    },
+    {
+      "ja": "真トマホークブーメラン",
+      "zh_CN": "真战斧回旋镖",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004378"
+      ]
+    },
+    {
+      "ja": "真ストロングミサイル",
+      "zh_CN": "真强力导弹",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0043AC"
+      ]
+    },
+    {
+      "ja": "真ゲッタービームランチャー",
+      "zh_CN": "真盖塔射线发射器",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0043E0"
+      ]
+    },
+    {
+      "ja": "真シャインスパーク",
+      "zh_CN": "真闪光爆烈",
+      "kind": "weapon_name",
+      "status": "common_zh",
+      "origin": "weapon_031",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004414"
+      ]
+    },
+    {
+      "ja": "消音バルカン",
+      "zh_CN": "消音火神炮",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004448"
+      ]
+    },
+    {
+      "ja": "ドリルアタック",
+      "zh_CN": "钻头攻击",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:00447C"
+      ]
+    },
+    {
+      "ja": "ハンドカッター",
+      "zh_CN": "手部切割刃",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0044E4"
+      ]
+    },
+    {
+      "ja": "ブーメランウイング",
+      "zh_CN": "飞翼回旋镖",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004518"
+      ]
+    },
+    {
+      "ja": "ＳＴブラスター",
+      "zh_CN": "ST爆破炮",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:00454C"
+      ]
+    },
+    {
+      "ja": "ブラストサクセション",
+      "zh_CN": "连环爆破",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004580"
+      ]
+    },
+    {
+      "ja": "ストライクアームド",
+      "zh_CN": "强袭武装",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0045B4"
+      ]
+    },
+    {
+      "ja": "拡散ミサイル",
+      "zh_CN": "扩散导弹",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0045E8"
+      ]
+    },
+    {
+      "ja": "超ウエポン砲",
+      "zh_CN": "超级武器炮",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:00461C"
+      ]
+    },
+    {
+      "ja": "ヘビープレス",
+      "zh_CN": "重压攻击",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004650"
+      ]
+    },
+    {
+      "ja": "３連ミサイル",
+      "zh_CN": "三连导弹",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004684"
+      ]
+    },
+    {
+      "ja": "ダブルキャノン",
+      "zh_CN": "双管炮",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0046B8"
+      ]
+    },
+    {
+      "ja": "スーパーヘビープレス",
+      "zh_CN": "超级重压攻击",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0046EC"
+      ]
+    },
+    {
+      "ja": "スタンサーベル(陸戦用)",
+      "zh_CN": "电击军刀(陆战)",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004720"
+      ]
+    },
+    {
+      "ja": "スタンサーベル(空戦用)",
+      "zh_CN": "电击军刀(空战)",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004754"
+      ]
+    },
+    {
+      "ja": "追尾魚雷",
+      "zh_CN": "追踪鱼雷",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004788"
+      ]
+    },
+    {
+      "ja": "潜水艦援護",
+      "zh_CN": "潜艇援护",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0047BC"
+      ]
+    },
+    {
+      "ja": "ヒートロッド",
+      "zh_CN": "热能鞭",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0047F0"
+      ]
+    },
+    {
+      "ja": "拡散地雷",
+      "zh_CN": "扩散地雷",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004824"
+      ]
+    },
+    {
+      "ja": "大型速射砲",
+      "zh_CN": "大型速射炮",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004858"
+      ]
+    },
+    {
+      "ja": "リモートコンビネーション",
+      "zh_CN": "遥控合击",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:00488C"
+      ]
+    },
+    {
+      "ja": "テキサスブレード",
+      "zh_CN": "得克萨斯刀",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0048C0"
+      ]
+    },
+    {
+      "ja": "テキサスライフル",
+      "zh_CN": "得克萨斯步枪",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0048F4"
+      ]
+    },
+    {
+      "ja": "テキサスマグナム４４４",
+      "zh_CN": "得克萨斯马格南444",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004928"
+      ]
+    },
+    {
+      "ja": "ハットマシンアタック",
+      "zh_CN": "帽子战机攻击",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:00495C"
+      ]
+    },
+    {
+      "ja": "ソルトガン",
+      "zh_CN": "盐弹枪",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:004990"
+      ],
+      "review_note": "Salt-gun interpretation is provisional; weapon animation/reference needs review."
+    },
+    {
+      "ja": "オーバーブースト",
+      "zh_CN": "超限推进",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0049C4"
+      ]
+    },
+    {
+      "ja": "対地レーザー",
+      "zh_CN": "对地激光",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0049F8"
+      ]
+    },
+    {
+      "ja": "ドーヴァー砲",
+      "zh_CN": "多佛炮",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004A2C"
+      ]
+    },
+    {
+      "ja": "エンペラービーム",
+      "zh_CN": "皇帝射线",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "weapon_032",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004A60"
+      ]
+    },
+    {
+      "ja": "回転ノコブーメラン",
+      "zh_CN": "旋转锯回旋镖",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004A94"
+      ]
+    },
+    {
+      "ja": "背鰭カッター",
+      "zh_CN": "背鳍切割刃",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004AC8"
+      ]
+    },
+    {
+      "ja": "角ブーメラン",
+      "zh_CN": "角回旋镖",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004AFC"
+      ]
+    },
+    {
+      "ja": "角突進",
+      "zh_CN": "尖角冲锋",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004B30"
+      ]
+    },
+    {
+      "ja": "アローミサイル",
+      "zh_CN": "箭式导弹",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004B64"
+      ]
+    },
+    {
+      "ja": "飛び付き",
+      "zh_CN": "飞扑",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004B98"
+      ]
+    },
+    {
+      "ja": "真空竜巻投げ",
+      "zh_CN": "真空龙卷摔",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004BCC"
+      ]
+    },
+    {
+      "ja": "張り付けドリル",
+      "zh_CN": "贴身钻头",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004C00"
+      ]
+    },
+    {
+      "ja": "地中魚雷突進",
+      "zh_CN": "地中鱼雷冲击",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004C34"
+      ]
+    },
+    {
+      "ja": "コウモリ人間発射",
+      "zh_CN": "蝙蝠人发射",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004C9C"
+      ]
+    },
+    {
+      "ja": "噛み付き",
+      "zh_CN": "撕咬",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004CD0",
+        "SLPS_022.32:005DE0"
+      ]
+    },
+    {
+      "ja": "大型誘導ミサイル",
+      "zh_CN": "大型制导导弹",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004D04"
+      ]
+    },
+    {
+      "ja": "バインティングフット",
+      "zh_CN": "束缚足",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:004D38"
+      ],
+      "review_note": "Disc spelling differs from normal バインディング; binding-foot interpretation."
+    },
+    {
+      "ja": "スクラッチクライム",
+      "zh_CN": "攀附爪击",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004D6C"
+      ]
+    },
+    {
+      "ja": "竜巻真空斬り",
+      "zh_CN": "龙卷真空斩",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004DA0"
+      ]
+    },
+    {
+      "ja": "竜巻突進",
+      "zh_CN": "龙卷冲锋",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004DD4"
+      ]
+    },
+    {
+      "ja": "竜巻投げ",
+      "zh_CN": "龙卷摔",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004E08"
+      ]
+    },
+    {
+      "ja": "コブラ毒",
+      "zh_CN": "眼镜蛇毒",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004E3C"
+      ]
+    },
+    {
+      "ja": "雷吠え",
+      "zh_CN": "雷吼",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004E70"
+      ]
+    },
+    {
+      "ja": "角すくい刺し",
+      "zh_CN": "挑角刺击",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004EA4"
+      ]
+    },
+    {
+      "ja": "拡散溶解電撃",
+      "zh_CN": "扩散溶解电击",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004ED8"
+      ]
+    },
+    {
+      "ja": "爪水平チョップ",
+      "zh_CN": "横向爪劈",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004F0C"
+      ]
+    },
+    {
+      "ja": "電撃",
+      "zh_CN": "电击",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004F40"
+      ]
+    },
+    {
+      "ja": "触手",
+      "zh_CN": "触手",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004F74"
+      ]
+    },
+    {
+      "ja": "ハリケーン",
+      "zh_CN": "飓风",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:004FA8"
+      ]
+    },
+    {
+      "ja": "砲撃",
+      "zh_CN": "炮击",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0051B0",
+        "SLPS_022.32:005864"
+      ]
+    },
+    {
+      "ja": "小型戦闘機発進",
+      "zh_CN": "小型战机出击",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0051E4"
+      ]
+    },
+    {
+      "ja": "プラズマ火球",
+      "zh_CN": "等离子火球",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:005218"
+      ]
+    },
+    {
+      "ja": "エアカッター",
+      "zh_CN": "空气切割刃",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:00524C"
+      ]
+    },
+    {
+      "ja": "ウイングカッター",
+      "zh_CN": "飞翼切割刃",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:005280"
+      ]
+    },
+    {
+      "ja": "角ビーム",
+      "zh_CN": "角光束",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0052B4"
+      ]
+    },
+    {
+      "ja": "シザーハンド",
+      "zh_CN": "剪刀手",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0052E8"
+      ]
+    },
+    {
+      "ja": "触手プレス",
+      "zh_CN": "触手压击",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:00531C"
+      ]
+    },
+    {
+      "ja": "飛び上がり",
+      "zh_CN": "飞跃",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:005350"
+      ]
+    },
+    {
+      "ja": "飛行魚雷",
+      "zh_CN": "飞行鱼雷",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:005384"
+      ]
+    },
+    {
+      "ja": "念動力",
+      "zh_CN": "念动力",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0053B8"
+      ]
+    },
+    {
+      "ja": "釜カッター１",
+      "zh_CN": "镰式切割刃1",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:0053EC"
+      ],
+      "review_note": "Disc has 釜 rather than 鎌; sickle interpretation needs weapon animation review."
+    },
+    {
+      "ja": "釜カッター２",
+      "zh_CN": "镰式切割刃2",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:005420"
+      ],
+      "review_note": "Disc has 釜 rather than 鎌; sickle interpretation needs weapon animation review."
+    },
+    {
+      "ja": "釜カッター３",
+      "zh_CN": "镰式切割刃3",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:005454"
+      ],
+      "review_note": "Disc has 釜 rather than 鎌; sickle interpretation needs weapon animation review."
+    },
+    {
+      "ja": "誘導円盤カッター",
+      "zh_CN": "制导圆盘切割刃",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0054BC"
+      ]
+    },
+    {
+      "ja": "円盤カッター斬り",
+      "zh_CN": "圆盘切割斩",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0054F0"
+      ]
+    },
+    {
+      "ja": "十方剣",
+      "zh_CN": "十方剑",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:005524"
+      ]
+    },
+    {
+      "ja": "ベルトサーベル",
+      "zh_CN": "腰带军刀",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:005558"
+      ]
+    },
+    {
+      "ja": "二刀連続突き",
+      "zh_CN": "双刀连续突刺",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:00558C"
+      ]
+    },
+    {
+      "ja": "ウザーラアイビーム",
+      "zh_CN": "乌扎拉眼部光束",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0055C0",
+        "SLPS_022.32:005BA4"
+      ]
+    },
+    {
+      "ja": "ウザーラヘッドビーム",
+      "zh_CN": "乌扎拉头部光束",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0055F4",
+        "SLPS_022.32:005BD8"
+      ]
+    },
+    {
+      "ja": "重力遮断ビーム",
+      "zh_CN": "重力阻断光束",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:005628",
+        "SLPS_022.32:005C0C"
+      ]
+    },
+    {
+      "ja": "チェーンニードル",
+      "zh_CN": "锁链针",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:00565C"
+      ]
+    },
+    {
+      "ja": "ブリックボム",
+      "zh_CN": "砖块炸弹",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:005690"
+      ]
+    },
+    {
+      "ja": "アイアントマホーク",
+      "zh_CN": "钢铁战斧",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0056C4"
+      ]
+    },
+    {
+      "ja": "火炎放射",
+      "zh_CN": "火焰喷射",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0056F8"
+      ]
+    },
+    {
+      "ja": "角ホーミングミサイル",
+      "zh_CN": "角式追踪导弹",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:00572C"
+      ]
+    },
+    {
+      "ja": "雷",
+      "zh_CN": "雷击",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:005760"
+      ]
+    },
+    {
+      "ja": "パーツアタック",
+      "zh_CN": "部件攻击",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:005794"
+      ]
+    },
+    {
+      "ja": "マウントパンチ",
+      "zh_CN": "骑乘重拳",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0057C8"
+      ]
+    },
+    {
+      "ja": "突風砲",
+      "zh_CN": "阵风炮",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0057FC"
+      ]
+    },
+    {
+      "ja": "連続爪刺し",
+      "zh_CN": "连续爪刺",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:005830"
+      ]
+    },
+    {
+      "ja": "毒針",
+      "zh_CN": "毒针",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:005898"
+      ]
+    },
+    {
+      "ja": "回転アタック",
+      "zh_CN": "旋转攻击",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0058CC"
+      ]
+    },
+    {
+      "ja": "腕噛み付き",
+      "zh_CN": "臂部撕咬",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:005900"
+      ]
+    },
+    {
+      "ja": "ドロップキック",
+      "zh_CN": "飞踢",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:005934"
+      ]
+    },
+    {
+      "ja": "アームハンマー",
+      "zh_CN": "臂锤",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:005968"
+      ]
+    },
+    {
+      "ja": "溶解液",
+      "zh_CN": "溶解液",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:00599C"
+      ]
+    },
+    {
+      "ja": "ハサミアタック",
+      "zh_CN": "巨钳攻击",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0059D0"
+      ]
+    },
+    {
+      "ja": "小型２連レーザー",
+      "zh_CN": "小型双联激光",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:005A04"
+      ]
+    },
+    {
+      "ja": "衛星サイトビーム",
+      "zh_CN": "卫星瞄准光束",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:005A38",
+        "SLPS_022.32:005AD4"
+      ],
+      "review_note": "Site/sight transliteration interpreted as satellite targeting beam."
+    },
+    {
+      "ja": "幻覚波",
+      "zh_CN": "幻觉波",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:005A6C"
+      ]
+    },
+    {
+      "ja": "亜空間宇宙",
+      "zh_CN": "亚空间宇宙",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:005AA0"
+      ]
+    },
+    {
+      "ja": "赤眼光",
+      "zh_CN": "赤眼光",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:005B08"
+      ]
+    },
+    {
+      "ja": "残舞剣",
+      "zh_CN": "残舞剑",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:005B3C"
+      ]
+    },
+    {
+      "ja": "居合い斬り",
+      "zh_CN": "居合斩",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:005B70"
+      ]
+    },
+    {
+      "ja": "大型長距離砲",
+      "zh_CN": "大型远程炮",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:005C40"
+      ]
+    },
+    {
+      "ja": "マグマ触手",
+      "zh_CN": "岩浆触手",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:005C74"
+      ]
+    },
+    {
+      "ja": "マグマ砲",
+      "zh_CN": "岩浆炮",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:005CA8"
+      ]
+    },
+    {
+      "ja": "スキャットレーザー",
+      "zh_CN": "散射激光",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:005CDC"
+      ],
+      "review_note": "Interpreted as scatter laser; project wording, not verified official naming."
+    },
+    {
+      "ja": "ＭＳＤＩ",
+      "zh_CN": "MSDI",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:005D10"
+      ]
+    },
+    {
+      "ja": "超音波",
+      "zh_CN": "超声波",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:005D44"
+      ]
+    },
+    {
+      "ja": "斬り",
+      "zh_CN": "斩击",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:005D78"
+      ]
+    },
+    {
+      "ja": "蟻酸",
+      "zh_CN": "蚁酸",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:005DAC",
+        "SLPS_022.32:005E14"
+      ]
+    },
+    {
+      "ja": "足場崩し",
+      "zh_CN": "立足点破坏",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:005E48"
+      ]
+    },
+    {
+      "ja": "千本針",
+      "zh_CN": "千本针",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:005E7C"
+      ]
+    },
+    {
+      "ja": "針突進",
+      "zh_CN": "针刺冲锋",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:005EB0"
+      ]
+    },
+    {
+      "ja": "身投げ",
+      "zh_CN": "舍身撞击",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:005EE4"
+      ]
+    },
+    {
+      "ja": "突き刺し",
+      "zh_CN": "突刺",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:005F18"
+      ]
+    },
+    {
+      "ja": "顎投げ",
+      "zh_CN": "巨颚摔",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:005F4C"
+      ]
+    },
+    {
+      "ja": "亜空ノ玉",
+      "zh_CN": "亚空间之玉",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:005F80"
+      ]
+    },
+    {
+      "ja": "暗黒物質",
+      "zh_CN": "暗黑物质",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:005FB4"
+      ]
+    },
+    {
+      "ja": "産卵",
+      "zh_CN": "产卵",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:005FE8"
+      ]
+    },
+    {
+      "ja": "空間飛翔",
+      "zh_CN": "空间飞翔",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:00601C"
+      ]
+    },
+    {
+      "ja": "宇宙光",
+      "zh_CN": "宇宙光",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:006050"
+      ]
+    },
+    {
+      "ja": "偵察（レベル１）",
+      "zh_CN": "侦察(等级1)",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:006120"
+      ]
+    },
+    {
+      "ja": "偵察（レベル２）",
+      "zh_CN": "侦察(等级2)",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:006154"
+      ]
+    },
+    {
+      "ja": "偵察（レベル３）",
+      "zh_CN": "侦察(等级3)",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:006188"
+      ]
+    },
+    {
+      "ja": "自爆（レベル１）",
+      "zh_CN": "自爆(等级1)",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0061BC"
+      ]
+    },
+    {
+      "ja": "自爆（レベル２）",
+      "zh_CN": "自爆(等级2)",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0061F0"
+      ]
+    },
+    {
+      "ja": "自爆（レベル３）",
+      "zh_CN": "自爆(等级3)",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:006224"
+      ]
+    },
+    {
+      "ja": "レベル１",
+      "zh_CN": "等级1",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:006258",
+        "SLPS_022.32:0062F4"
+      ]
+    },
+    {
+      "ja": "レベル２",
+      "zh_CN": "等级2",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:00628C",
+        "SLPS_022.32:006328"
+      ]
+    },
+    {
+      "ja": "レベル３",
+      "zh_CN": "等级3",
+      "kind": "weapon_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0062C0",
+        "SLPS_022.32:00635C"
+      ]
+    },
+    {
+      "ja": "ゲッター１",
+      "zh_CN": "盖塔1",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "unit_004",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0063A8"
+      ]
+    },
+    {
+      "ja": "ゲッター２",
+      "zh_CN": "盖塔2",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "unit_005",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0063E2"
+      ]
+    },
+    {
+      "ja": "ゲッター３",
+      "zh_CN": "盖塔3",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "unit_006",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:00641C"
+      ]
+    },
+    {
+      "ja": "イーグル号",
+      "zh_CN": "雄鹰号",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "unit_001",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:006456"
+      ]
+    },
+    {
+      "ja": "ジャガー号",
+      "zh_CN": "猎豹号",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "unit_002",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:006490"
+      ]
+    },
+    {
+      "ja": "ベアー号",
+      "zh_CN": "巨熊号",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "unit_003",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0064CA"
+      ]
+    },
+    {
+      "ja": "ゲッター１・２",
+      "zh_CN": "盖塔1·2",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:006504"
+      ]
+    },
+    {
+      "ja": "ゲッター２・３",
+      "zh_CN": "盖塔2·3",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:00653E"
+      ]
+    },
+    {
+      "ja": "ゲッター３・１",
+      "zh_CN": "盖塔3·1",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:006578"
+      ]
+    },
+    {
+      "ja": "ゲッタードラゴン",
+      "zh_CN": "盖塔龙",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "unit_013",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0065B2"
+      ]
+    },
+    {
+      "ja": "ゲッターライガー",
+      "zh_CN": "盖塔狮虎",
+      "kind": "unit_name",
+      "status": "common_zh",
+      "origin": "unit_041",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0065EC"
+      ]
+    },
+    {
+      "ja": "ゲッターポセイドン",
+      "zh_CN": "盖塔波塞冬",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "unit_042",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:006626"
+      ]
+    },
+    {
+      "ja": "ドラゴン号",
+      "zh_CN": "飞龙号",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "unit_010",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:006660"
+      ]
+    },
+    {
+      "ja": "ライガー号",
+      "zh_CN": "狮虎号",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "unit_011",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:00669A"
+      ]
+    },
+    {
+      "ja": "ポセイドン号",
+      "zh_CN": "波塞冬号",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "unit_012",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0066D4"
+      ]
+    },
+    {
+      "ja": "ゲッター號",
+      "zh_CN": "盖塔号",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "unit_017",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:00670E"
+      ]
+    },
+    {
+      "ja": "ゲッター翔",
+      "zh_CN": "盖塔翔",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "unit_018",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:006748"
+      ]
+    },
+    {
+      "ja": "ゲッター凱",
+      "zh_CN": "盖塔凯",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:006782"
+      ]
+    },
+    {
+      "ja": "ゲットマシン１",
+      "zh_CN": "盖塔战机1",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "unit_014",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0067BC"
+      ]
+    },
+    {
+      "ja": "ゲットマシン２",
+      "zh_CN": "盖塔战机2",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "unit_015",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0067F6"
+      ]
+    },
+    {
+      "ja": "ゲットマシン３",
+      "zh_CN": "盖塔战机3",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "unit_016",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:006830"
+      ]
+    },
+    {
+      "ja": "真ゲッター１",
+      "zh_CN": "真盖塔1",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "unit_023",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:00686A",
+        "SLPS_022.32:007A8A"
+      ]
+    },
+    {
+      "ja": "真ゲッター２",
+      "zh_CN": "真盖塔2",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "unit_024",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0068A4"
+      ]
+    },
+    {
+      "ja": "真ゲッター３",
+      "zh_CN": "真盖塔3",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "unit_025",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0068DE"
+      ]
+    },
+    {
+      "ja": "真イーグル号",
+      "zh_CN": "真雄鹰号",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "unit_020",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:006918"
+      ]
+    },
+    {
+      "ja": "真ジャガー号",
+      "zh_CN": "真猎豹号",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "unit_021",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:006952"
+      ]
+    },
+    {
+      "ja": "真ベアー号",
+      "zh_CN": "真巨熊号",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "unit_022",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:00698C"
+      ]
+    },
+    {
+      "ja": "真ゲッタードラゴン",
+      "zh_CN": "真盖塔龙",
+      "kind": "unit_name",
+      "status": "licensed_cn_usage",
+      "origin": "unit_046",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0069C6"
+      ]
+    },
+    {
+      "ja": "ブラックゲッター",
+      "zh_CN": "黑盖塔",
+      "kind": "unit_name",
+      "status": "licensed_cn_usage",
+      "origin": "unit_044",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:006A00"
+      ]
+    },
+    {
+      "ja": "ゲッター烈火",
+      "zh_CN": "盖塔烈火",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "unit_029",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:006A3A"
+      ]
+    },
+    {
+      "ja": "ゲッター紫電",
+      "zh_CN": "盖塔紫电",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "unit_030",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:006A74"
+      ]
+    },
+    {
+      "ja": "ゲッター金剛",
+      "zh_CN": "盖塔金刚",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "unit_031",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:006AAE"
+      ]
+    },
+    {
+      "ja": "烈火号",
+      "zh_CN": "烈火号",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "unit_026",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:006AE8"
+      ]
+    },
+    {
+      "ja": "紫電号",
+      "zh_CN": "紫电号",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "unit_027",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:006B22"
+      ]
+    },
+    {
+      "ja": "金剛号",
+      "zh_CN": "金刚号",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "unit_028",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:006B5C"
+      ]
+    },
+    {
+      "ja": "ＢＴ－２３",
+      "zh_CN": "BT-23",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "unit_032",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:006B96"
+      ]
+    },
+    {
+      "ja": "レディコマンド",
+      "zh_CN": "女郎指挥艇",
+      "kind": "unit_name",
+      "status": "provisional",
+      "origin": "unit_033",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:006BD0",
+        "bin/briefing.bin:0018D8"
+      ]
+    },
+    {
+      "ja": "クジラ２００５Ｄ１",
+      "zh_CN": "鲸鱼2005D1",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:006C0A"
+      ]
+    },
+    {
+      "ja": "ゲッターエンペラー",
+      "zh_CN": "盖塔皇帝",
+      "kind": "unit_name",
+      "status": "licensed_cn_usage",
+      "origin": "unit_045",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:006C44",
+        "SLPS_022.32:007A50"
+      ]
+    },
+    {
+      "ja": "ステルバー",
+      "zh_CN": "斯特尔巴",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:006C7E",
+        "SLPS_022.32:006CB8",
+        "bin/briefing.bin:0018CC"
+      ]
+    },
+    {
+      "ja": "ボルガ８００００",
+      "zh_CN": "伏尔加80000",
+      "kind": "unit_name",
+      "status": "provisional",
+      "origin": "unit_040",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:006CF2"
+      ]
+    },
+    {
+      "ja": "ロボストーン",
+      "zh_CN": "罗博斯通",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:006D2C",
+        "bin/briefing.bin:0018BC"
+      ]
+    },
+    {
+      "ja": "キングダム００７",
+      "zh_CN": "王国007",
+      "kind": "unit_name",
+      "status": "provisional",
+      "origin": "unit_037",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:006D66",
+        "bin/briefing.bin:0018A8"
+      ]
+    },
+    {
+      "ja": "グスタフ",
+      "zh_CN": "古斯塔夫",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:006DA0",
+        "bin/briefing.bin:00189C"
+      ]
+    },
+    {
+      "ja": "テキサスマック",
+      "zh_CN": "得克萨斯马克",
+      "kind": "unit_name",
+      "status": "provisional",
+      "origin": "unit_034",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:006DDA",
+        "bin/briefing.bin:00188C"
+      ]
+    },
+    {
+      "ja": "テキサス移動艦",
+      "zh_CN": "得克萨斯移动舰",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:006E14",
+        "SLPS_022.32:007AC4"
+      ]
+    },
+    {
+      "ja": "バズ",
+      "zh_CN": "巴兹",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:006E4E"
+      ]
+    },
+    {
+      "ja": "バル",
+      "zh_CN": "巴鲁",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:006E88"
+      ]
+    },
+    {
+      "ja": "ギロ",
+      "zh_CN": "基罗",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:006EC2"
+      ]
+    },
+    {
+      "ja": "ジガ",
+      "zh_CN": "吉伽",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:006EFC"
+      ]
+    },
+    {
+      "ja": "モグロー",
+      "zh_CN": "莫古罗",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:006F36"
+      ]
+    },
+    {
+      "ja": "ギギ",
+      "zh_CN": "基基",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:006F70"
+      ]
+    },
+    {
+      "ja": "ウル",
+      "zh_CN": "乌鲁",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:006FAA"
+      ]
+    },
+    {
+      "ja": "メカタイフーン",
+      "zh_CN": "机械台风",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:006FE4"
+      ]
+    },
+    {
+      "ja": "モバ",
+      "zh_CN": "莫巴",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:00701E"
+      ]
+    },
+    {
+      "ja": "ピクドロン",
+      "zh_CN": "皮克德隆",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:007058"
+      ]
+    },
+    {
+      "ja": "ゲラ",
+      "zh_CN": "盖拉",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:007092"
+      ]
+    },
+    {
+      "ja": "恐竜艇",
+      "zh_CN": "恐龙艇",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:0070CC",
+        "SLPS_022.32:007BAC"
+      ]
+    },
+    {
+      "ja": "量産ゲッター１",
+      "zh_CN": "量产盖塔1",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:007106"
+      ]
+    },
+    {
+      "ja": "量産ゲッター２",
+      "zh_CN": "量产盖塔2",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:007140"
+      ]
+    },
+    {
+      "ja": "量産ゲッター３",
+      "zh_CN": "量产盖塔3",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:00717A"
+      ]
+    },
+    {
+      "ja": "メカ半月鬼",
+      "zh_CN": "机械半月鬼",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:0071B4"
+      ]
+    },
+    {
+      "ja": "メカ一角鬼",
+      "zh_CN": "机械一角鬼",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:0071EE"
+      ]
+    },
+    {
+      "ja": "メカ海王鬼",
+      "zh_CN": "机械海王鬼",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:007228"
+      ]
+    },
+    {
+      "ja": "メカ三頭鬼",
+      "zh_CN": "机械三头鬼",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:007262"
+      ]
+    },
+    {
+      "ja": "巨雷鬼",
+      "zh_CN": "巨雷鬼",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:00729C"
+      ]
+    },
+    {
+      "ja": "メカ鋼頭鬼",
+      "zh_CN": "机械钢头鬼",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:0072D6"
+      ]
+    },
+    {
+      "ja": "メカ五本鬼",
+      "zh_CN": "机械五本鬼",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:007310"
+      ]
+    },
+    {
+      "ja": "メカ一本鬼",
+      "zh_CN": "机械一本鬼",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:00734A"
+      ]
+    },
+    {
+      "ja": "ウザーラ",
+      "zh_CN": "乌扎拉",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:007384"
+      ]
+    },
+    {
+      "ja": "メカ鉄甲鬼",
+      "zh_CN": "机械铁甲鬼",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:0073BE"
+      ]
+    },
+    {
+      "ja": "魔王鬼",
+      "zh_CN": "魔王鬼",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:0073F8"
+      ]
+    },
+    {
+      "ja": "巨獣鬼",
+      "zh_CN": "巨兽鬼",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:007432"
+      ]
+    },
+    {
+      "ja": "ビーン",
+      "zh_CN": "比恩",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:00746C"
+      ]
+    },
+    {
+      "ja": "ワーム",
+      "zh_CN": "蠕虫",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:0074A6"
+      ]
+    },
+    {
+      "ja": "ジャコツ",
+      "zh_CN": "加科兹",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:0074E0"
+      ]
+    },
+    {
+      "ja": "クラブ",
+      "zh_CN": "克拉布",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:00751A"
+      ]
+    },
+    {
+      "ja": "ギガント×２",
+      "zh_CN": "基甘特×2",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:007554"
+      ]
+    },
+    {
+      "ja": "ビーインＲＸ１",
+      "zh_CN": "比因RX1",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:00758E"
+      ]
+    },
+    {
+      "ja": "ガルマンＢ２５",
+      "zh_CN": "加尔曼B25",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:0075C8"
+      ]
+    },
+    {
+      "ja": "ギガント×３",
+      "zh_CN": "基甘特×3",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:007602"
+      ]
+    },
+    {
+      "ja": "ガローンＺ５４",
+      "zh_CN": "加隆Z54",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:00763C"
+      ]
+    },
+    {
+      "ja": "改造ウザーラ",
+      "zh_CN": "改造乌扎拉",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:007676"
+      ]
+    },
+    {
+      "ja": "ドラゴンタートル",
+      "zh_CN": "龙龟",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:0076B0",
+        "SLPS_022.32:007AFE"
+      ]
+    },
+    {
+      "ja": "デビラ・ムウ",
+      "zh_CN": "德比拉·姆",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:0076EA"
+      ]
+    },
+    {
+      "ja": "蛇牙城",
+      "zh_CN": "蛇牙城",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:007724",
+        "SLPS_022.32:007B38"
+      ]
+    },
+    {
+      "ja": "ゲッター炉心",
+      "zh_CN": "盖塔炉心",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:00775E"
+      ]
+    },
+    {
+      "ja": "メカ蝉",
+      "zh_CN": "机械蝉",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:007798"
+      ]
+    },
+    {
+      "ja": "メカ蟻",
+      "zh_CN": "机械蚁",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:0077D2"
+      ]
+    },
+    {
+      "ja": "メカ蟻地獄",
+      "zh_CN": "机械蚁狮",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:00780C"
+      ]
+    },
+    {
+      "ja": "メカ蜂",
+      "zh_CN": "机械蜂",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:007846"
+      ]
+    },
+    {
+      "ja": "メカクワガタ",
+      "zh_CN": "机械锹甲",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:007880"
+      ]
+    },
+    {
+      "ja": "ホグラムＤ７",
+      "zh_CN": "霍格拉姆D7",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:0078BA"
+      ]
+    },
+    {
+      "ja": "クロノウォーム",
+      "zh_CN": "时空蠕虫",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:0078F4",
+        "SLPS_022.32:007B72"
+      ]
+    },
+    {
+      "ja": "無敵戦艦ダイ",
+      "zh_CN": "无敌战舰戴",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:007968"
+      ]
+    },
+    {
+      "ja": "ゴッドタートル",
+      "zh_CN": "神龟",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:0079A2"
+      ]
+    },
+    {
+      "ja": "スーパーゲッター號",
+      "zh_CN": "超级盖塔号",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "unit_019",
+      "provisional": false,
+      "source_ids": [
+        "SLPS_022.32:0079DC"
+      ]
+    },
+    {
+      "ja": "ミサイル砲台",
+      "zh_CN": "导弹炮台",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:007A16"
+      ]
+    },
+    {
+      "ja": "原子力発電所",
+      "zh_CN": "核电站",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:007BE6"
+      ]
+    },
+    {
+      "ja": "量産イーグル号",
+      "zh_CN": "量产雄鹰号",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:007C20"
+      ]
+    },
+    {
+      "ja": "量産ジャガー号",
+      "zh_CN": "量产猎豹号",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:007C5A"
+      ]
+    },
+    {
+      "ja": "量産ベアー号",
+      "zh_CN": "量产巨熊号",
+      "kind": "unit_name",
+      "status": "project_translation",
+      "origin": "independent_disc_exact_review",
+      "provisional": true,
+      "source_ids": [
+        "SLPS_022.32:007C94"
+      ]
+    }
+  ],
+  "provisional_entries": 77
+}

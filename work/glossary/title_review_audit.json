@@ -1,0 +1,517 @@
+{
+  "scope": "All extracted title.bin core string fields, independently read with related ability fragments. No source game data edited.",
+  "rows": 46,
+  "unique_override_strings": 46,
+  "max_bytes_checked": true,
+  "control_stream_checked": true,
+  "silent_truncation": false,
+  "speaker_convention": "Provisionalミチルretained, matching current scenario policy; no official Chinese convention claimed.",
+  "remaining_japanese": "Bitmap title/menu labels outside core C strings, the preserved kana/name-entry character table, and the provisional speaker nameミチル remain Japanese. This override file does not edit image assets.",
+  "reconstructed_related_contexts": [
+    {
+      "name": "move-charge",
+      "offsets": [
+        "0190",
+        "0120"
+      ],
+      "combined": "%0『未移动且未攻击就结束回合，下一回合的移动力会提高』呢。」"
+    },
+    {
+      "name": "EN-or-ray-recovery",
+      "offsets": [
+        "0190",
+        "0168",
+        "0148"
+      ],
+      "combined": "%0『未移动且未攻击就结束回合，下一回合恢复EN，或提高盖塔射线收集量』呢。」"
+    },
+    {
+      "name": "HP-recovery",
+      "offsets": [
+        "01C4",
+        "01B8"
+      ],
+      "combined": "%0『每回合开始时恢复少量HP』呢。」"
+    },
+    {
+      "name": "position-exchange",
+      "offsets": [
+        "0230",
+        "0214"
+      ],
+      "combined": "%0『将自己与指定友军的%0位置互换』%0呢。」"
+    },
+    {
+      "name": "taunt",
+      "offsets": [
+        "0298",
+        "0284"
+      ],
+      "combined": "%0『将指定敌机吸引到自己身边%0来』%0呢。」"
+    },
+    {
+      "name": "low-HP-attack",
+      "offsets": [
+        "02D8",
+        "02C0"
+      ],
+      "combined": "%0『HP降到一定值以下时，攻击力%0会提高』呢。」"
+    },
+    {
+      "name": "reconnaissance",
+      "offsets": [
+        "0314",
+        "0300"
+      ],
+      "combined": "%0『可查看指定敌机的%0状态』%0呢。」"
+    },
+    {
+      "name": "first-hit-damage-reduction",
+      "offsets": [
+        "035C",
+        "033C"
+      ],
+      "combined": "%0『每回合首次受伤时，可减少%0所受伤害』%0呢。」"
+    },
+    {
+      "name": "group-HP-repair",
+      "offsets": [
+        "0398",
+        "0384"
+      ],
+      "combined": "%0『能为指定的多个单位恢复HP』%0呢。」"
+    },
+    {
+      "name": "movement-support",
+      "offsets": [
+        "03C8",
+        "03C0"
+      ],
+      "combined": "%0『移动不受周围影响』%0呢。」"
+    },
+    {
+      "name": "self-destruct",
+      "offsets": [
+        "043C",
+        "0420"
+      ],
+      "combined": "%0『伤害周围所有单位后，%0脱离战场』%0呢。」"
+    }
+  ],
+  "field_checks": [
+    {
+      "id": "bin/title.bin:000120",
+      "ja": "と次ターンのみ移動量が上がる』のね。」",
+      "zh_CN": "下一回合的移动力会提高』呢。」",
+      "encoded_bytes": 30,
+      "max_bytes": 38,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:000148",
+      "ja": "ター線収集量が上がる』のね。」",
+      "zh_CN": "射线收集量』呢。」",
+      "encoded_bytes": 18,
+      "max_bytes": 30,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:000168",
+      "ja": "と次ターンのみＥＮ回復をするか、ゲッ",
+      "zh_CN": "下一回合恢复EN，或提高盖塔",
+      "encoded_bytes": 26,
+      "max_bytes": 36,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:000190",
+      "ja": "%0『移動・攻撃をしないでターン終了する",
+      "zh_CN": "%0『未移动且未攻击就结束回合，",
+      "encoded_bytes": 30,
+      "max_bytes": 38,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:0001B8",
+      "ja": "のね。」",
+      "zh_CN": "呢。」",
+      "encoded_bytes": 6,
+      "max_bytes": 8,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:0001C4",
+      "ja": "%0『毎ターン始めにＨＰが多少回復する』",
+      "zh_CN": "%0『每回合开始时恢复少量HP』",
+      "encoded_bytes": 28,
+      "max_bytes": 38,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:0001EC",
+      "ja": "%0『クリティカル率が上がる』%0のね。」",
+      "zh_CN": "%0『暴击率提高』%0呢。」",
+      "encoded_bytes": 24,
+      "max_bytes": 38,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:000214",
+      "ja": "%0入れ替える』%0のね。」",
+      "zh_CN": "%0位置互换』%0呢。」",
+      "encoded_bytes": 20,
+      "max_bytes": 24,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:000230",
+      "ja": "%0『自分と指定した味方ユニットの位置を",
+      "zh_CN": "%0『将自己与指定友军的",
+      "encoded_bytes": 22,
+      "max_bytes": 38,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:000258",
+      "ja": "%0『ゲッター線収集量が上がる』%0のね。」",
+      "zh_CN": "%0『盖塔射线收集量提高』%0呢。」",
+      "encoded_bytes": 32,
+      "max_bytes": 40,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:000284",
+      "ja": "%0る』%0のね。」",
+      "zh_CN": "%0来』%0呢。」",
+      "encoded_bytes": 14,
+      "max_bytes": 16,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:000298",
+      "ja": "%0『指定した敵ユニットを自分に引き付け",
+      "zh_CN": "%0『将指定敌机吸引到自己身边",
+      "encoded_bytes": 28,
+      "max_bytes": 38,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:0002C0",
+      "ja": "%0が上がる』のね。」",
+      "zh_CN": "%0会提高』呢。」",
+      "encoded_bytes": 16,
+      "max_bytes": 20,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:0002D8",
+      "ja": "%0『残りＨＰが一定量以下になると攻撃力",
+      "zh_CN": "%0『HP降到一定值以下时，攻击力",
+      "encoded_bytes": 30,
+      "max_bytes": 38,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:000300",
+      "ja": "%0れる』%0のね。」",
+      "zh_CN": "%0状态』%0呢。」",
+      "encoded_bytes": 16,
+      "max_bytes": 18,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:000314",
+      "ja": "%0『指定した敵ユニットのステータスが見",
+      "zh_CN": "%0『可查看指定敌机的",
+      "encoded_bytes": 20,
+      "max_bytes": 38,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:00033C",
+      "ja": "%0らすことができる』%0のね。」",
+      "zh_CN": "%0所受伤害』%0呢。」",
+      "encoded_bytes": 20,
+      "max_bytes": 30,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:00035C",
+      "ja": "%0『ターン毎に初めて受けるダメージを減",
+      "zh_CN": "%0『每回合首次受伤时，可减少",
+      "encoded_bytes": 28,
+      "max_bytes": 38,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:000384",
+      "ja": "きる』%0のね。」",
+      "zh_CN": "恢复HP』%0呢。」",
+      "encoded_bytes": 16,
+      "max_bytes": 16,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:000398",
+      "ja": "%0『指定した複数ユニットのＨＰを回復で",
+      "zh_CN": "%0『能为指定的多个单位",
+      "encoded_bytes": 22,
+      "max_bytes": 38,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:0003C0",
+      "ja": "ね。」",
+      "zh_CN": "呢。」",
+      "encoded_bytes": 6,
+      "max_bytes": 6,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:0003C8",
+      "ja": "%0『周囲の影響を受けずに移動できる』%0の",
+      "zh_CN": "%0『移动不受周围影响』%0",
+      "encoded_bytes": 24,
+      "max_bytes": 40,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:0003F4",
+      "ja": "%0『１話毎に１回だけ復活する』%0のね。」",
+      "zh_CN": "%0『每话可复活一次』%0呢。」",
+      "encoded_bytes": 28,
+      "max_bytes": 40,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:000420",
+      "ja": "%0戦線離脱する』%0のね。」",
+      "zh_CN": "%0脱离战场』%0呢。」",
+      "encoded_bytes": 20,
+      "max_bytes": 26,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:00043C",
+      "ja": "%0『周囲の全ユニットにダメージを与えて",
+      "zh_CN": "%0『伤害周围所有单位后，",
+      "encoded_bytes": 24,
+      "max_bytes": 38,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:000464",
+      "ja": "%0『１ターンに２回移動できる』%0のね。」",
+      "zh_CN": "%0『每回合可移动两次』%0呢。」",
+      "encoded_bytes": 30,
+      "max_bytes": 40,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:000490",
+      "ja": "%0『反撃時に攻撃力が上がる』%0のね。」",
+      "zh_CN": "%0『反击时攻击力提高』%0呢。」",
+      "encoded_bytes": 30,
+      "max_bytes": 38,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:0004BC",
+      "ja": "大丈夫、人生はながいわ。」",
+      "zh_CN": "没关系，人生还长着呢。」",
+      "encoded_bytes": 24,
+      "max_bytes": 26,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:0008E4",
+      "ja": "「あなたが、パイロット候補生ね。",
+      "zh_CN": "「你就是驾驶员候补生吧。",
+      "encoded_bytes": 24,
+      "max_bytes": 32,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:000908",
+      "ja": "名前を聞かせてくれる。」",
+      "zh_CN": "告诉我你的名字吧。」",
+      "encoded_bytes": 20,
+      "max_bytes": 24,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:000924",
+      "ja": "ミチル",
+      "zh_CN": "ミチル",
+      "encoded_bytes": 6,
+      "max_bytes": 6,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:00092C",
+      "ja": "ミチル「あなたは男の子？女の子？」",
+      "zh_CN": "ミチル「你是男生还是女生？」",
+      "encoded_bytes": 28,
+      "max_bytes": 34,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:000950",
+      "ja": "男",
+      "zh_CN": "男",
+      "encoded_bytes": 2,
+      "max_bytes": 2,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:000954",
+      "ja": "女",
+      "zh_CN": "女",
+      "encoded_bytes": 2,
+      "max_bytes": 2,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:000958",
+      "ja": "ミチル「あなたの名前を教えて。」",
+      "zh_CN": "ミチル「请告诉我你的名字。」",
+      "encoded_bytes": 28,
+      "max_bytes": 32,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:000984",
+      "ja": "英数記号",
+      "zh_CN": "英数符号",
+      "encoded_bytes": 8,
+      "max_bytes": 8,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:000990",
+      "ja": "カタカナ",
+      "zh_CN": "片假名",
+      "encoded_bytes": 6,
+      "max_bytes": 8,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:00099C",
+      "ja": "ひらがな",
+      "zh_CN": "平假名",
+      "encoded_bytes": 6,
+      "max_bytes": 8,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:0009B0",
+      "ja": "決定",
+      "zh_CN": "确定",
+      "encoded_bytes": 4,
+      "max_bytes": 4,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:0009B8",
+      "ja": "ミチル「これでいいのね？」",
+      "zh_CN": "ミチル「这样可以吗？」",
+      "encoded_bytes": 22,
+      "max_bytes": 26,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:0009D4",
+      "ja": "はい",
+      "zh_CN": "是",
+      "encoded_bytes": 2,
+      "max_bytes": 4,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:0009DC",
+      "ja": "／いいえ",
+      "zh_CN": "／否",
+      "encoded_bytes": 4,
+      "max_bytes": 8,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:0009E8",
+      "ja": "「いい名前ね。",
+      "zh_CN": "「好名字。",
+      "encoded_bytes": 10,
+      "max_bytes": 14,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:0009F8",
+      "ja": "私はミチル。",
+      "zh_CN": "我是ミチル。",
+      "encoded_bytes": 12,
+      "max_bytes": 12,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:000A08",
+      "ja": "これからよろしくね。」",
+      "zh_CN": "以后请多关照。」",
+      "encoded_bytes": 16,
+      "max_bytes": 22,
+      "controls_verified": true,
+      "fits": true
+    },
+    {
+      "id": "bin/title.bin:000A20",
+      "ja": "ミチル「どんな能力を持ってるの？",
+      "zh_CN": "ミチル「你有哪些能力？",
+      "encoded_bytes": 22,
+      "max_bytes": 32,
+      "controls_verified": true,
+      "fits": true
+    }
+  ]
+}
