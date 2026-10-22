@@ -1,0 +1,967 @@
+{"id":"SLPS_022.32:002620","zh_CN":"“天哪，世界末日来了。”","source_text_sha256":"b72bf0d6cd9962044155915abc57e892143772c77328f1b0de49e03073f453af"}
+{"id":"SLPS_022.32:0026F0","zh_CN":"战斗开始","source_text_sha256":"c71c5237e32f85f7cac857bbd2840fba29126180441c9d1c96a9b5ddf31b7ae3"}
+{"id":"SLPS_022.32:002724","zh_CN":"第%ld话%s","source_text_sha256":"8bb67595e650c6622c86689085952525308c1c47843212dc0128f078f70e393c","review":{"method":"exact terminology/UI override","previous_target_sha256":"0361cd2b5306ff919a4e0a08e1eb3af818ec03f8f67c1921f7865adba106919f"}}
+{"id":"SLPS_022.32:002730","zh_CN":"第一次接触","source_text_sha256":"2f1af02f68ec02cf62107b5ba3c3f7c4a0d6d61983adb49f0a2884e15686ec13"}
+{"id":"SLPS_022.32:002748","zh_CN":"拯救研究所（后篇）","source_text_sha256":"6173015b314573fa075580947f8d6ac6fe8ce53d1c6ac2f67f8f4e32cd3e3437","review":{"method":"exact terminology/UI override","previous_target_sha256":"6614843c7de625c62c7ab772867d88d335365161cd72f0a8755c0d033a9aa923"}}
+{"id":"SLPS_022.32:002760","zh_CN":"大决战！","source_text_sha256":"70577f54eece0c0b9920f2ecb3e0dd49a2bf43247f930791be03a6a0a5ecda4c"}
+{"id":"SLPS_022.32:00276C","zh_CN":"蛇牙城最终决战","source_text_sha256":"7e63690297e26779d9b73adc5163837cf72734f9755b12ee2707b748ac0d7c27","review":{"method":"exact terminology/UI override","previous_target_sha256":"235f0f988e0361d3b460e8b55991e523c7ea65c71f61f87909951acf44a9a079"}}
+{"id":"SLPS_022.32:002780","zh_CN":"德克萨斯州VS龙龟","source_text_sha256":"2fc58968cdf0fa32cbb9de3d2487b66870a5eac3b07e52bcdf0be7ab761a256c","review":{"method":"MT spacing normalization","previous_target_sha256":"75f9343c99b1f22fd696824f724113722da662d94eb741de544dd68ca7c8f33e"}}
+{"id":"SLPS_022.32:00279C","zh_CN":"复活的皇帝","source_text_sha256":"ea9949ae1f1b854dc675d0d77e144174e5f4a5e9baabc343c8b35e7f4ceb1a1a"}
+{"id":"SLPS_022.32:0027A8","zh_CN":"超兵器伏尔加","source_text_sha256":"c368e625bb935ca16e3eb0bbd5a039f05dc62a9adb79b86cb85e88fc717baded","review":{"method":"exact terminology/UI override","previous_target_sha256":"a79e11d2583d329a80a6ac0369ae92f51a9ea596745fc0035808fac2b67a48cb"}}
+{"id":"SLPS_022.32:0027B8","zh_CN":"恐怖的巨型龙卷","source_text_sha256":"597e7917db9c75be7eed27b7f9e43f1cfa06f44f109f5b0e4a487cf96393695f","review":{"method":"exact terminology/UI override","previous_target_sha256":"52ca05d6016305331d0068cc2d0d23fbcfb64eef6e6cf0e2bd4424bfc0cee860"}}
+{"id":"SLPS_022.32:0027C8","zh_CN":"黑色盖塔","source_text_sha256":"d982071295d7d9873706748afa005df2f4396b716c637528dc426a6ecb1780a0","review":{"method":"exact terminology/UI override","previous_target_sha256":"2f0ae9877757cb46ba0fe836c6d3d0e4d2e883b4e9b865855ae43cedefdd66e3"}}
+{"id":"SLPS_022.32:0027D8","zh_CN":"兰多教授来了！","source_text_sha256":"c758eb90aaa60bce6d0ad54e02392c405bb538691e61f3cc5cb86e236f56cd0d","review":{"method":"MT spacing normalization","previous_target_sha256":"398a2fe9742def424696e3bf5810b1d0afb85aa315b1384bdec9e8c7000a8519"}}
+{"id":"SLPS_022.32:0027F8","zh_CN":"百鬼帝国最后之日","source_text_sha256":"30411a37cca091c24ab3805ca6e42180d0effcf5fc25e5098869472c72a3ff1c","review":{"method":"exact terminology/UI override","previous_target_sha256":"df7a2e385e13a6402058150b2f72b0509a8a726749f87f321f4426dd1246bb01"}}
+{"id":"SLPS_022.32:00280C","zh_CN":"可怕的细菌导弹","source_text_sha256":"05ef88ca2d0a0ee1c0c2154e60df2ce1b475aa43170c5e9a0e35f5282bea0957"}
+{"id":"SLPS_022.32:002820","zh_CN":"真盖塔机器人","source_text_sha256":"2c60914db87c2b22103821248ba50449f1d881d7261cd6700fb93010f2a8cb1d","review":{"method":"exact terminology/UI override","previous_target_sha256":"134ee25451478200907c6e1f6f4c0a9c6c1eeecc26aad43b40a88a5b657e0d23"}}
+{"id":"SLPS_022.32:002830","zh_CN":"大型移动舰得克萨斯","source_text_sha256":"7dd4356afa35965555a8cb4a0fe780f17afa2bd6b3e72e30df1159cfac97cd59"}
+{"id":"SLPS_022.32:002844","zh_CN":"拯救研究所（前篇）","source_text_sha256":"2600170ece0311bea6fa595bafd2094adac321d6859fe16edff9e8b904d87d51","review":{"method":"exact terminology/UI override","previous_target_sha256":"42d02ce8f82e840fe2732fd680e298c81842b280c03711fe9ce6dc97b2315327"}}
+{"id":"SLPS_022.32:00285C","zh_CN":"新的力量，新的敌人","source_text_sha256":"7fd6d538b2dd4b8418471b2d60ff62df2498c5ea3d271d8f27472fc60ac6bbab"}
+{"id":"SLPS_022.32:002870","zh_CN":"盖塔机器人歼灭作战","source_text_sha256":"3f1a6ec2dacd9a02725f7562a6960c1ddbdff95655642ff73cf70a1edcd77369","review":{"method":"exact terminology/UI override","previous_target_sha256":"102f36eada875cdf3039d9f9dab5b6151979c80e96bb2c699b2e34426d33ab64"}}
+{"id":"SLPS_022.32:002888","zh_CN":"盖塔对盖塔","source_text_sha256":"b3c9b0804ea61b2535d1ba9f7003be67e61eab887e768e108beb92888e1d5b41","review":{"method":"exact terminology/UI override","previous_target_sha256":"1359ff7e9d4cb4feb36b67fced41e9773df3bac2dded3d38a64d130cc3465fdf"}}
+{"id":"SLPS_022.32:00289C","zh_CN":"时机已到！我们恐龙帝国","source_text_sha256":"f3a6a1f856af493ad939417020eb0a9dd2d80fcba09dc72caad9157227be56fd"}
+{"id":"SLPS_022.32:0028B8","zh_CN":"出击，盖塔机器人","source_text_sha256":"79fde76030bc2e3f851c3eebf559c0b78f2c5e464eb26673c05a473a8e6e969a","review":{"method":"exact terminology/UI override","previous_target_sha256":"a2977427fd116c250763b4622ba02ee38bb4a6ab26cc5499ce8ab82b39e4be25"}}
+{"id":"SLPS_022.32:002EF4","zh_CN":"小型导弹","source_text_sha256":"76fed3ad8b11fc4df03aa809de01bf79dfac2418e9c8b6a281ecfeb6da0d405a"}
+{"id":"SLPS_022.32:002F28","zh_CN":"猎豹号小型导弹","source_text_sha256":"a809032922eb0efc410d0a74015ee2028e8e5ab1b14b63685b7bb00a7227b5da"}
+{"id":"SLPS_022.32:002F5C","zh_CN":"大型导弹","source_text_sha256":"d45adc61807bd1fa14a797dd8fb86cdabcccd6507de0c2f5a4eabc4e9fd2678c"}
+{"id":"SLPS_022.32:002F90","zh_CN":"盖塔切割刃","source_text_sha256":"404bce0117e068912c3d6ef3afeeab9681fd47af0e529621914724c08854761c"}
+{"id":"SLPS_022.32:002FC4","zh_CN":"盖塔战斧","source_text_sha256":"839b0d6dbd0c9570ef322cdac5bc2f00745cf009b890b768fe7e13ee058c9315"}
+{"id":"SLPS_022.32:002FF8","zh_CN":"战斧回旋镖","source_text_sha256":"368a9ffdd283a0d4a293e609c1683de1c1e6c529da905b61ab6b8c056beb38d3"}
+{"id":"SLPS_022.32:00302C","zh_CN":"盖塔机枪","source_text_sha256":"e681a2a9abe51fd5077982e6fb3c22f25ebffa08c182163d2316ac5e937c99ef"}
+{"id":"SLPS_022.32:003060","zh_CN":"盖塔射线","source_text_sha256":"21e223f55aedad81e80da85f7a314629b271ccf44e4ddd22e61df840ed4d511b"}
+{"id":"SLPS_022.32:003094","zh_CN":"钻头臂","source_text_sha256":"5dbbbe6f7dfa23da82ed708b58aaeb246b7dec22b0364fe29d590e4733fe4157"}
+{"id":"SLPS_022.32:0030C8","zh_CN":"盖塔臂","source_text_sha256":"fda766e4a15e43fe7bd0df17000c68b9bf544aa0283d1a095eef21befe086e90"}
+{"id":"SLPS_022.32:0030FC","zh_CN":"喷射钻头","source_text_sha256":"f63e1d8879f104cacda349ae0ea7f042cf20f2d2e9f7f9bc7f4830d293fc2682"}
+{"id":"SLPS_022.32:003130","zh_CN":"钻头风暴","source_text_sha256":"0fcedac1d82aa8f77418c73944f19f13d3b4d40b5de5561279f6620529c9ee3c"}
+{"id":"SLPS_022.32:003164","zh_CN":"盖塔幻影","source_text_sha256":"a71308844a70c46ad1ca19a9d61a83f6c5175f0c37c987d6547a115dbf9b9b33"}
+{"id":"SLPS_022.32:003198","zh_CN":"盖塔重击","source_text_sha256":"761021e233b00b14228f5d16ad47738ba7391bd933da066b8c490cb8a58b8a5b"}
+{"id":"SLPS_022.32:0031CC","zh_CN":"盖塔冲撞","source_text_sha256":"dd5441d0e4dadc4ad58c42868a44799f90a87c97756142c4dcbacb811cd40da3"}
+{"id":"SLPS_022.32:003200","zh_CN":"盖塔导弹","source_text_sha256":"1b074ba74787eaedf3048172135eaf00ea8e4aa972cdccf9be580a3dc8e9f72a"}
+{"id":"SLPS_022.32:003234","zh_CN":"大雪山崩落","source_text_sha256":"b0a913a33a01387b2afc0a6df2bfa8324191a8fa3398fda3de2a376e054c04fe"}
+{"id":"SLPS_022.32:003268","zh_CN":"盖塔战斧","source_text_sha256":"839b0d6dbd0c9570ef322cdac5bc2f00745cf009b890b768fe7e13ee058c9315"}
+{"id":"SLPS_022.32:00329C","zh_CN":"战斧回旋镖","source_text_sha256":"368a9ffdd283a0d4a293e609c1683de1c1e6c529da905b61ab6b8c056beb38d3"}
+{"id":"SLPS_022.32:0032D0","zh_CN":"钻头臂","source_text_sha256":"5dbbbe6f7dfa23da82ed708b58aaeb246b7dec22b0364fe29d590e4733fe4157"}
+{"id":"SLPS_022.32:003304","zh_CN":"喷射钻头","source_text_sha256":"f63e1d8879f104cacda349ae0ea7f042cf20f2d2e9f7f9bc7f4830d293fc2682"}
+{"id":"SLPS_022.32:003338","zh_CN":"盖塔旋转拳","source_text_sha256":"c15ff539f0cf56522fb23ff053edbb972a77eb4d6587f616d63f00f3b2248795"}
+{"id":"SLPS_022.32:00336C","zh_CN":"盖塔跳跃压杀","source_text_sha256":"d6b0bb727a703e8cc1621148a18d54ac46e8cc3091a4e97c3df550ae15f14bc2"}
+{"id":"SLPS_022.32:0033A0","zh_CN":"火神炮","source_text_sha256":"e57cf0fae230cb6c09cb961327eb5d12c8edc895af4847943d44f8dbefab677d"}
+{"id":"SLPS_022.32:0033D4","zh_CN":"激光","source_text_sha256":"ecc85fdb255df0f5349270add8e542404594624b5907613e97aefdc01cbdf0fd"}
+{"id":"SLPS_022.32:003408","zh_CN":"大型导弹","source_text_sha256":"d45adc61807bd1fa14a797dd8fb86cdabcccd6507de0c2f5a4eabc4e9fd2678c"}
+{"id":"SLPS_022.32:00343C","zh_CN":"双重战斧","source_text_sha256":"21be945469f4d8b21eca97958d9c0a51aa7d64b892766c6b648242d448d95629"}
+{"id":"SLPS_022.32:003470","zh_CN":"旋转切割刃","source_text_sha256":"f1ff2035b367889bcf47404fa991cd6323b4aceae37684f22bc0f37fdcf2863f"}
+{"id":"SLPS_022.32:0034A4","zh_CN":"双重战斧回旋镖","source_text_sha256":"a076cc1e743d4c11e1cebe2812e19707746f855f50868cf4b23c275c19278055"}
+{"id":"SLPS_022.32:0034D8","zh_CN":"盖塔射线发射器","source_text_sha256":"1d4238136cacab67a0219da4077a39ea93f727ae4864aeea649ccc4eb296f2c1"}
+{"id":"SLPS_022.32:00350C","zh_CN":"盖塔射线","source_text_sha256":"21e223f55aedad81e80da85f7a314629b271ccf44e4ddd22e61df840ed4d511b"}
+{"id":"SLPS_022.32:003540","zh_CN":"闪光爆烈","source_text_sha256":"bc45daf0b4f13f8a6ba30ae79d7b7640b1ac26b64b0e4f3c8623bed5ad21bc1b"}
+{"id":"SLPS_022.32:003574","zh_CN":"钻头臂","source_text_sha256":"5dbbbe6f7dfa23da82ed708b58aaeb246b7dec22b0364fe29d590e4733fe4157"}
+{"id":"SLPS_022.32:0035A8","zh_CN":"锁链攻击","source_text_sha256":"a565a15a588f27e9ebd87aec8c184dcac464416e38d8a4998088592ea9663503"}
+{"id":"SLPS_022.32:0035DC","zh_CN":"狮虎导弹","source_text_sha256":"a6c42be16a1b126e271b03b2edecd9fb7ce14bf137f4dcd3e0356cb9c4888c7d"}
+{"id":"SLPS_022.32:003610","zh_CN":"马赫幻影","source_text_sha256":"9e7a6c345d32f72c4999d77690daec80a5424c2c479760b73a99a036bb4899d8"}
+{"id":"SLPS_022.32:003644","zh_CN":"爆裂攻击","source_text_sha256":"bd9f2aa2d356afab2fda52a64c15584eb089697246830e07f5289f7b5eb3fe25"}
+{"id":"SLPS_022.32:003678","zh_CN":"强力导弹","source_text_sha256":"1e072362f2737279f712063b6a6b78bc46ad22694d817b3fe3a878aa4be15748"}
+{"id":"SLPS_022.32:0036AC","zh_CN":"手指捕网","source_text_sha256":"eaeb56896301a9c4dc6565b9e7758d38e885903f1fc63bd21ca340a0a5184ca7"}
+{"id":"SLPS_022.32:0036E0","zh_CN":"盖塔旋风","source_text_sha256":"dccb34b77e80b86df513f2107efa76fee18f9d80b79c669cbff6c12ec5b46ef7"}
+{"id":"SLPS_022.32:003714","zh_CN":"火神炮","source_text_sha256":"e57cf0fae230cb6c09cb961327eb5d12c8edc895af4847943d44f8dbefab677d"}
+{"id":"SLPS_022.32:003748","zh_CN":"火神炮","source_text_sha256":"e57cf0fae230cb6c09cb961327eb5d12c8edc895af4847943d44f8dbefab677d"}
+{"id":"SLPS_022.32:00377C","zh_CN":"导弹","source_text_sha256":"0a99ce97307231cd69ac00417fad341bd1922031de16cc74b3cbe192c77ea940"}
+{"id":"SLPS_022.32:0037B0","zh_CN":"拳击爆弹","source_text_sha256":"1018d987d4e8986e657c8d44dd289c2f9c21adfbe7720c1d69dfc3c12cfb47ec"}
+{"id":"SLPS_022.32:0037E4","zh_CN":"腿部刀刃","source_text_sha256":"885c2524ddf6601fef7597a2f6cd7a5df84cfa238c4ab86f16a7972a8b933dee"}
+{"id":"SLPS_022.32:003818","zh_CN":"手持导弹炮","source_text_sha256":"3077d6efff70f3f47b96c338c2c366fb254fd3b5cf3bdc378472cb31e03a7c82"}
+{"id":"SLPS_022.32:00384C","zh_CN":"磁力雷霆","source_text_sha256":"272463b03dbe0e6212fc18f83a8451ebd4c2e2a805838620c3d5de989d640396"}
+{"id":"SLPS_022.32:003880","zh_CN":"拳击爆弹","source_text_sha256":"1018d987d4e8986e657c8d44dd289c2f9c21adfbe7720c1d69dfc3c12cfb47ec"}
+{"id":"SLPS_022.32:0038B4","zh_CN":"腿部刀刃","source_text_sha256":"885c2524ddf6601fef7597a2f6cd7a5df84cfa238c4ab86f16a7972a8b933dee"}
+{"id":"SLPS_022.32:0038E8","zh_CN":"手持导弹炮","source_text_sha256":"3077d6efff70f3f47b96c338c2c366fb254fd3b5cf3bdc378472cb31e03a7c82"}
+{"id":"SLPS_022.32:00391C","zh_CN":"磁力雷霆","source_text_sha256":"272463b03dbe0e6212fc18f83a8451ebd4c2e2a805838620c3d5de989d640396"}
+{"id":"SLPS_022.32:003950","zh_CN":"剑刃战斧","source_text_sha256":"d4728981fc0106c63824af7fcf48c9d98ffd88ae951f0a9e4559458070094271"}
+{"id":"SLPS_022.32:003984","zh_CN":"钢索攻击","source_text_sha256":"3da673e675daa4bd663e2da53b5cac9e70d27599b545973785cdd372b9fbcfbd"}
+{"id":"SLPS_022.32:0039B8","zh_CN":"胸部爆弹","source_text_sha256":"6cee4ec37b26662026d764e272e935df606b82427ac950b512b22e272dd0956d"}
+{"id":"SLPS_022.32:0039EC","zh_CN":"龙卷攻击","source_text_sha256":"88aaf7360d135e4b90b79b181decb172293368c16c8777b681cc533b2c0cab0d"}
+{"id":"SLPS_022.32:003A20","zh_CN":"鱼叉炮","source_text_sha256":"0a9eced19cc6ae5a1fd7b02b81bbe7a7cebee67db6032b4ae8782388c56eedc9"}
+{"id":"SLPS_022.32:003A54","zh_CN":"冲击炮","source_text_sha256":"7aa2c724aad50fdd81c7222994ee2da3ac9f6df3e1ddcbb7b22d94739a1493a6"}
+{"id":"SLPS_022.32:003A88","zh_CN":"胸部光束","source_text_sha256":"75505f3a416a57eb6594cb782914df1dda620563b9bd7493773b591c6c831ca3"}
+{"id":"SLPS_022.32:003ABC","zh_CN":"旋转龙卷攻击","source_text_sha256":"361b2bcfa3797347f11a9ee9cc6875dd1b68d53ae4da52e869105937ecffc456"}
+{"id":"SLPS_022.32:003AF0","zh_CN":"直线光束","source_text_sha256":"427bbf9a4f8e2b6c6c5b91720b69cea124b401d18f1adfd2b6838a4d6a27ecdc"}
+{"id":"SLPS_022.32:003B24","zh_CN":"扩散光束","source_text_sha256":"7e7071e6b2e1aa0bf8cd64dea6955f33a6b6ccfe072930ba4a9cac064ae8cfd9"}
+{"id":"SLPS_022.32:003B58","zh_CN":"制导导弹","source_text_sha256":"f419111be7fb8d89cef726614ac423e3e342bdf29cb3c2974e86c8e184aec966"}
+{"id":"SLPS_022.32:003B8C","zh_CN":"真盖塔战斧","source_text_sha256":"81862431e45b6aaebbc53fab17d2264e81e7535fccb493483ebf379d7d681db3"}
+{"id":"SLPS_022.32:003BC0","zh_CN":"分裂光束","source_text_sha256":"e0afee82b9fe5e71531edd122cd2c35d2d0d64b3cf95bd9d64012c232ff3d28d"}
+{"id":"SLPS_022.32:003BF4","zh_CN":"真盖塔射线","source_text_sha256":"b0570ad9f9fd5769571892fcea460b937418bb4a798fa6665b33aabb7d5ddaa2"}
+{"id":"SLPS_022.32:003C28","zh_CN":"闪光烈阳弹","source_text_sha256":"3050dfdf1f81d4fb03e3cee393a95610ec2db48df88052130e9b49e6a3d1626c"}
+{"id":"SLPS_022.32:003C5C","zh_CN":"真盖塔战斧","source_text_sha256":"81862431e45b6aaebbc53fab17d2264e81e7535fccb493483ebf379d7d681db3"}
+{"id":"SLPS_022.32:003C90","zh_CN":"分裂光束","source_text_sha256":"e0afee82b9fe5e71531edd122cd2c35d2d0d64b3cf95bd9d64012c232ff3d28d"}
+{"id":"SLPS_022.32:003CC4","zh_CN":"真盖塔射线","source_text_sha256":"b0570ad9f9fd5769571892fcea460b937418bb4a798fa6665b33aabb7d5ddaa2"}
+{"id":"SLPS_022.32:003CF8","zh_CN":"闪光烈阳弹","source_text_sha256":"3050dfdf1f81d4fb03e3cee393a95610ec2db48df88052130e9b49e6a3d1626c"}
+{"id":"SLPS_022.32:003D2C","zh_CN":"真盖塔钻头","source_text_sha256":"a5ae550a9a6cc100bf8d1f9c26864d382a2346f2efa995f30da9690756e916de"}
+{"id":"SLPS_022.32:003D60","zh_CN":"真剪刀臂","source_text_sha256":"df74ac743495fb8a6ba45d1d090d25ccc222808a09efad80c401e05b3a0f8cfb"}
+{"id":"SLPS_022.32:003D94","zh_CN":"真钻头震击","source_text_sha256":"7896ed6b433d96385d5ee6ec4e7d5ea3e6a89fcce17163496b7283206bc6d09e"}
+{"id":"SLPS_022.32:003DC8","zh_CN":"钻头飓风","source_text_sha256":"e19b46a043a89dfad74c16e169279c66a5f89b44ef941974aa0422fed6d3e8de"}
+{"id":"SLPS_022.32:003DFC","zh_CN":"真盖塔幻影","source_text_sha256":"92963971fb7adc7700437366ec049d4253c0289ecbdc773639b7cbf0cb40bd72"}
+{"id":"SLPS_022.32:003E30","zh_CN":"真盖塔重拳","source_text_sha256":"0bbb6c3bbd58a0b8ae2fe8c64ffc2f694f657f19d2a1c9e161bd5021f3c0f209"}
+{"id":"SLPS_022.32:003E64","zh_CN":"真盖塔冲撞","source_text_sha256":"e3781d003034610382ee4d50b4db62cf6b85e5da30590cbff72e639f692e52cb"}
+{"id":"SLPS_022.32:003E98","zh_CN":"导弹风暴","source_text_sha256":"cc9b747274191db2b8b45c2d95bf6cb4428cc3c971ad3ef6ae46d81d304b68fe"}
+{"id":"SLPS_022.32:003ECC","zh_CN":"真大雪山崩落","source_text_sha256":"b22e829b535aaa6927b6515afaf42fac36824ffffc0a1b5d094eeddbea0b34dd"}
+{"id":"SLPS_022.32:003F00","zh_CN":"小型火神炮","source_text_sha256":"5314696a711ac87a286dff190059abf84452ec344505cff6b7545f6700510ae5"}
+{"id":"SLPS_022.32:003F34","zh_CN":"小型火神炮","source_text_sha256":"5314696a711ac87a286dff190059abf84452ec344505cff6b7545f6700510ae5"}
+{"id":"SLPS_022.32:003F68","zh_CN":"小型导弹","source_text_sha256":"76fed3ad8b11fc4df03aa809de01bf79dfac2418e9c8b6a281ecfeb6da0d405a"}
+{"id":"SLPS_022.32:003F9C","zh_CN":"火斩刀","source_text_sha256":"04e95e1282e359777d3df899531ab72dc73e98bd88553cdf43bf832b64ddddeb"}
+{"id":"SLPS_022.32:003FD0","zh_CN":"花乱舞","source_text_sha256":"604cbc819c3dc50b84d000bd02880410151e381a7bdfcef5fb1bd82e13cde6b6"}
+{"id":"SLPS_022.32:004004","zh_CN":"二刀花乱舞","source_text_sha256":"cce8e1ffd7c7c74b1d9e5c16de5b512b5131ba6a668d8a221a57b439a871d68f"}
+{"id":"SLPS_022.32:004038","zh_CN":"合击风车","source_text_sha256":"c42d12bf6f468eb5ac0173ccb4afd3464c0c03575a840aed03c354bc377b150b"}
+{"id":"SLPS_022.32:00406C","zh_CN":"斩魔光","source_text_sha256":"2e9f89a9f1686f6c168ec2cfbeda96a87af5a4add2bef4bece9e478ce74f48e7"}
+{"id":"SLPS_022.32:0040A0","zh_CN":"千极针","source_text_sha256":"561c0ae7ce6e5974f8e02e9e6be9d2851b43f5e5b6d0371b48bdcb9c118d8260"}
+{"id":"SLPS_022.32:0040D4","zh_CN":"疾风针","source_text_sha256":"8b1183454e9f48e54eab50badceb94ab0736ffc0ad99ce31249187612ab8f906"}
+{"id":"SLPS_022.32:004108","zh_CN":"蛇旋光","source_text_sha256":"b41783f2334dde34ccc5761158034ff1d38f7ec58e0098106060e7daa55fcb3c"}
+{"id":"SLPS_022.32:00413C","zh_CN":"盖塔影分身","source_text_sha256":"64e8c9fa0085a3cab420f7cae65b68bdb9e4b81b804bac599f0e9a1f63c24fc6"}
+{"id":"SLPS_022.32:004170","zh_CN":"突击","source_text_sha256":"c28606d2069d79bc87890c5fd413f3368f781eb06856834edfeb5951d4f710fb"}
+{"id":"SLPS_022.32:0041A4","zh_CN":"破岩掌","source_text_sha256":"045f1f679633faad40771e61553b62140b0f2ac554e8a56191bc288d7f5df62c"}
+{"id":"SLPS_022.32:0041D8","zh_CN":"大刃手里剑","source_text_sha256":"ac4c3e89c9c3d869072fd7357006ac8371663538b67f81030d611cccfee5ae92"}
+{"id":"SLPS_022.32:00420C","zh_CN":"修罗爆雷","source_text_sha256":"1e95f565a59eee41bddf51eba14397b362ea584787c5c666ce6f790be5a78e1b"}
+{"id":"SLPS_022.32:004240","zh_CN":"盖塔战斧","source_text_sha256":"839b0d6dbd0c9570ef322cdac5bc2f00745cf009b890b768fe7e13ee058c9315"}
+{"id":"SLPS_022.32:004274","zh_CN":"钻头破岩击","source_text_sha256":"955b8715258d02b4036daf5e65fd179df80e5d649c87049d3de03a3ca3eb57c2"}
+{"id":"SLPS_022.32:0042A8","zh_CN":"臂炮","source_text_sha256":"9788ba2ff3a795753fc3f6439bd5a9836e422221bf2a30e66e24515e7a13cd89"}
+{"id":"SLPS_022.32:0042DC","zh_CN":"暗黑乱舞","source_text_sha256":"e5fa4295cca852dc3c82d1ea96b0a15363542c3eef0cb9c09d6bd847803adada"}
+{"id":"SLPS_022.32:004310","zh_CN":"盖塔射线","source_text_sha256":"21e223f55aedad81e80da85f7a314629b271ccf44e4ddd22e61df840ed4d511b"}
+{"id":"SLPS_022.32:004344","zh_CN":"真钻头臂","source_text_sha256":"5431ae1f4b5b82b7ebba6a2b7b9319659ff0ba696d8e38e016717c42e14945cf"}
+{"id":"SLPS_022.32:004378","zh_CN":"真战斧回旋镖","source_text_sha256":"faed27259a11067a874876cc013df0b3f53c5ee19b92d887c9d5355df73ba2f3"}
+{"id":"SLPS_022.32:0043AC","zh_CN":"真强力导弹","source_text_sha256":"edbeeaf3bf457fd7628c800aa1d2a1021dbdca2cbdaf6649a441a41b860050b4"}
+{"id":"SLPS_022.32:0043E0","zh_CN":"真盖塔射线发射器","source_text_sha256":"d656b3ad3aedeeed7636a6bf106e7d1391d1bda5f67fe914c8afff90aff6131d"}
+{"id":"SLPS_022.32:004414","zh_CN":"真闪光爆烈","source_text_sha256":"3ec17edacb84b442889bf868ddf472313237e51ceee55feee250154d19ac517d"}
+{"id":"SLPS_022.32:004448","zh_CN":"消音火神炮","source_text_sha256":"fc27f5edf5bff332278c1700b017341e613b8138f287c67819478be473804242"}
+{"id":"SLPS_022.32:00447C","zh_CN":"钻头攻击","source_text_sha256":"dc420b5b1acc57d7db4f0968b1c48639505bfee3db869b170632df8ad0737c86"}
+{"id":"SLPS_022.32:0044B0","zh_CN":"火神炮","source_text_sha256":"e57cf0fae230cb6c09cb961327eb5d12c8edc895af4847943d44f8dbefab677d"}
+{"id":"SLPS_022.32:0044E4","zh_CN":"手部切割刃","source_text_sha256":"d003990de42c0b2498561b1f296068ae6e5bb8da9de193b1a9d73ba034c42e9a"}
+{"id":"SLPS_022.32:004518","zh_CN":"飞翼回旋镖","source_text_sha256":"ab4e075fa93d1b48059548cd1fca45d138a41f73f1943aa7d036ea81172d415d"}
+{"id":"SLPS_022.32:00454C","zh_CN":"ST爆破炮","source_text_sha256":"0212b3e4c1d48648509aeca680f52553444f154a2082b255d9c178eb93b18b2d"}
+{"id":"SLPS_022.32:004580","zh_CN":"连环爆破","source_text_sha256":"9bda4eeb66c5816261ef87d1b5ca938ba18bacce7bc600b9705839368a37750c"}
+{"id":"SLPS_022.32:0045B4","zh_CN":"强袭武装","source_text_sha256":"c6d71340db605d7070898533bc28b649672b7d59d4b064c137376ab443f38670"}
+{"id":"SLPS_022.32:0045E8","zh_CN":"扩散导弹","source_text_sha256":"d81f88511f6d0eaea6b1e9746d2adfbcd04d48d7275ea82db2728228e698b78b"}
+{"id":"SLPS_022.32:00461C","zh_CN":"超级武器炮","source_text_sha256":"ef2d4bf64a6025cabc17885adda7edc64a9353ce83579d74a2775217cedda724"}
+{"id":"SLPS_022.32:004650","zh_CN":"重压攻击","source_text_sha256":"ddd6714523f52e8d18abc811315bf9d4e03113effd908e91ebde30c6d9821d3f"}
+{"id":"SLPS_022.32:004684","zh_CN":"三连导弹","source_text_sha256":"3a605374ae8fb45371fa514cf1dcd74655e93cc5c93a7553a94a2caa270c0813"}
+{"id":"SLPS_022.32:0046B8","zh_CN":"双管炮","source_text_sha256":"2f5c27d5b38c97da390c68f2776d7d0a4ae4c9666de9c481fb1a5f421127d954"}
+{"id":"SLPS_022.32:0046EC","zh_CN":"超级重压攻击","source_text_sha256":"0f6b5b1fc1ccd8ed654e95cdb6777aba60d788e8ea53e9d85490301a59ddde39"}
+{"id":"SLPS_022.32:004720","zh_CN":"电击军刀(陆战)","source_text_sha256":"dc32ebdf5919cd438fed8a9524fe18e15428cd8e17d3891bd2ab181eee3ba122"}
+{"id":"SLPS_022.32:004754","zh_CN":"电击军刀(空战)","source_text_sha256":"928b6fa3f6a894d66f86d77fc37fc7495136af15bd91dddbfffe729dc08e1125"}
+{"id":"SLPS_022.32:004788","zh_CN":"追踪鱼雷","source_text_sha256":"284dfba7ea2497741612862341b22d72d378deaf3115c64925635963f38d3cc7"}
+{"id":"SLPS_022.32:0047BC","zh_CN":"潜艇援护","source_text_sha256":"2ff8f445cfc4e0ff57f252f82443af5e977096a1c205bbae9fcaebc93afc91d1"}
+{"id":"SLPS_022.32:0047F0","zh_CN":"热能鞭","source_text_sha256":"55085161ca3f8847555df806341b7357a627aaf34670d29bcbcfb4631fb066cc"}
+{"id":"SLPS_022.32:004824","zh_CN":"扩散地雷","source_text_sha256":"d6aeefb16b09bc574dc1ece87feb9a4eb311b98558e030389e34613dd1a2f09b"}
+{"id":"SLPS_022.32:004858","zh_CN":"大型速射炮","source_text_sha256":"bc8f6adf19b8fb3d0be0767d54178179e184c78ee4b588f40b5376c9a1513afa"}
+{"id":"SLPS_022.32:00488C","zh_CN":"遥控合击","source_text_sha256":"004dd4646fbbf22161a3704ca0d207b9706fedaa09135f572d1d45440c68b88c"}
+{"id":"SLPS_022.32:0048C0","zh_CN":"得克萨斯刀","source_text_sha256":"9fdd3e0df5fbda9428c8a5904886c9c80d860ed06d22a8f2d3d1b41aa2f903f7"}
+{"id":"SLPS_022.32:0048F4","zh_CN":"得克萨斯步枪","source_text_sha256":"4e54d404033861e62c790c43c757c952fab0fffd9a1e68dece30345c150253da"}
+{"id":"SLPS_022.32:004928","zh_CN":"得克萨斯马格南444","source_text_sha256":"eb7eedb4d7da25a81eba5ec941294472038ebe48db84eb9c488aa982d36f2b88"}
+{"id":"SLPS_022.32:00495C","zh_CN":"帽子战机攻击","source_text_sha256":"290ec628e50749afa0fabd8e2763769ab4f73fd8006708e062ee1214c85cdddd"}
+{"id":"SLPS_022.32:004990","zh_CN":"盐弹枪","source_text_sha256":"e16b22d1ad9f64311f461242ef9cdeaabe4a481c5ce36118bd39d165c6f32ab9"}
+{"id":"SLPS_022.32:0049C4","zh_CN":"超限推进","source_text_sha256":"6d4afee17035b40d835af443456d3dfe5e61c02a2b8bd31f1e1143c1ceb2848b"}
+{"id":"SLPS_022.32:0049F8","zh_CN":"对地激光","source_text_sha256":"b83c1d9b8f03dac9967f1c6a5e2c81828bfd89c27c8f6cbbaeb30175ddee0416"}
+{"id":"SLPS_022.32:004A2C","zh_CN":"多佛炮","source_text_sha256":"f228c3ed6aa89f2a72cf33461008e034009e862fea19b2d506d56eed0c8ec08c"}
+{"id":"SLPS_022.32:004A60","zh_CN":"皇帝射线","source_text_sha256":"9b800a9f2b47c06ec00b49375b6fca13911e1d6a345d59567f8b14c46cd40b17"}
+{"id":"SLPS_022.32:004A94","zh_CN":"旋转锯回旋镖","source_text_sha256":"6be312ffcf45d62cb20d50c32c0be82b8dfb177ac4f059856a753f6b575a1649"}
+{"id":"SLPS_022.32:004AC8","zh_CN":"背鳍切割刃","source_text_sha256":"43c6364a12c107626413740993bb205425b1a18c57554bbed953851bcdf31b31"}
+{"id":"SLPS_022.32:004AFC","zh_CN":"角回旋镖","source_text_sha256":"2fa2f9adafd2aeda63f3807d23013c161ce30c402bafc01023d83bf21cdf5583"}
+{"id":"SLPS_022.32:004B30","zh_CN":"尖角冲锋","source_text_sha256":"b7b25ce4efdcc1ea4e2146d0c9193eedc585cb5d003179a70a8cc00dc44d1d87"}
+{"id":"SLPS_022.32:004B64","zh_CN":"箭式导弹","source_text_sha256":"b105edee1c49395b6db6f929ae7e3de5969f0ddd95e52d7eea1e3b50c49881c6"}
+{"id":"SLPS_022.32:004B98","zh_CN":"飞扑","source_text_sha256":"eca02165b7d0e2985f3d521e0bf3c8bd0527150ce780e03e66adc11b80ab5d04"}
+{"id":"SLPS_022.32:004BCC","zh_CN":"真空龙卷摔","source_text_sha256":"ddd4935c5b2bdf32a2e7786eec47795ec5c7eae7c2adf582e8e06a895889b1cf"}
+{"id":"SLPS_022.32:004C00","zh_CN":"贴身钻头","source_text_sha256":"6946824a71d0b4081e4861313b6efa6cfa6993c9b3c473603e84742a048dd45e"}
+{"id":"SLPS_022.32:004C34","zh_CN":"地中鱼雷冲击","source_text_sha256":"8f5de59cd85823190b3527f013083ad17506f45cb748513bd7b04365f116be8f"}
+{"id":"SLPS_022.32:004C68","zh_CN":"导弹","source_text_sha256":"0a99ce97307231cd69ac00417fad341bd1922031de16cc74b3cbe192c77ea940"}
+{"id":"SLPS_022.32:004C9C","zh_CN":"蝙蝠人发射","source_text_sha256":"c5cc77ba51899b6cf4f2daa4c30a1847267e11edb679f4e82b32d0a25664b9a0"}
+{"id":"SLPS_022.32:004CD0","zh_CN":"撕咬","source_text_sha256":"c82f010e9b034cd546864042151495ba1843d4ab3d8d9dd8e12f98416f87fca7"}
+{"id":"SLPS_022.32:004D04","zh_CN":"大型制导导弹","source_text_sha256":"89ca46987953fa5a991413375633c13b06bcbb0608800c1a4cf7020420bc4d02"}
+{"id":"SLPS_022.32:004D38","zh_CN":"束缚足","source_text_sha256":"e6dbe601c347e63c9415714a13a4dcc4e85b1fdf566ad598776237f0d5403fea"}
+{"id":"SLPS_022.32:004D6C","zh_CN":"攀附爪击","source_text_sha256":"20019f949f52931bbdea1e4308da31c8a09de8e1aec060de77f7a0e5ce0a76a3"}
+{"id":"SLPS_022.32:004DA0","zh_CN":"龙卷真空斩","source_text_sha256":"5b6525902b386eceae9429ebc95e0f0e34f85c07b0b477711bd204818594764b"}
+{"id":"SLPS_022.32:004DD4","zh_CN":"龙卷冲锋","source_text_sha256":"49dd2a60ee7d759fe57dd21aee1aa651dff13d1dc532b502bcec8c83b234d821"}
+{"id":"SLPS_022.32:004E08","zh_CN":"龙卷摔","source_text_sha256":"c5e91df001cf4cdb76bb9381f8af2e2d7d08602bbc62a2e1b456a1318ad4f928"}
+{"id":"SLPS_022.32:004E3C","zh_CN":"眼镜蛇毒","source_text_sha256":"be8b70d74f61a7e33c196dd6a151578a3fca3bb56930dee65b2ee00c6b5cb2b5"}
+{"id":"SLPS_022.32:004E70","zh_CN":"雷吼","source_text_sha256":"fbdb5e8a6716e10db915bc69b3500aa6f748cdf33d6544611c3a550ec4e792b6"}
+{"id":"SLPS_022.32:004EA4","zh_CN":"挑角刺击","source_text_sha256":"34d259713146a88cf898054adc8a232fa25f69ab82f5ba51062e8f89cd073a72"}
+{"id":"SLPS_022.32:004ED8","zh_CN":"扩散溶解电击","source_text_sha256":"fa4f25da769d627d4cfdc78b52fec4ca6ba5fa172536b7b211755acecfaecd93"}
+{"id":"SLPS_022.32:004F0C","zh_CN":"横向爪劈","source_text_sha256":"752fee5cae0de2e120d1f867d1fdf449118c6b2bde5d26212a5e0dcee2e0e0fb"}
+{"id":"SLPS_022.32:004F40","zh_CN":"电击","source_text_sha256":"23481ed48e4e9437e6dd524678073a15096e219b87dcbd43633256579ddd9069"}
+{"id":"SLPS_022.32:004F74","zh_CN":"触手","source_text_sha256":"67fbbfa8bd524df247b81cffacc1ec3305250bbfdcf372e58ef92f3c84b651df"}
+{"id":"SLPS_022.32:004FA8","zh_CN":"飓风","source_text_sha256":"ec3610f870761c52810fae8a983876a3532c119b39ab773e8d1a15bcd4016582"}
+{"id":"SLPS_022.32:004FDC","zh_CN":"大型导弹","source_text_sha256":"d45adc61807bd1fa14a797dd8fb86cdabcccd6507de0c2f5a4eabc4e9fd2678c"}
+{"id":"SLPS_022.32:005010","zh_CN":"战斧回旋镖","source_text_sha256":"368a9ffdd283a0d4a293e609c1683de1c1e6c529da905b61ab6b8c056beb38d3"}
+{"id":"SLPS_022.32:005044","zh_CN":"盖塔战斧","source_text_sha256":"839b0d6dbd0c9570ef322cdac5bc2f00745cf009b890b768fe7e13ee058c9315"}
+{"id":"SLPS_022.32:005078","zh_CN":"盖塔射线","source_text_sha256":"21e223f55aedad81e80da85f7a314629b271ccf44e4ddd22e61df840ed4d511b"}
+{"id":"SLPS_022.32:0050AC","zh_CN":"喷射钻头","source_text_sha256":"f63e1d8879f104cacda349ae0ea7f042cf20f2d2e9f7f9bc7f4830d293fc2682"}
+{"id":"SLPS_022.32:0050E0","zh_CN":"钻头臂","source_text_sha256":"5dbbbe6f7dfa23da82ed708b58aaeb246b7dec22b0364fe29d590e4733fe4157"}
+{"id":"SLPS_022.32:005114","zh_CN":"盖塔导弹","source_text_sha256":"1b074ba74787eaedf3048172135eaf00ea8e4aa972cdccf9be580a3dc8e9f72a"}
+{"id":"SLPS_022.32:005148","zh_CN":"盖塔重击","source_text_sha256":"761021e233b00b14228f5d16ad47738ba7391bd933da066b8c490cb8a58b8a5b"}
+{"id":"SLPS_022.32:00517C","zh_CN":"盖塔冲撞","source_text_sha256":"dd5441d0e4dadc4ad58c42868a44799f90a87c97756142c4dcbacb811cd40da3"}
+{"id":"SLPS_022.32:0051B0","zh_CN":"炮击","source_text_sha256":"3669ccd47f633b8835068588f50875df3a0857f2b4dbb218650c4792c68eb7d9"}
+{"id":"SLPS_022.32:0051E4","zh_CN":"小型战机出击","source_text_sha256":"f11f82f5226eeab2d1d8674209e7d330b917dc54521e6b911df3bdf0737880d9"}
+{"id":"SLPS_022.32:005218","zh_CN":"等离子火球","source_text_sha256":"f78f1e6f8aa93c6cc3d35eeab929f17aae1a681dd9a3a32917a778b0f4ed4270"}
+{"id":"SLPS_022.32:00524C","zh_CN":"空气切割刃","source_text_sha256":"e67f055ec9492efb494752a9f15b84bc3ab0e32ae9b5d979b47b8828a7894f8a"}
+{"id":"SLPS_022.32:005280","zh_CN":"飞翼切割刃","source_text_sha256":"d8e1485041a135b18d1527d5d891e4995b2418c9eb4a09c370878e31baa596f9"}
+{"id":"SLPS_022.32:0052B4","zh_CN":"角光束","source_text_sha256":"05562e3eaa61ad58730cbe4824ebffed86da53d10347a9e635496225d6352fa3"}
+{"id":"SLPS_022.32:0052E8","zh_CN":"剪刀手","source_text_sha256":"03b00b2d672f350623e4221a948cba07f06cd6042b447553c9794ccf8edc0df6"}
+{"id":"SLPS_022.32:00531C","zh_CN":"触手压击","source_text_sha256":"2eb26448ec1fac06031945985058af70af69ce714f3503566509ae4d26ddb2b1"}
+{"id":"SLPS_022.32:005350","zh_CN":"飞跃","source_text_sha256":"440a4649a8eb490e4242d515bf4a2f0175d54a9d6a69154121283ec9615a3cd0"}
+{"id":"SLPS_022.32:005384","zh_CN":"飞行鱼雷","source_text_sha256":"31d5db0f554ea309b4e16d200bc5b72121f7eee9d5a1ade61d8294f8c22d464c"}
+{"id":"SLPS_022.32:0053B8","zh_CN":"念动力","source_text_sha256":"c63bc3cf912457ab76c58a3f570cd8b566f164f7c358ccb21afc9e430f3b609f"}
+{"id":"SLPS_022.32:0053EC","zh_CN":"镰式切割刃1","source_text_sha256":"0aaf3ed74d9f93fae18b1c0033a8ca5929cf2fdbbd4bf909ec57744f9fe4f890"}
+{"id":"SLPS_022.32:005420","zh_CN":"镰式切割刃2","source_text_sha256":"08c063728854923d6e901caaa183a8644d94d7bb0c027d14e0db2bc6ecc8247a"}
+{"id":"SLPS_022.32:005454","zh_CN":"镰式切割刃3","source_text_sha256":"22eb5a7954df3c4643e6ffc344d6c0676fee22fc6a50e92e41b24e781078ea5f"}
+{"id":"SLPS_022.32:005488","zh_CN":"大型导弹","source_text_sha256":"d45adc61807bd1fa14a797dd8fb86cdabcccd6507de0c2f5a4eabc4e9fd2678c"}
+{"id":"SLPS_022.32:0054BC","zh_CN":"制导圆盘切割刃","source_text_sha256":"3fdfc2a45b27d24bee3445af41fe6dd5b3863fa022533acc83fc8c324d33bdf9"}
+{"id":"SLPS_022.32:0054F0","zh_CN":"圆盘切割斩","source_text_sha256":"5c5aa02d01e6b28d71fee329b2243b2541e6d81267c166da8e6f32f71e19596b"}
+{"id":"SLPS_022.32:005524","zh_CN":"十方剑","source_text_sha256":"32d2f41c43aa456c24013b3a621eb177a271ef156e85217c647251c241b76ba7"}
+{"id":"SLPS_022.32:005558","zh_CN":"腰带军刀","source_text_sha256":"122d64dc2f259a475474b620f53c9a0b41877d2512ffdd4579d1e875b1e1e9f6"}
+{"id":"SLPS_022.32:00558C","zh_CN":"双刀连续突刺","source_text_sha256":"30975d8a98c8efafdc007078a4aa2e21f62462d09b9e92d5a1e42c6b4c195df1"}
+{"id":"SLPS_022.32:0055C0","zh_CN":"乌扎拉眼部光束","source_text_sha256":"eac7b71d45d99f6435230098f702400220eb094b1e4bda5e36509c420ae14f55"}
+{"id":"SLPS_022.32:0055F4","zh_CN":"乌扎拉头部光束","source_text_sha256":"bfbbc12cc6232dc0a616bac92426ff20051f8f7a081b98dd28949703678cce34"}
+{"id":"SLPS_022.32:005628","zh_CN":"重力阻断光束","source_text_sha256":"cc8e20bdc8904b7554d1eff5686c3473dd3e354306ad424128a9015f2e66104b"}
+{"id":"SLPS_022.32:00565C","zh_CN":"锁链针","source_text_sha256":"8c0e93cf81e4dd8c47b48e6a0a98056fab5fe5c172b21353fecf1a0f57b61110"}
+{"id":"SLPS_022.32:005690","zh_CN":"砖块炸弹","source_text_sha256":"fd84f1399421dbed57d36af2e2360c5be80efdc71b65339784bf2d8fb27d231e"}
+{"id":"SLPS_022.32:0056C4","zh_CN":"钢铁战斧","source_text_sha256":"3af0daafd159d17b8521311d8b0557ef9aeb13b3678b8f647ff6c9f636d604a6"}
+{"id":"SLPS_022.32:0056F8","zh_CN":"火焰喷射","source_text_sha256":"81efb40ca1c2d47a7a3c81699223b160c2fe341ac2356e6efc89860122aa84b5"}
+{"id":"SLPS_022.32:00572C","zh_CN":"角式追踪导弹","source_text_sha256":"1668715ae1039b78e0bd8e81e131ca4a39850a1b891c2a5fc456dd10cb1dee15"}
+{"id":"SLPS_022.32:005760","zh_CN":"雷击","source_text_sha256":"5de1b913e76a90059b4b868b7fc5217cbdbe83f6aa422b80bb6d173421ad85df"}
+{"id":"SLPS_022.32:005794","zh_CN":"部件攻击","source_text_sha256":"69a453eb7526e8afdd65641e3cea6183aeb930e81f71130915824f5b928d2877"}
+{"id":"SLPS_022.32:0057C8","zh_CN":"骑乘重拳","source_text_sha256":"8d634ed2a1f5a92ea04f2fb893937fcb9733b1be3b9339ea91f65033d020966a"}
+{"id":"SLPS_022.32:0057FC","zh_CN":"阵风炮","source_text_sha256":"8b8d6bbae6c117aac0ba98d97c72bcbb4fcfc4581f2867119c3d8078287e8c42"}
+{"id":"SLPS_022.32:005830","zh_CN":"连续爪刺","source_text_sha256":"28cbc402e0ab038af5cf6873af8a3467854bfc2573ebdedf6fbfde2a81394441"}
+{"id":"SLPS_022.32:005864","zh_CN":"炮击","source_text_sha256":"3669ccd47f633b8835068588f50875df3a0857f2b4dbb218650c4792c68eb7d9"}
+{"id":"SLPS_022.32:005898","zh_CN":"毒针","source_text_sha256":"adfc95808ef4383b05d8c824520d5f2882384fe0e8077fa74ddf525f8bb1cbfd"}
+{"id":"SLPS_022.32:0058CC","zh_CN":"旋转攻击","source_text_sha256":"20778739bcc7e80774700584c94fc813e6a29331ed0458532f856a4b79bbb99b"}
+{"id":"SLPS_022.32:005900","zh_CN":"臂部撕咬","source_text_sha256":"a27a345af1ececab05c6e65110a429d4ae82e3be1064d0401ba9369b572ec597"}
+{"id":"SLPS_022.32:005934","zh_CN":"飞踢","source_text_sha256":"e63e669b364b0b454fd66ced0151dbb6a4ea109b9fad5fdfe814e7fbdcbf4fd8"}
+{"id":"SLPS_022.32:005968","zh_CN":"臂锤","source_text_sha256":"270d697a549658f76bf25edece6da8c8633d58a797c444ad2e4147398007e548"}
+{"id":"SLPS_022.32:00599C","zh_CN":"溶解液","source_text_sha256":"75f3d83dc866413f504866f795999219be0551c6ee2823565f3e0bdf4549387b"}
+{"id":"SLPS_022.32:0059D0","zh_CN":"巨钳攻击","source_text_sha256":"5733edae9d699668897918b525329beaa4facf0165b8f5c713c601e0b0c58daf"}
+{"id":"SLPS_022.32:005A04","zh_CN":"小型双联激光","source_text_sha256":"987201967aa06091cf99a84e8b909ad3621595f8512b34905cba977bfada99cf"}
+{"id":"SLPS_022.32:005A38","zh_CN":"卫星瞄准光束","source_text_sha256":"f22171681a57aa0f257d9ce71d9acd8d6b0c0aec673baaddc2bd63ca34d98606"}
+{"id":"SLPS_022.32:005A6C","zh_CN":"幻觉波","source_text_sha256":"8b4692c1869063535615458848c0424f01ec421f8c0ead585d98a1c641fee806"}
+{"id":"SLPS_022.32:005AA0","zh_CN":"亚空间宇宙","source_text_sha256":"b5c422b15fb1fbf50d0936cd5b3b854cacafc3d2b922a055a49490fa0d545a01"}
+{"id":"SLPS_022.32:005AD4","zh_CN":"卫星瞄准光束","source_text_sha256":"f22171681a57aa0f257d9ce71d9acd8d6b0c0aec673baaddc2bd63ca34d98606"}
+{"id":"SLPS_022.32:005B08","zh_CN":"赤眼光","source_text_sha256":"deb51650f66f4de5c0b18aef2044cd547e55e2ac32da0c9185955e37ce563229"}
+{"id":"SLPS_022.32:005B3C","zh_CN":"残舞剑","source_text_sha256":"6205fe11914e8e96db87baa9f05d7c81319f004e521aa6131fb54730fb6fc7cd"}
+{"id":"SLPS_022.32:005B70","zh_CN":"居合斩","source_text_sha256":"3ca96eb7136736fbfbbbbd356f7036a884c5aff0102a57e56892217b03f9b90f"}
+{"id":"SLPS_022.32:005BA4","zh_CN":"乌扎拉眼部光束","source_text_sha256":"eac7b71d45d99f6435230098f702400220eb094b1e4bda5e36509c420ae14f55"}
+{"id":"SLPS_022.32:005BD8","zh_CN":"乌扎拉头部光束","source_text_sha256":"bfbbc12cc6232dc0a616bac92426ff20051f8f7a081b98dd28949703678cce34"}
+{"id":"SLPS_022.32:005C0C","zh_CN":"重力阻断光束","source_text_sha256":"cc8e20bdc8904b7554d1eff5686c3473dd3e354306ad424128a9015f2e66104b"}
+{"id":"SLPS_022.32:005C40","zh_CN":"大型远程炮","source_text_sha256":"4039f8f86daf15e4cb039b18fe3b2ee0c34e10d529faa2c275e6842402265b80"}
+{"id":"SLPS_022.32:005C74","zh_CN":"岩浆触手","source_text_sha256":"4ff9c4b8bc43cb8e45b65d2853038515eacac4fa63e99b0d0057baa8aa9e08c6"}
+{"id":"SLPS_022.32:005CA8","zh_CN":"岩浆炮","source_text_sha256":"9f6848525538483fbd6729719f1e95ef08428531706314509ee7495677e43db8"}
+{"id":"SLPS_022.32:005CDC","zh_CN":"散射激光","source_text_sha256":"797afc17f97ef6cd786505baf2f9c87ba7cf55808bbc74061eacd7097da93aea"}
+{"id":"SLPS_022.32:005D10","zh_CN":"MSDI","source_text_sha256":"a12c62b2e5808b71e112740cef34058239ae05254685a90eaf11b42f5d41ae2c"}
+{"id":"SLPS_022.32:005D44","zh_CN":"超声波","source_text_sha256":"9d48b772b83fca83499b4d906a7a02bab8a67626dc45fa01b0c50cc8414fcba9"}
+{"id":"SLPS_022.32:005D78","zh_CN":"斩击","source_text_sha256":"339c5e82414e57d7936c0c533b4175182c6d9441cd4be05091ca9c3a244a83e6"}
+{"id":"SLPS_022.32:005DAC","zh_CN":"蚁酸","source_text_sha256":"3b1dc106f0deec7fe337f8418571345ff8e73149dc3b140d703d4b049b7a35c1"}
+{"id":"SLPS_022.32:005DE0","zh_CN":"撕咬","source_text_sha256":"c82f010e9b034cd546864042151495ba1843d4ab3d8d9dd8e12f98416f87fca7"}
+{"id":"SLPS_022.32:005E14","zh_CN":"蚁酸","source_text_sha256":"3b1dc106f0deec7fe337f8418571345ff8e73149dc3b140d703d4b049b7a35c1"}
+{"id":"SLPS_022.32:005E48","zh_CN":"立足点破坏","source_text_sha256":"3bb90cd35a29516e050a99a48660c813cbf8503e64a5066843a60aa9ada6f8eb"}
+{"id":"SLPS_022.32:005E7C","zh_CN":"千本针","source_text_sha256":"141b8a3f97fdd702511550c97d7cd8231f28e7b3c63f414614b1b275632101aa"}
+{"id":"SLPS_022.32:005EB0","zh_CN":"针刺冲锋","source_text_sha256":"d7128cdf127423f392a102807c21c8cc46289dd6baa2c56b3da18339826e0cbd"}
+{"id":"SLPS_022.32:005EE4","zh_CN":"舍身撞击","source_text_sha256":"389aa7ab1db285a69d41389cae6fd8bdf917823114fde79a2879c5cae8388d27"}
+{"id":"SLPS_022.32:005F18","zh_CN":"突刺","source_text_sha256":"221f3a8c28ac168701f6e2e74a5f847fb384367e55e80ca38385be17bf90aff5"}
+{"id":"SLPS_022.32:005F4C","zh_CN":"巨颚摔","source_text_sha256":"a60df551c557446ea299d3553a336b19c3f2c66d924c43c3d4de8bc8a4d6314a"}
+{"id":"SLPS_022.32:005F80","zh_CN":"亚空间之玉","source_text_sha256":"1cdb809025b66d711bd9c7ff8b91b25b7ca562056d6b6e0d7f5b1ce782559d44"}
+{"id":"SLPS_022.32:005FB4","zh_CN":"暗黑物质","source_text_sha256":"c297dc0580f9bb2fab7311ac5c51dcfcaf6858b8e25bd3c9536ff3eb0110dfd5"}
+{"id":"SLPS_022.32:005FE8","zh_CN":"产卵","source_text_sha256":"afe0a2a1f4720752244d807bdee014e026f743007d230011d7f487663e74666d"}
+{"id":"SLPS_022.32:00601C","zh_CN":"空间飞翔","source_text_sha256":"4f755b839b4f3092552f3fc62db740b76bbf0c5ff8493bcc272e1d969bd5f901"}
+{"id":"SLPS_022.32:006050","zh_CN":"宇宙光","source_text_sha256":"18c53bdc30920db5bb9a4073f86b6affffd340ab9dcf8b343a1338e178e80f23"}
+{"id":"SLPS_022.32:006120","zh_CN":"侦察(等级1)","source_text_sha256":"717bf1a4179d8b2d0f97245ef0fb6ca95206a24883040b44415871e31397de6b"}
+{"id":"SLPS_022.32:006154","zh_CN":"侦察(等级2)","source_text_sha256":"7afdc3c0888475143efd3fc8c2b9b862c9def55f5ca8846161107c0565330a31"}
+{"id":"SLPS_022.32:006188","zh_CN":"侦察(等级3)","source_text_sha256":"10c03992523d62ffdecf3db91546a2bee8e44ec33f12c4a95ce87ef0493ce531"}
+{"id":"SLPS_022.32:0061BC","zh_CN":"自爆(等级1)","source_text_sha256":"80cfc86813ffd97003e004bfdcd50cdd94dad22d585f494cffd53635c0aa46da"}
+{"id":"SLPS_022.32:0061F0","zh_CN":"自爆(等级2)","source_text_sha256":"f01150897ce4b42e826a0071a604ca49063e396dbb306d5bf633dc700b01a2e6"}
+{"id":"SLPS_022.32:006224","zh_CN":"自爆(等级3)","source_text_sha256":"bcd4c95710a39f759f34a824bdbe6cbac9aec9dbac2f7ed24f36464da764a175"}
+{"id":"SLPS_022.32:006258","zh_CN":"等级1","source_text_sha256":"c85fe4b7330548871ffb6c93302484ff708bb6e0a769a5bd58020ab1690dc7b8"}
+{"id":"SLPS_022.32:00628C","zh_CN":"等级2","source_text_sha256":"729419831f6251544f350c6cff432d2ba1edbf2e5bc2caab20a89ccc968083e3"}
+{"id":"SLPS_022.32:0062C0","zh_CN":"等级3","source_text_sha256":"0bcb384512bc0865c4f5cdb070770358d8b7de3853f04f164dcd3d8de817f342"}
+{"id":"SLPS_022.32:0062F4","zh_CN":"等级1","source_text_sha256":"c85fe4b7330548871ffb6c93302484ff708bb6e0a769a5bd58020ab1690dc7b8"}
+{"id":"SLPS_022.32:006328","zh_CN":"等级2","source_text_sha256":"729419831f6251544f350c6cff432d2ba1edbf2e5bc2caab20a89ccc968083e3"}
+{"id":"SLPS_022.32:00635C","zh_CN":"等级3","source_text_sha256":"0bcb384512bc0865c4f5cdb070770358d8b7de3853f04f164dcd3d8de817f342"}
+{"id":"SLPS_022.32:0063A8","zh_CN":"盖塔1","source_text_sha256":"8c5aa1d9bfc663d75fd461950a7810e8d7d46c56105a88eddcd7599143df80e3"}
+{"id":"SLPS_022.32:0063E2","zh_CN":"盖塔2","source_text_sha256":"658184117032a1e53108a29ec723d4e039b1e4103d7af6f05cacf86288bfb192"}
+{"id":"SLPS_022.32:00641C","zh_CN":"盖塔3","source_text_sha256":"684a0b92150427e397a1a997552c0fa3df6da01965137f72af3b6a1ed961ee01"}
+{"id":"SLPS_022.32:006456","zh_CN":"雄鹰号","source_text_sha256":"db6e2d5fd9f0e81aecb94c6e3c8755fdd8982144b24675d69ea608e36bdb753d"}
+{"id":"SLPS_022.32:006490","zh_CN":"猎豹号","source_text_sha256":"72370b151f1f4ae65dae141858d8797055fa50395764070ef70d3284294485e4"}
+{"id":"SLPS_022.32:0064CA","zh_CN":"巨熊号","source_text_sha256":"0f5ce972f2a8f6bb0616bb1be3ef4ebb9cb77e33065326381272157a1700e506"}
+{"id":"SLPS_022.32:006504","zh_CN":"盖塔1·2","source_text_sha256":"4957c6bea0d5323aac664fd79f3fff10e4450203113e0c2b3ce05584c3947df0"}
+{"id":"SLPS_022.32:00653E","zh_CN":"盖塔2·3","source_text_sha256":"1193b44b1ed6dc8a40ed0672bfd1088011c164a86a7ce78454a19941420b9045"}
+{"id":"SLPS_022.32:006578","zh_CN":"盖塔3·1","source_text_sha256":"c89f9d1d5ff2b8e928fd43b8087e97677401c27444775fcf22abdf50c66843df"}
+{"id":"SLPS_022.32:0065B2","zh_CN":"盖塔龙","source_text_sha256":"45ad3c59f2cedee66ec1d095118696f393ca525f5b4bbcd39c8c897065734293"}
+{"id":"SLPS_022.32:0065EC","zh_CN":"盖塔狮虎","source_text_sha256":"168c8f4c6793edf23838c28885856a11ce6f7fbaee1969e174608ac2b3b9a94a"}
+{"id":"SLPS_022.32:006626","zh_CN":"盖塔波塞冬","source_text_sha256":"26a4daa2988b37d74d579a42c2b31a0e6f89a3dd7ec6bfbcb3d08f3e8c845cf3"}
+{"id":"SLPS_022.32:006660","zh_CN":"飞龙号","source_text_sha256":"9218699c83747fd23477d87f24f1fd74888a66cdae9b6ebc5022b88d7d1f1821"}
+{"id":"SLPS_022.32:00669A","zh_CN":"狮虎号","source_text_sha256":"d0c1890d21c5367cb25efda07c8067d310f2d11d211a7b3c9fe36624132f6b14"}
+{"id":"SLPS_022.32:0066D4","zh_CN":"波塞冬号","source_text_sha256":"28594bd98c7974d10960a6c937f949bbe0262ca67752329c166d82fa66a47ad2"}
+{"id":"SLPS_022.32:00670E","zh_CN":"盖塔号","source_text_sha256":"8a1d1673b32be218fa64769d5e65df1692730dc311127ac6d170fff615baf638"}
+{"id":"SLPS_022.32:006748","zh_CN":"盖塔翔","source_text_sha256":"6d9875acdb4512e0b68d8193be89292992cbf530b875ef7f1eaba4eeff623460"}
+{"id":"SLPS_022.32:006782","zh_CN":"盖塔凯","source_text_sha256":"622838aa6226f95b1d94d11aeaae99d163f3f4b86cfac5160f62d6b1ded67252"}
+{"id":"SLPS_022.32:0067BC","zh_CN":"盖塔战机1","source_text_sha256":"137254a208da2eca55715f76871b8a17c0640ef7f34f4438b710818722253e01"}
+{"id":"SLPS_022.32:0067F6","zh_CN":"盖塔战机2","source_text_sha256":"7410058e1cc17efd2fc4a21a5bcbcaefe80ffb07d23db6e44c56f93779d274cb"}
+{"id":"SLPS_022.32:006830","zh_CN":"盖塔战机3","source_text_sha256":"cc3100eeb90dd1263564d88bd2a3a7d085fe351d5c5d8ae6af13912426904066"}
+{"id":"SLPS_022.32:00686A","zh_CN":"真盖塔1","source_text_sha256":"744903f7df1bf6c1f7ba3a3d0eb7d0c12e800d54fb46ecd71afd0cb82f9b5de9"}
+{"id":"SLPS_022.32:0068A4","zh_CN":"真盖塔2","source_text_sha256":"af55f65df1483cc92f63deff44966fd17b7f634617524df4fdb71d5d7d6f4d1c"}
+{"id":"SLPS_022.32:0068DE","zh_CN":"真盖塔3","source_text_sha256":"b6bfbc536217a92f619952c7b5afb22cc5891e0177b8cebac66e4297440d26a1"}
+{"id":"SLPS_022.32:006918","zh_CN":"真雄鹰号","source_text_sha256":"8f3b2bdab325a1e3ca43f7cc2e7bf434d6c6b9fa2a12797e75a8a9cce8437cef"}
+{"id":"SLPS_022.32:006952","zh_CN":"真猎豹号","source_text_sha256":"7523ed9b24cebcc092cebcb3457c238b719a8e53d9907febdd8cd6beee564a76"}
+{"id":"SLPS_022.32:00698C","zh_CN":"真巨熊号","source_text_sha256":"e0cd84f5dfece467729c89174cb444c343037b27da2e82240e240904c513e74f"}
+{"id":"SLPS_022.32:0069C6","zh_CN":"真盖塔龙","source_text_sha256":"78d6cd1af1a65ddf88b836d90c252ce6382c784f8d0ed71df881219ec395c243"}
+{"id":"SLPS_022.32:006A00","zh_CN":"黑盖塔","source_text_sha256":"2605cb4bf2eb5b70e061f36cbeae89f74297942bc2381ddf89b53727ced33f63"}
+{"id":"SLPS_022.32:006A3A","zh_CN":"盖塔烈火","source_text_sha256":"29cdf74038cfa022dd03cc9e539564bd5b8cecf92b80b615dcfaf16523d096f0"}
+{"id":"SLPS_022.32:006A74","zh_CN":"盖塔紫电","source_text_sha256":"de139ef4fc9028163c97fa1511f967d7c9e260245f4add9cf8b05052faca3968"}
+{"id":"SLPS_022.32:006AAE","zh_CN":"盖塔金刚","source_text_sha256":"6e0f1d787bb7e7df7af7bffe110d55893bab467ac876a01e289b5fe283a22720"}
+{"id":"SLPS_022.32:006AE8","zh_CN":"烈火号","source_text_sha256":"affa5b0f70dbcc5fedcf8b7d5066ca8e069d97518145efd80fab4deeaeaca055"}
+{"id":"SLPS_022.32:006B22","zh_CN":"紫电号","source_text_sha256":"1b1f763abc3b8076781b796ea67136f0e6cb519295b74755f686a6bb476f46fc"}
+{"id":"SLPS_022.32:006B5C","zh_CN":"金刚号","source_text_sha256":"1f8e60b80d50352c6bae93d0dbdd429b7bcbd1b2c714cf3707f870be400f45e0"}
+{"id":"SLPS_022.32:006B96","zh_CN":"BT-23","source_text_sha256":"a053e1f5f89fa923cc0db0ca70f5cfe88e79a37ec89e33b0f54336f400056aef"}
+{"id":"SLPS_022.32:006BD0","zh_CN":"女郎指挥艇","source_text_sha256":"6dbc396f6fd169e1fbf2549e2e334dd6f2dd0b2e6ba103e3f2c135c7e4d1aeb9"}
+{"id":"SLPS_022.32:006C0A","zh_CN":"鲸鱼2005D1","source_text_sha256":"0b87bbd73ba9a24e3ef33f55b3a654fb52489faea84324bf045f6328caebbffb"}
+{"id":"SLPS_022.32:006C44","zh_CN":"盖塔皇帝","source_text_sha256":"1306ae6c4e56e42ca92d3238faf78cfed964053defce635116e702cb986c816c"}
+{"id":"SLPS_022.32:006C7E","zh_CN":"斯特尔巴","source_text_sha256":"14c90d6bda61ee507b9c108f44e48065f5b99935dedbff379c02555ff87668e8"}
+{"id":"SLPS_022.32:006CB8","zh_CN":"斯特尔巴","source_text_sha256":"14c90d6bda61ee507b9c108f44e48065f5b99935dedbff379c02555ff87668e8"}
+{"id":"SLPS_022.32:006CF2","zh_CN":"伏尔加80000","source_text_sha256":"d599ec2da12f3e33c324cf0f6e653edca5574648424c770ea6a4c325672d0c53"}
+{"id":"SLPS_022.32:006D2C","zh_CN":"罗博斯通","source_text_sha256":"375bc01dab9a74d8c744592031779a7e8c5b60093dc01a51a2f02984c6a87c65"}
+{"id":"SLPS_022.32:006D66","zh_CN":"王国007","source_text_sha256":"fdaeaeb58c6d412b44ef44fcf73245255d8c5c44a66f31b87b2f4bbf33ca352d"}
+{"id":"SLPS_022.32:006DA0","zh_CN":"古斯塔夫","source_text_sha256":"09815c791734b326b381651f298891496da6cbc992c8faae5d106878578fe54a"}
+{"id":"SLPS_022.32:006DDA","zh_CN":"得克萨斯马克","source_text_sha256":"69b1b152595114b14245ba778d67f9573aba37d3b223b6b22370fe6638e87e8f"}
+{"id":"SLPS_022.32:006E14","zh_CN":"得克萨斯移动舰","source_text_sha256":"65be6913c98380f403c14224bd9270f5cb6ad53fdcd170af75007952706fff4b"}
+{"id":"SLPS_022.32:006E4E","zh_CN":"巴兹","source_text_sha256":"901ef675102f69b526b0cc2843284aaaf12890474eca5368a390374a424ebc02"}
+{"id":"SLPS_022.32:006E88","zh_CN":"巴鲁","source_text_sha256":"1d9328011b12922881189d26ba8906cf0e1a6c5dd19f20626ab8e824bde31513"}
+{"id":"SLPS_022.32:006EC2","zh_CN":"基罗","source_text_sha256":"4c52e2c4cb53c60da91bf01cb3897f6f764cca37211b97366e568c15e7edaf2c"}
+{"id":"SLPS_022.32:006EFC","zh_CN":"吉伽","source_text_sha256":"974d652e4a8f207cf4673a5d31b780973aac96ae945f2726bb80f525c542915b"}
+{"id":"SLPS_022.32:006F36","zh_CN":"莫古罗","source_text_sha256":"6c8e8bf1d3e174561171175c3fb85c3c907464f482aec77260df1995ec947d19"}
+{"id":"SLPS_022.32:006F70","zh_CN":"基基","source_text_sha256":"85052c5f5f0037f9005d12aad8a07a0946fb7880a4bc7db8aaa388fbf5ae3ec8"}
+{"id":"SLPS_022.32:006FAA","zh_CN":"乌鲁","source_text_sha256":"09e467b8be7a63153870b500a196fb6f0a24c197c0baad5fead916c129dedd5e"}
+{"id":"SLPS_022.32:006FE4","zh_CN":"机械台风","source_text_sha256":"0e1200cda763d944ced2f3b10538eb1972dda5981c51c96aeaf98a36681b855c"}
+{"id":"SLPS_022.32:00701E","zh_CN":"莫巴","source_text_sha256":"bca1ab414368bfbbc743903189f6b091a2144be38ce2633f9deff4a26f39263f"}
+{"id":"SLPS_022.32:007058","zh_CN":"皮克德隆","source_text_sha256":"8bc524c8122c0d5e09ecf17afc51b3bea440ea01fc44a448a2a56e0e1ec9f1ea"}
+{"id":"SLPS_022.32:007092","zh_CN":"盖拉","source_text_sha256":"02c4481833eb4e7b007053a8eac47288bfc917a3aa09fd6f0b506b4a6968f9c5"}
+{"id":"SLPS_022.32:0070CC","zh_CN":"恐龙艇","source_text_sha256":"c1a4a407fe1bc8dc897c913eaeb7882f79e88b2662bf5e155c0c22426aeacecd"}
+{"id":"SLPS_022.32:007106","zh_CN":"量产盖塔1","source_text_sha256":"6bbb1cea39fc6df0fc06aa470f0cfad6dcc4cb98db5801d640acde99871c4e6c"}
+{"id":"SLPS_022.32:007140","zh_CN":"量产盖塔2","source_text_sha256":"b417168f97d58bb8d9cc2fb84d374c1292b2fb1c878879e894d47356bea794c4"}
+{"id":"SLPS_022.32:00717A","zh_CN":"量产盖塔3","source_text_sha256":"7653a8cad5643aeac61fafbc5c58dcaa0ea06fc45918e4c4b4c5373b43a8c0ab"}
+{"id":"SLPS_022.32:0071B4","zh_CN":"机械半月鬼","source_text_sha256":"864d8633f01b8569fbfc8dfb3b8f44c5bf3dc0e5e8b0797b527aa61968d31a0d"}
+{"id":"SLPS_022.32:0071EE","zh_CN":"机械一角鬼","source_text_sha256":"9e39544bee178109c06498f2f3d9a92f6f06662eb884be3cd753c5b574a15cfc"}
+{"id":"SLPS_022.32:007228","zh_CN":"机械海王鬼","source_text_sha256":"21e3db4261af63492eb354a48013758b7c4ce7eee5875acbc691b1319ba2ec79"}
+{"id":"SLPS_022.32:007262","zh_CN":"机械三头鬼","source_text_sha256":"806eb3b829622c02a880e81c73f2fcd2ce57a41e0cc035b4d5dff64f7625f8ad"}
+{"id":"SLPS_022.32:00729C","zh_CN":"巨雷鬼","source_text_sha256":"c83ce21c4fa4b680d316ffe15c1ad4a42de8c4755b1db843e8b0b139dee90ae3"}
+{"id":"SLPS_022.32:0072D6","zh_CN":"机械钢头鬼","source_text_sha256":"bf43c6962530ba4cafab021d2e949fc0c5f06dc437e9d5492805c0d537ed007e"}
+{"id":"SLPS_022.32:007310","zh_CN":"机械五本鬼","source_text_sha256":"11496df3d289a1244dcb1a300a8c3f75f0cbb854e0350873b9579c3aef3610eb"}
+{"id":"SLPS_022.32:00734A","zh_CN":"机械一本鬼","source_text_sha256":"53d34f20509560d9e4b996da850ca446eb401be0f6c5cb4493bcb8cf58b1e905"}
+{"id":"SLPS_022.32:007384","zh_CN":"乌扎拉","source_text_sha256":"beae0c71d1b29e7e93e92c55b535e439d5292ec3b0e84d0109e2edb80c592ed7"}
+{"id":"SLPS_022.32:0073BE","zh_CN":"机械铁甲鬼","source_text_sha256":"ba88cd7e80bd484c40ebf268ac21f50cb40b119e7e02183be053eaf16e12be36"}
+{"id":"SLPS_022.32:0073F8","zh_CN":"魔王鬼","source_text_sha256":"b9c70f1c10eb576fa08dd041fcdc4f820b0cf42e5fbdcddcc5496b8efdfabeb1"}
+{"id":"SLPS_022.32:007432","zh_CN":"巨兽鬼","source_text_sha256":"7242e0fee62beac0d999e2672f96538157e6e805f7db6aa18267566123655bd2"}
+{"id":"SLPS_022.32:00746C","zh_CN":"比恩","source_text_sha256":"a8cb834bfee25f66a835d36509493c6e7823d7b2d676548d0f994555f0d34255"}
+{"id":"SLPS_022.32:0074A6","zh_CN":"蠕虫","source_text_sha256":"d8eb3abf5fcb30dffbcebe9ad97af4e79fd8cbe9e50541780361149edbd7e0ef"}
+{"id":"SLPS_022.32:0074E0","zh_CN":"加科兹","source_text_sha256":"daab7d115b224b55cb50066d66c49b0facf1155018151e2de4b1da01612d0e2c"}
+{"id":"SLPS_022.32:00751A","zh_CN":"克拉布","source_text_sha256":"a32567de6543d0a96cbc609ee543d86d504ced11d4d2f11c660faa968b299517"}
+{"id":"SLPS_022.32:007554","zh_CN":"基甘特×2","source_text_sha256":"91a9bddf868a88e3e9275e13e026784ef5f9b2be85b558c1f1f52530ddcd2a4e"}
+{"id":"SLPS_022.32:00758E","zh_CN":"比因RX1","source_text_sha256":"4c81c0ec473c8fe58f77f0644eaf74c587c64f6d5014866ad93ddca3c6c7b2c9"}
+{"id":"SLPS_022.32:0075C8","zh_CN":"加尔曼B25","source_text_sha256":"b98e1114449a7a9f0727fce04c1c6103f52faa7d0bcae889361e7f420fdec224"}
+{"id":"SLPS_022.32:007602","zh_CN":"基甘特×3","source_text_sha256":"bda7cc6e2280c591d42d01f32429efe92174965d642a6fd04e9df212db8aa76b"}
+{"id":"SLPS_022.32:00763C","zh_CN":"加隆Z54","source_text_sha256":"49685ccf462d5724fae9c02dee4f57284020a341368bc9d7a0e3a0438649ed9f"}
+{"id":"SLPS_022.32:007676","zh_CN":"改造乌扎拉","source_text_sha256":"c7e30bec6c103c703a3e374e4801d6e3ce5036d1e6b34e2b915aa7206a923715"}
+{"id":"SLPS_022.32:0076B0","zh_CN":"龙龟","source_text_sha256":"4e224cc0ceb48b211c282ff8e9eb486a8d9e093034aff79b9bc1b258ed95009f"}
+{"id":"SLPS_022.32:0076EA","zh_CN":"德比拉·姆","source_text_sha256":"a2bbbc2a38ec5bfb49cfff885f019ef4706d7d6a5908c7776adc050a3f59c9ad"}
+{"id":"SLPS_022.32:007724","zh_CN":"蛇牙城","source_text_sha256":"14c2811df887ccdb35751bc3c5483056f38ace5af9d478ad701df43683749ee9"}
+{"id":"SLPS_022.32:00775E","zh_CN":"盖塔炉心","source_text_sha256":"87402c71a30c23e2d3209807392c53518241aff6fe9eba8471469ed5f23b0d56"}
+{"id":"SLPS_022.32:007798","zh_CN":"机械蝉","source_text_sha256":"038a04127371d083aa1756d2eb2d4df41381e8efeb5446b595dead89f8b7b337"}
+{"id":"SLPS_022.32:0077D2","zh_CN":"机械蚁","source_text_sha256":"6fc6a4b122dcdeb3ffc43b8262d18ebb351c6a29274fcef6d040428bde3c356f"}
+{"id":"SLPS_022.32:00780C","zh_CN":"机械蚁狮","source_text_sha256":"072f07094b2d48218846c915cc880e4f68f2bbe0327d1bfa6cd2529a1651af0a"}
+{"id":"SLPS_022.32:007846","zh_CN":"机械蜂","source_text_sha256":"039114ef29f51d19606029aa5764bad24f7b52485c779779507f2a40318f08e5"}
+{"id":"SLPS_022.32:007880","zh_CN":"机械锹甲","source_text_sha256":"7b7ed01cca64d1e27ebb69cda680b063934a6cdceb9483b77f51e2ddd4fa15cd"}
+{"id":"SLPS_022.32:0078BA","zh_CN":"霍格拉姆D7","source_text_sha256":"9911ea278bdf60de377253c35bd88ac8041ba25f22c664f75a44fe325f2770fc"}
+{"id":"SLPS_022.32:0078F4","zh_CN":"时空蠕虫","source_text_sha256":"00287af5b625d2bdd9b688d7af94c30551e77008af5c9d548d78af661cf7ba9f"}
+{"id":"SLPS_022.32:007968","zh_CN":"无敌战舰戴","source_text_sha256":"f4d0fb5af86b8c0fe8ea5086356fbffcd2c0a5045141bae4e7e86fb62c61a41b"}
+{"id":"SLPS_022.32:0079A2","zh_CN":"神龟","source_text_sha256":"ecc8d5a3c182b226bc4254ccb105451014aa5126e80548d1ddf87b9f19100de7"}
+{"id":"SLPS_022.32:0079DC","zh_CN":"超级盖塔号","source_text_sha256":"4db95a25d901b060b54898d633e415d7f115ae3bf7ee94fc979a080a47da10e6"}
+{"id":"SLPS_022.32:007A16","zh_CN":"导弹炮台","source_text_sha256":"bdce98fc237dff5f7bb55cc336f55a5eb9e512190d20f33163fe482f5944190c"}
+{"id":"SLPS_022.32:007A50","zh_CN":"盖塔皇帝","source_text_sha256":"1306ae6c4e56e42ca92d3238faf78cfed964053defce635116e702cb986c816c"}
+{"id":"SLPS_022.32:007A8A","zh_CN":"真盖塔1","source_text_sha256":"744903f7df1bf6c1f7ba3a3d0eb7d0c12e800d54fb46ecd71afd0cb82f9b5de9"}
+{"id":"SLPS_022.32:007AC4","zh_CN":"得克萨斯移动舰","source_text_sha256":"65be6913c98380f403c14224bd9270f5cb6ad53fdcd170af75007952706fff4b"}
+{"id":"SLPS_022.32:007AFE","zh_CN":"龙龟","source_text_sha256":"4e224cc0ceb48b211c282ff8e9eb486a8d9e093034aff79b9bc1b258ed95009f"}
+{"id":"SLPS_022.32:007B38","zh_CN":"蛇牙城","source_text_sha256":"14c2811df887ccdb35751bc3c5483056f38ace5af9d478ad701df43683749ee9"}
+{"id":"SLPS_022.32:007B72","zh_CN":"时空蠕虫","source_text_sha256":"00287af5b625d2bdd9b688d7af94c30551e77008af5c9d548d78af661cf7ba9f"}
+{"id":"SLPS_022.32:007BAC","zh_CN":"恐龙艇","source_text_sha256":"c1a4a407fe1bc8dc897c913eaeb7882f79e88b2662bf5e155c0c22426aeacecd"}
+{"id":"SLPS_022.32:007BE6","zh_CN":"核电站","source_text_sha256":"5c96e684ce3e62ce232c3b287d899812fdb9ef2ea8670ac9ccf4b6a26a181762"}
+{"id":"SLPS_022.32:007C20","zh_CN":"量产雄鹰号","source_text_sha256":"1730d1a3dbb55bea8d14731f6eddb78eac4776fd6f528cd0acac89bbf384af6f"}
+{"id":"SLPS_022.32:007C5A","zh_CN":"量产猎豹号","source_text_sha256":"63597f455096030d1826a41ffc4164952c9904cfeab6bb88bc725c521790b735"}
+{"id":"SLPS_022.32:007C94","zh_CN":"量产巨熊号","source_text_sha256":"982b4e521dd8e4081cfc0170f2b0348a59653aa2eb8226d1edea85ea5f9aa3b3"}
+{"id":"SLPS_022.32:007CE7","zh_CN":"空  ","source_text_sha256":"c6323f7b7f2cf4480602bffdc7088319cfbb5e195496125d5cc2b071dfc10a98","review":{"method":"exact terminology/UI override","previous_target_sha256":"6c8c7a77cdfd4fd3e8d872de821ed94b78d8a967978cb3b460f06602c6e5ee67"}}
+{"id":"SLPS_022.32:007CEE","zh_CN":" 陆 ","source_text_sha256":"b1fa819cf680e9d9b2b2ab36438dae2e280704d9cac928cf6a174f8506ceb588","review":{"method":"exact terminology/UI override","previous_target_sha256":"c214ddf69f944931ab199fe89c767ae9601fc8ad49eefb109f6b27228872f391"}}
+{"id":"SLPS_022.32:007CF5","zh_CN":"空陆 ","source_text_sha256":"81e0ed681748d031ae8269f86b95cf9610df22494105a4a34afeff46a490e9d0","review":{"method":"exact terminology/UI override","previous_target_sha256":"3cecac2aacbc1ff0a35b324276c5440f22623b42b7a5f265ffd9cf94b595dc6f"}}
+{"id":"SLPS_022.32:007CFC","zh_CN":" 陆 ","source_text_sha256":"b1fa819cf680e9d9b2b2ab36438dae2e280704d9cac928cf6a174f8506ceb588","review":{"method":"exact terminology/UI override","previous_target_sha256":"c214ddf69f944931ab199fe89c767ae9601fc8ad49eefb109f6b27228872f391"}}
+{"id":"SLPS_022.32:007D03","zh_CN":"空陆","source_text_sha256":"186d5ffcf8209b3128d0fdeef2b937a10f74f1df4068e242014534cccfe3470e","review":{"method":"exact terminology/UI override","previous_target_sha256":"3cecac2aacbc1ff0a35b324276c5440f22623b42b7a5f265ffd9cf94b595dc6f"}}
+{"id":"SLPS_022.32:007D0A","zh_CN":" 陆 ","source_text_sha256":"b1fa819cf680e9d9b2b2ab36438dae2e280704d9cac928cf6a174f8506ceb588","review":{"method":"exact terminology/UI override","previous_target_sha256":"c214ddf69f944931ab199fe89c767ae9601fc8ad49eefb109f6b27228872f391"}}
+{"id":"SLPS_022.32:007D11","zh_CN":"空陆 ","source_text_sha256":"81e0ed681748d031ae8269f86b95cf9610df22494105a4a34afeff46a490e9d0","review":{"method":"exact terminology/UI override","previous_target_sha256":"3cecac2aacbc1ff0a35b324276c5440f22623b42b7a5f265ffd9cf94b595dc6f"}}
+{"id":"SLPS_022.32:007D18","zh_CN":"  海","source_text_sha256":"b12565c21bb558d3b3273b8c4f77471ff9c8a36f19baee54cb903537fb33a866","review":{"method":"exact terminology/UI override","previous_target_sha256":"0ac6d5192ec21d34f7d6e0b0246b06d5cbaa2600cfcbd48f2363d1e3d22e76a2"}}
+{"id":"SLPS_022.32:007D1F","zh_CN":"空 海","source_text_sha256":"8f8feb189e7aa10a6681d35fe7f035864eaa0fdd07e3bfef2a379d5782f392d9","review":{"method":"exact terminology/UI override","previous_target_sha256":"2ceb2b1d4314c80564531b98e4052986c29697d3bad4f9d552f09cf578422c11"}}
+{"id":"SLPS_022.32:007D26","zh_CN":" 陆海","source_text_sha256":"bae49afda22b508c8ed3beaaf1b7fcfbfa6f90082c13051b0e0bca51252eaa83","review":{"method":"exact terminology/UI override","previous_target_sha256":"20abc76fe6fb075fa9fb01477684b9a98d5813b4c18ca2ae3b3ff67833afa5eb"}}
+{"id":"SLPS_022.32:007D2D","zh_CN":"空陆海","source_text_sha256":"b56cf995bcb51fe098ad463dd9e0a4e6b5bc39aee5e21bccadabc5986acbb5f5","review":{"method":"exact terminology/UI override","previous_target_sha256":"d7ce8e61d4f629f5c52903979eab07c7535476e4bbd26ee5aed3b04b9cd8c4f4"}}
+{"id":"SLPS_022.32:007D34","zh_CN":" 陆海","source_text_sha256":"bae49afda22b508c8ed3beaaf1b7fcfbfa6f90082c13051b0e0bca51252eaa83","review":{"method":"exact terminology/UI override","previous_target_sha256":"20abc76fe6fb075fa9fb01477684b9a98d5813b4c18ca2ae3b3ff67833afa5eb"}}
+{"id":"SLPS_022.32:007D3B","zh_CN":"空陆海","source_text_sha256":"b56cf995bcb51fe098ad463dd9e0a4e6b5bc39aee5e21bccadabc5986acbb5f5","review":{"method":"exact terminology/UI override","previous_target_sha256":"d7ce8e61d4f629f5c52903979eab07c7535476e4bbd26ee5aed3b04b9cd8c4f4"}}
+{"id":"SLPS_022.32:007D42","zh_CN":" 陆海","source_text_sha256":"bae49afda22b508c8ed3beaaf1b7fcfbfa6f90082c13051b0e0bca51252eaa83","review":{"method":"exact terminology/UI override","previous_target_sha256":"20abc76fe6fb075fa9fb01477684b9a98d5813b4c18ca2ae3b3ff67833afa5eb"}}
+{"id":"SLPS_022.32:007D49","zh_CN":"空陆海","source_text_sha256":"b56cf995bcb51fe098ad463dd9e0a4e6b5bc39aee5e21bccadabc5986acbb5f5","review":{"method":"exact terminology/UI override","previous_target_sha256":"d7ce8e61d4f629f5c52903979eab07c7535476e4bbd26ee5aed3b04b9cd8c4f4"}}
+{"id":"SLPS_022.32:007D84","zh_CN":"机体名称","source_text_sha256":"8df0031e569a53efa31e0cd02c991b025eb4c71033cb2a103c8a56c8d137499a","review":{"method":"exact terminology/UI override","previous_target_sha256":"21e4f26a7c46a47bc2084f95cc508f80dc1556b53be2c82c5361d519c0dac4a4"}}
+{"id":"SLPS_022.32:007D90","zh_CN":"驾驶员姓名","source_text_sha256":"f76f74f6dab2c20d88c09462101074eceed2406f4d407b30a44017b87e7417fe","review":{"method":"exact terminology/UI override","previous_target_sha256":"1eadeb94c0d98def713400b1ffc47ae3a34722cc809e999c22510011845b2163"}}
+{"id":"SLPS_022.32:007DA0","zh_CN":"等级顺序","source_text_sha256":"2520913b7730581644caa6009d7d4f44067495ccf820b795dca1be1445211725","review":{"method":"exact terminology/UI override","previous_target_sha256":"8d9df300e094036ef961b3654510d351eb9316984b2241987aca147e80625209"}}
+{"id":"SLPS_022.32:007DAC","zh_CN":"搭载机体","source_text_sha256":"aea0ceba5a9fdae5a9268827c44351673587bdec84478e60210281d7c655e46f","review":{"method":"exact terminology/UI override","previous_target_sha256":"5cabd62abae65c82c01abd55df1a921bd862408e9aebf8a126d9a7e47b491bc9"}}
+{"id":"SLPS_022.32:007DBC","zh_CN":"设定命令","source_text_sha256":"10dfb1965ddb11d459a505fa8b46d99ebd7df0be6ba6ecfea1446bed58411371"}
+{"id":"SLPS_022.32:008000","zh_CN":"移动蓄力","source_text_sha256":"0187c38c54501a54986f227c8769b2d7ffce80392aceaa418cb89884defba46f"}
+{"id":"SLPS_022.32:00801C","zh_CN":"EN回复","source_text_sha256":"5928842686c78e859e87a3acf93931b17810bb14afc47d288ecf25385f0f0dd4","review":{"method":"exact terminology/UI override","previous_target_sha256":"aef670dc9dae8e00db777e8b113963f03a50d0a140ab5c5ad47064e451dafffa"}}
+{"id":"SLPS_022.32:00803C","zh_CN":"HP回复","source_text_sha256":"cfa0a89cd385fbab9b2af0e52bc071bd2bf3ae3d2f38a17c8e3126f70b9b75ea","review":{"method":"exact terminology/UI override","previous_target_sha256":"db7e451352b071218f0799ec565cf84133e65366fb8edfe62a1f62b3e4932795"}}
+{"id":"SLPS_022.32:008058","zh_CN":"暴击","source_text_sha256":"3f25dbed6eed60c30107d1c9392216581b1d8522782ba160bbe8578a0c07070a"}
+{"id":"SLPS_022.32:0080DC","zh_CN":"移动辅助","source_text_sha256":"9484cf0cd51306a0fe931fce6be9ccd39fe9b0c75a53f2c15058c84f98654016"}
+{"id":"SLPS_022.32:008114","zh_CN":"两次移动","source_text_sha256":"d95955c2a52a87101fbde3384d3dbbb350aa8d3b090449be791a3237fcff826a","review":{"method":"exact terminology/UI override","previous_target_sha256":"8ebfe179d3b1c97140f78ac1cdf17beab7f6ba735dd19a765710fa63d127b344"}}
+{"id":"SLPS_022.32:008520","zh_CN":"策略：歼灭敌人。\n注意：从地下...","source_text_sha256":"3658001edb30c3b61664a7d5a2f3709ecdcd75481bf60027762b00274b77d5a8"}
+{"id":"SLPS_022.32:008544","zh_CN":"策略：歼灭敌人。\n注：在海里战斗可能会更好……","source_text_sha256":"140d80ff9dc98cbd1e2535f3730c6643364bef3edb8a617d1d4ae4d37fb6798e"}
+{"id":"SLPS_022.32:008574","zh_CN":"作战：全灭敌军。\n备注：灵活运用战场！","source_text_sha256":"25282f63d2fb1941c7278676109c88fb7382293a7ab3cd58027e5137bbe6b081","review":{"method":"exact terminology/UI override","previous_target_sha256":"3b96151c3e859839e35c278d1260e7dcb0496efe78c7d761918ea11f68b01f74"}}
+{"id":"SLPS_022.32:00859C","zh_CN":"操作：破坏时空蠕虫。备注\n：向前冲！","source_text_sha256":"6bafb9d9658105adc3371000d125914a6d7b07d5c6899e349f956f28b1c2ad68","review":{"method":"MT spacing normalization","previous_target_sha256":"d7416b7b657585c1928d2625b86775de5dd6f4648f020d58d6828b2f81337dd7"}}
+{"id":"SLPS_022.32:0085CC","zh_CN":"作战：击败敌人！\n备注：不要大意！","source_text_sha256":"cbb1ef56b679e13f69d7ef42e94f4b0e328791baa3d982e7788b05bfe100142b","review":{"method":"exact terminology/UI override","previous_target_sha256":"3b568eec1a732351ed94b334d26101a064c1ee048162471c1dfe2e25bccb33c0"}}
+{"id":"SLPS_022.32:0085F0","zh_CN":"作战：摧毁蛇牙城。\n备注：鲸鱼号受损就麻烦了。","source_text_sha256":"c343e7ba2e5bb42540df681833c19899ccdd31c258a8db10360143ccb9504b54","review":{"method":"exact terminology/UI override","previous_target_sha256":"edd3c750b3e2e184d941aebca91f338e8c9a4decf886247dd320b7a60e25e070"}}
+{"id":"SLPS_022.32:008624","zh_CN":"操作：破坏龙龟。注意：\n不要让他们去地图底部的阿拉斯加基地！","source_text_sha256":"77815fab9794d8cad91e2a68f7548db5b5f7b85947666e58244eec7580db6186"}
+{"id":"SLPS_022.32:008670","zh_CN":"策略：歼灭敌\n人。注意：保存体力以备后用！","source_text_sha256":"f814c3c1965c72ebb1a0d0353a575fb582c3fb827794eed22b41a071a6d99b73"}
+{"id":"SLPS_022.32:0086A8","zh_CN":"行动：伏尔加护航。\n备注：保护伏尔加河一定回合数！","source_text_sha256":"98a0170f7d28402963115cd7c87d14aae200203cc6766a2d7e3ea3f9e6712004"}
+{"id":"SLPS_022.32:0086E0","zh_CN":"策略：实地考察\n注意事项：进城！","source_text_sha256":"23d65ee92dda597a972b37f50c09e114bc871e30f762a91a0f3af7ed14e4bc6b","review":{"method":"MT spacing normalization","previous_target_sha256":"9b54a757084a115c2a484c83bfadea7285104f7b01fae58672deaadb14578c6c"}}
+{"id":"SLPS_022.32:008704","zh_CN":"策略：歼灭敌人\n。备注：尽你所能！","source_text_sha256":"7b905a09b8f9ad75ff956e27d8a9c3e576e221a29d68ae437aed7db174e72102"}
+{"id":"SLPS_022.32:00872C","zh_CN":"行动：消灭加隆。注\n意：他的目标是翔。","source_text_sha256":"ce62c166ddb52f72b7925879d992b1c4d26c31aba295696d628034c361a392c4"}
+{"id":"SLPS_022.32:00875C","zh_CN":"策略：歼灭敌人\n。注意：记住敌人的特征！","source_text_sha256":"df8de7beaff705ec591e5cc231f02f5f8fe1d2b5485461965bca8bc6e2827824"}
+{"id":"SLPS_022.32:008788","zh_CN":"行动：摧毁乌扎拉。\n注意：我应该绕道还是直走？","source_text_sha256":"39cd8843492a440ad3cc248d24fd583dbc6bc283f1667b55ca2ebc20ff42e8bd"}
+{"id":"SLPS_022.32:0087C0","zh_CN":"操作：消灭细菌导弹炮台。注：如果\n你打败导弹炮台晚了，打败它会更容易。","source_text_sha256":"8dd8798963f86ce0d87fceacb5a7082ecf308903073eda3ccb9ad34944f12330"}
+{"id":"SLPS_022.32:008814","zh_CN":"操作：破坏盖塔炉心。注意\n：摧毁光束卫星周围的三个盖塔核心！","source_text_sha256":"e23d219fea63446716bc3525036dc05f8ee7d4ba58abf10be0ef54cf0c605b39"}
+{"id":"SLPS_022.32:00886C","zh_CN":"作战：全灭敌军。\n备注：密切注意得克萨斯号！","source_text_sha256":"eaf42a5a6bda4503e8a2dae5b7571bad72ba059bb3a567dbe013de075e7bf4e2","review":{"method":"exact terminology/UI override","previous_target_sha256":"74e8c387b98ea927f4dd6bfb756b2e912b5c1d26664359cbe76b89d811eca636"}}
+{"id":"SLPS_022.32:0088A0","zh_CN":"策略：歼灭敌人。注\n意：用好盖塔机器人号！","source_text_sha256":"eb1725cffe4ec567b5e6f7e6767f8b391ee8e3a513f07d53330f3a04084c728d"}
+{"id":"SLPS_022.32:0088D4","zh_CN":"作战：摧毁魔王鬼。\n备注：魔王鬼很强，但一定有弱点。","source_text_sha256":"f99404345721eb6c9ba7e6fc0bea928a26a711a999517ae58e40dea7c2804972","review":{"method":"exact terminology/UI override","previous_target_sha256":"774f532e13fa3d3dbe535d9099089a62056989811c4bec97adca3e0731c9d73c"}}
+{"id":"SLPS_022.32:008914","zh_CN":"策略：歼灭敌人。\n注：水下战斗为盖塔3！","source_text_sha256":"b2f7e2d0c06430f462c3ce0e9991b5e2e773c5a9c1a0430601e2747dbfdf5667"}
+{"id":"SLPS_022.32:008944","zh_CN":"行动：摧毁厨房。\n注意：厨房不会移动，但不要放松警惕！","source_text_sha256":"bcf8f47e63ec7da41cb5e8e0755b63b7c049d3ff660420cc7a204a355eaafa85"}
+{"id":"SLPS_022.32:008980","zh_CN":"策略：摧毁量产型盖塔1。注意\n：用好盖塔机器人G！","source_text_sha256":"b31d5157e8b26096556cd3c262093c9258c7cff8f22e55e043e7811ef6e917c9"}
+{"id":"SLPS_022.32:0089C4","zh_CN":"策略：歼灭敌人。注\n意：使用盖塔2节省能源！","source_text_sha256":"cb177aa301ea6767f5cdaeeceda63219b11e910c0456b079d2f2e56d57c6d888"}
+{"id":"SLPS_022.32:0089FC","zh_CN":"策略：说服隼人。注：\n前往隼人的教学楼！","source_text_sha256":"50295b5213ee64d34b8032082f46f8f9bf4fb87e8d0876498d99269dbc947b56"}
+{"id":"SLPS_022.32:008A28","zh_CN":"眼睛！耳朵！鼻子！","source_text_sha256":"4159b6bf6e502fc464300b35a57ad11cfe052e65bf7242134a4c612f643a3194","review":{"method":"exact terminology/UI override","previous_target_sha256":"d91dfd61cbfe6e6162627d594312ea2a82411acf6ffe7d32bffd4706402652b6"}}
+{"id":"SLPS_022.32:008A40","zh_CN":"作战：全灭敌军。\n备注：森林中视野不佳，别跟丢敌人！","source_text_sha256":"187a09e144775e82bb93d0b3c3f4ad5b69b5aed73f4b273cee78592ca9114160","review":{"method":"exact terminology/UI override","previous_target_sha256":"f5fe37c1185dbb754a153e26410522b6ec125a402fd369c94323a47855ace147"}}
+{"id":"SLPS_022.32:008A78","zh_CN":"策略：歼灭敌人。\n注意：明智地利用大海！","source_text_sha256":"a0abb95c1dd80afa966a87728c8782aa72199db8d3dc729cb007a8db407175f1"}
+{"id":"SLPS_022.32:008AA0","zh_CN":"操作：破坏时空蠕虫。注意\n：仅针对ギィムバグ！","source_text_sha256":"1eef98dca45d370b4909c90ef7efe229c8d01789b17064991a4d19f1875b01f9"}
+{"id":"SLPS_022.32:008ADC","zh_CN":"作战：摧毁霍格拉姆D7。\n备注：霍格拉姆D7是强敌，不可大意！","source_text_sha256":"1e4be55cc5cef6d0d1f4ee1ab35f52f91b30c221e1f46b193b2116a79e6b4a4b","review":{"method":"exact terminology/UI override","previous_target_sha256":"d48a4c182153d732b08dfe14ea069ebbc2cd3bed80376e4bf7eb1119090579ef"}}
+{"id":"SLPS_022.32:008B20","zh_CN":"策略：让龙龟冲击德克萨斯州！注意：得克\n萨斯州每次受到攻击都会减少1格的移动量。","source_text_sha256":"40a19664e2240e8fc0486a59627409318aecd975b2f2b34a07bea818261bcb79","review":{"method":"MT spacing normalization","previous_target_sha256":"8d44139f702e77024a92b6f190fdc1f024cf2415fd0b2e5229f83f1fd51151d8"}}
+{"id":"SLPS_022.32:008B8C","zh_CN":"操作：破坏改造乌扎拉。\n注意：重力阻断光束处于水下。","source_text_sha256":"8e1a040cbe438b29a4dd543012a53f82318b2f330acfb502d004031d297a3b29","review":{"method":"MT spacing normalization","previous_target_sha256":"2ef50eee4378ad43add6c677c453970652b3ab11d79d10204c180428506e0bb8"}}
+{"id":"SLPS_022.32:008BCC","zh_CN":"操作：破坏机械台风。注意\n：小心龙卷风……？","source_text_sha256":"22ebff6da9b74f2a0e06802f3be2ba393ba70abd4c8240175fbdf80ffe3351a5"}
+{"id":"SLPS_022.32:008C00","zh_CN":"行动：消灭加隆。注\n意：不要犹豫，翔！","source_text_sha256":"8430e4f02caf50283c24a02f0ae002d5392bba2afa603def9e5dc8f536432265"}
+{"id":"SLPS_022.32:008C30","zh_CN":"策略：歼灭敌\n人。注意：小心金属野兽！","source_text_sha256":"db248dc695b0046a429f9facad8caf761b0de7badafb25576315fb00f3fcd738"}
+{"id":"SLPS_022.32:008C64","zh_CN":"作战：摧毁乌扎拉。\n备注：该迂回……还是直进……","source_text_sha256":"7ad4df9cf1f843ef33e9dfbe3eccdd0b6d3d4a2df97741dd07e17decdf234179","review":{"method":"exact terminology/UI override","previous_target_sha256":"e7c5d50be48aa6fd5318b020b2d36d1544c35a17a824a61a1150b819e6e0e2ee"}}
+{"id":"SLPS_022.32:008CA0","zh_CN":"策略：歼灭敌人\n。注意事项：善用地形，运筹帷幄！","source_text_sha256":"0bbaa1ceca258734c903a4e6855e429a258736042b4b9b773599fd18dc80ca95"}
+{"id":"SLPS_022.32:008CD8","zh_CN":"策略：歼灭敌人。\n注意：盖塔机器人号与其他盖塔略有不同。","source_text_sha256":"8a5c28cfc03d6e1d849a82c0d17ca9bbe83323ff7e37e02148697391d10762b7","review":{"method":"MT spacing normalization","previous_target_sha256":"79fbcadd494f7bfb06ed254cb37126b292a2c8cd1e5c1b4b2ee10ad94af59c98"}}
+{"id":"SLPS_022.32:008D1C","zh_CN":"策略：摧毁恐龙船。\n注：用盖塔赞打开你的路！","source_text_sha256":"a5db2c92d52e5282cb0466b82f4446d46b10dbc861cf4b043f22c03b7a072323"}
+{"id":"SLPS_022.32:008D50","zh_CN":"行动：摧毁厨房。注意\n：使用盖塔机器人进入Gela的身体！","source_text_sha256":"043f6580d625f44e4fff0faf94971a684597a9b4d80ba341ca7253ad5e9f39ed"}
+{"id":"SLPS_022.32:008D90","zh_CN":"操作：破坏量产盖塔1。注意\n：用好盖塔机器人G！","source_text_sha256":"5b53ae83b90d45a31cb469504bfda6842b0dfb85aceb5552288df5eaa59237f1"}
+{"id":"SLPS_022.32:008DD0","zh_CN":"策略：歼灭敌人。注\n：大师盖塔！","source_text_sha256":"46f60d21bf7c9f01a9119f33ec9f37b574f40c75177426abc29f47e4a226a31b"}
+{"id":"SLPS_022.32:008E00","zh_CN":"失败：盖塔皇帝被破坏。","source_text_sha256":"ec266d0f7b3d1ffb52689a85341e6877cd0458c9651797cb347d3abf516a5582"}
+{"id":"SLPS_022.32:008E24","zh_CN":"失败：摧毁德克萨斯州。\n龙龟的阿拉斯加基地抵达。","source_text_sha256":"714f5be4d0deaea1acb40cf95ecd58007e817f86c4d00c6fe4e248974ba45e5d","review":{"method":"MT spacing normalization","previous_target_sha256":"5ccedb1d9b5daf49d557f4e5494f7369cf87dc419e1b8ca494478b5b2210e701"}}
+{"id":"SLPS_022.32:008E64","zh_CN":"失败：伏尔加被毁。","source_text_sha256":"aed9a58d933e30aa7985dbcfb2596551964603ab78ba7479da0a705c93abdfb3","review":{"method":"exact terminology/UI override","previous_target_sha256":"3829ccf92acc507fd8dff6ffb891f3675e6dc6f84db384ef8945fd5599d552fa"}}
+{"id":"SLPS_022.32:008E7C","zh_CN":"失败：盟军全军覆没。\n在一定回合数内没有导弹被摧毁。","source_text_sha256":"ae4ddabc5993b9feb6ddc079882f92849e284d470f31aebd9a104ae2f4ebbc28","review":{"method":"MT spacing normalization","previous_target_sha256":"afaf2227d61e0e671ec1f221da05c72edb2049e3f030954e74d987703b6efbeb"}}
+{"id":"SLPS_022.32:008EB8","zh_CN":"失败：得克萨斯被毁。","source_text_sha256":"5ca01cccc1ef918fac19829089b0a0eb24fcaa1e3c15496b8c4275abe80fe8c1","review":{"method":"exact terminology/UI override","previous_target_sha256":"f012b586ae4d55bac6ce7508fbbbc5c641bb7a26552110360bcbcdf265931caa"}}
+{"id":"SLPS_022.32:008ED0","zh_CN":"失败：盟军全军覆没。\n销毁核电站。","source_text_sha256":"36e585918d827b68ee782ad4369335cf726fdf40243ab30475f6b178bcd9e190","review":{"method":"MT spacing normalization","previous_target_sha256":"08dfb385b73046bca06c0e9a122e0b0d848cc4d8a990a9b6c596046ac2eab797"}}
+{"id":"SLPS_022.32:008F04","zh_CN":"失败：盟军全军覆没。","source_text_sha256":"ea3474003e0934afc8bdc2e941d6b899c0bcd0c2d6a72b3348c81701ee2ebb11"}
+{"id":"SLPS_022.32:009558","zh_CN":"$m00d%2龙马%0$s13“妈的！我放松警\n惕了！看来有人骨头很严重啊！”","source_text_sha256":"7de69174666cf01db890a64e7a7d0588074d8431dbbeb7a85ac2ee94756e8974","review":{"method":"MT spacing normalization","previous_target_sha256":"cb8211c9dde694fd296f4e0c7e7e657ca6d4e60e9887447564ea1eab8063c6f2"}}
+{"id":"SLPS_022.32:0095A8","zh_CN":"$f63f%2隼人%0$s13「逃、逃出来了……嘿嘿。\n得、得救了～。」","source_text_sha256":"e684ab07f5ba96ca704facf6d43f46f4f869f9f4fb5638098f888c7c6742cc5e","review":{"method":"exact terminology/UI override","previous_target_sha256":"aa7c66ee717c582b95a7405aeb6070e2d640cda36bed3b0af39cab92480ec63c"}}
+{"id":"SLPS_022.32:0095E8","zh_CN":"$m01b%2隼人%0$s13“……我又被抛在后面了。”","source_text_sha256":"9c7ed0fdc89529c7f84850468f236236daeaeab78b3a943a82dd981e28498a4d","review":{"method":"MT spacing normalization","previous_target_sha256":"b1b33307a4cac8bef3b860029bbff56cb9dd81f41575bb6e3e3cbc600c8f4150"}}
+{"id":"SLPS_022.32:009618","zh_CN":"$m02b%2武藏%0$s13“耐用持久的武藏就这么完美！哇哈哈哈……”","source_text_sha256":"7e3689a2a40d6424fca7b6ca318e15adb281acd277752cb0a8e7855fa0deba95","review":{"method":"MT spacing normalization","previous_target_sha256":"10481150daa41a62aafde33c842a005d77b4ba7993468ff20bea2cf2151e3a21"}}
+{"id":"SLPS_022.32:009674","zh_CN":"$m03a%2弁庆%0$s13“不，我不能再这样了\n，大家都在为我竭尽全力……”","source_text_sha256":"b23356865f134f3f8146c21392d082908bb00f546900d53bfce38a268e582acc","review":{"method":"MT spacing normalization","previous_target_sha256":"a26809d5177e515e3c3b1c83893250a2eb9eebadab497dd54de2bae740e69aff"}}
+{"id":"SLPS_022.32:0096C0","zh_CN":"$m04d%2号%0$s13“不！我不敢相信我会在这样的地方被\n杀！这不是我的工作！”","source_text_sha256":"21bc21f98310eae97ae33252db2f3a95df657835d3bf8f40988bb8fd9406860a","review":{"method":"MT spacing normalization","previous_target_sha256":"938e14999e1e9841c6ab9decbce6426222bb68d2c9cce35166b7308deb710a19"}}
+{"id":"SLPS_022.32:009714","zh_CN":"$m05b%2翔%0$s13“我输了。抱歉，我要回去了。”","source_text_sha256":"890731588f000a590f71ec5740c27d67316a01041988625ccc2e79d8aaf18f5d","review":{"method":"MT spacing normalization","previous_target_sha256":"535a914490098ee42e460111c925ecb0df1cebe450b6cc81619d88c51cdd0438"}}
+{"id":"SLPS_022.32:00974C","zh_CN":"$m06a%2剴%0$s13“妈的~你等等！我马上就回到前线了~”","source_text_sha256":"50e25866e1e2b2cd04ba8badc8637ea561ee8d4aa7e79b2fc920a635ef0ce93d","review":{"method":"MT spacing normalization","previous_target_sha256":"bcb7d8874a43254642dd9e113e3420943ea11aa2cf1c722e3e5ee36af8804210"}}
+{"id":"SLPS_022.32:009790","zh_CN":"$m07a%2ミチル%0$s13“我安全逃脱了\n，抱歉，剩下的就交给你了！”","source_text_sha256":"5b3adafe9ff12168708886332a15a0b1bc93d39933cf2c89fc24a2d0f2eaebea","review":{"method":"MT spacing normalization","previous_target_sha256":"675d1ddaefb7773a293f54cca07ff552519193c5d6958be3117bdad251012155"}}
+{"id":"SLPS_022.32:0097DC","zh_CN":"$m08a%2ランバート%0$s13“嗯……看来是个老人了……他回\n来了。”","source_text_sha256":"fecfd325a91120b0034934ce6a308c6d4dc42c5674cb20657c2920ca8b1b4a55","review":{"method":"MT spacing normalization","previous_target_sha256":"fb136422d3cf00b320dfc68dfd56431a39d5d02fc093a8a920424d20dc0adb83"}}
+{"id":"SLPS_022.32:009834","zh_CN":"$m09d%2シュワルツ%0$s13“哇！Yuru桑！\n美国不会以这种速度失败！”","source_text_sha256":"b356ec713be559ba85520ccd835129b594a8b58c9cb5d37be7a5c79b50e5c0d5","review":{"method":"MT spacing normalization","previous_target_sha256":"5cfb836cdf3f1fe58fde0d238395809df4e1980a1baa4a797731addad8a6d784"}}
+{"id":"SLPS_022.32:009890","zh_CN":"$m10b%2ボブ%0$s13“切！我被击中了。”","source_text_sha256":"1dac3d4da37b348e66695cddfb686f6210ea238349ea6c569c37204759ae169c","review":{"method":"MT spacing normalization","previous_target_sha256":"93374275adf9e68e949973a33e6fb1b670a527ddb3b5f33fca97a7424c9daa9e"}}
+{"id":"SLPS_022.32:0098BC","zh_CN":"$m11b%2サム%0$s13“可恶。你被击中了！”","source_text_sha256":"738fc12c6d20b2bb4ad3b1c645c662dd3b8323889b83d9c5abd17063e021edfb","review":{"method":"MT spacing normalization","previous_target_sha256":"4be7cb70e28fb5c647ca01329d2a6bcf0a43c19ba37010a442e3700183c53c93"}}
+{"id":"SLPS_022.32:0098EC","zh_CN":"$m12b%2リンダ%0$s13“天哪！\n我不敢相信我被打败了……”","source_text_sha256":"0fe45137f766b155a1a86a112e6b3129d130e6393c4848cd653b7ae79790fac5","review":{"method":"MT spacing normalization","previous_target_sha256":"eec868918aa900f3a2a94bb5cc517ac3f99da46cb315aa92a6f36a13269d661c"}}
+{"id":"SLPS_022.32:009934","zh_CN":"$m13d%2シャトナー%0$s13“呃！我差一点就赢了……\n我要回家了。”","source_text_sha256":"286bd9dbcc792b46da29897932c923f5cbaa7a5af5854696a07c5c40c4115ef8","review":{"method":"MT spacing normalization","previous_target_sha256":"0f172ffd135782e14eab41f40e94d86dc7b90bb185135a5a15ee1d1e8a876c3c"}}
+{"id":"SLPS_022.32:009984","zh_CN":"$f14f%2ジャック%0$s13“哦！不！\n有时这样的事情会发生，火星。”","source_text_sha256":"d72b0b134a128e3cf0400cb32dadb3993849a92a69bcf14d4cf24b71ed1848a4","review":{"method":"MT spacing normalization","previous_target_sha256":"2685bdf1c9c9c1b14c50ea01697017935715837de59388791e00ddc4246c372d"}}
+{"id":"SLPS_022.32:0099CC","zh_CN":"$f15f%2メリー%0$s13“哎呀！天啊\n！实战很难啊兄弟！”","source_text_sha256":"ae5bccd9058bf364aed15230901fe9fd5642ea7298764fbda79216be1c3d2b05","review":{"method":"MT spacing normalization","previous_target_sha256":"1605b51726e92413ee08e2c97045cd0a4a226b2908ccd1104cc636e541f1f7ed"}}
+{"id":"SLPS_022.32:009A18","zh_CN":"$m16d%2茜%0$s13“抱歉！我被击中了\n。妈的！！”","source_text_sha256":"249949d8a9289fb32788628a398c91a3107a265c7e3282d6ae58baf75db3d656","review":{"method":"MT spacing normalization","previous_target_sha256":"1e198c5e36b33f9f86fc4f67e0cad9fa331a38e3218a3a04cd4b026f3c3a2bb2"}}
+{"id":"SLPS_022.32:009A50","zh_CN":"$m17d%2椿%0$s13“可恶……下次不会白白留下了！”","source_text_sha256":"ab2297ba43734ae0ad45981cdcb63f2916f9af85fe913ad247599606ceda999f","review":{"method":"MT spacing normalization","previous_target_sha256":"db253ae36330d0dd1b158103d6128d9806e1b629d419c4b22fd24e815abb06bf"}}
+{"id":"SLPS_022.32:009A88","zh_CN":"$m18a%2枫%0$s13“嗯，我饿了。”","source_text_sha256":"f425458a7a37e4b5a8bb0568653f463dd063bf710366c46015d6c43900f51682","review":{"method":"MT spacing normalization","previous_target_sha256":"f376cc73929a14efebb3f0bd59a11e8c3bcb4a63e0c6b487f17551240742aaf4"}}
+{"id":"SLPS_022.32:009AB4","zh_CN":"$m61b%2$n%0$s13「可恶，被击中了！\n接下来拜托你们！」","source_text_sha256":"69caec16847b607f222d4506b133deed2df0cdf0b6978adf4513a0b2aa3a3128","review":{"method":"exact terminology/UI override","previous_target_sha256":"151b8b7b8af74f02e08e5d10e8b1373df30ce5f2961a081c9a16ed9afe75cf21"}}
+{"id":"SLPS_022.32:009AF0","zh_CN":"$m62a%2$n%0$s13「我已经尽力了！剩下的拜托了。\n现在返航。」","source_text_sha256":"80a9e1f30b107e1afc56fe257bbbd0b0264c11b98e2811fc18dda64dac977741","review":{"method":"exact terminology/UI override","previous_target_sha256":"80bcd58095bcb5100be64de78fbb6a93654c26ef5d24016a0960ff3e9147b567"}}
+{"id":"SLPS_022.32:009B34","zh_CN":"$m21a%2早乙女%0$s13“哎呀，什么啊！没想到这个盖塔竟然被打败了！看来\n敌人比我想象的还要强大……”","source_text_sha256":"c0868277566a5c0bd30a4223c90b88dd17a7771724b15297ce570b995904ccf9","review":{"method":"MT spacing normalization","previous_target_sha256":"cd6f880ef56175c21fcd40b9f7e72e48cfaffc6e44b6e32f7bc2a2a9b0f70696"}}
+{"id":"SLPS_022.32:009BA8","zh_CN":"$f23a%2古田%0$s13“我被击中了……对不起！”","source_text_sha256":"b8f0fe866e80af35acbae73e260697d015e785f0b84e57cc51d4bb4da407c729","review":{"method":"MT spacing normalization","previous_target_sha256":"043bd903bfdc1bea3cb797967ca4a70f8c7b85f56611ad1d68bf4ce42cf2215f"}}
+{"id":"SLPS_022.32:009BDC","zh_CN":"$f19d%2得克萨斯舰长%0$s13“……我为什么还活着？”","source_text_sha256":"e0588c5af79c0185be11aec2e41edd78aa37bf671ceec21563c0fbf7272e4beb","review":{"method":"MT spacing normalization","previous_target_sha256":"0a95f3ec0fca4265448fd04719894df72fc7523dbf0f229570cb4cd393987db8"}}
+{"id":"SLPS_022.32:009C1C","zh_CN":"$f25a%2研究员%0$s13“我能够安全逃脱，但是……对\n不起！我最终损坏了我珍贵的盖塔机器人G……”","source_text_sha256":"9d57ab710b0ff865a9eb3ea09f2822aaa4d38305ac149c64ff861825790362cd","review":{"method":"MT spacing normalization","previous_target_sha256":"3715b2e72353ab3d4a9fb6279f8458dd4fa3c5bbb5663f6535664456ed2fab5e"}}
+{"id":"SLPS_022.32:009C8C","zh_CN":"$f26a%2研究员%0$s13“我以为我可以做到，但是……还\n是很难控制盖塔……”","source_text_sha256":"7a79d1273444f7f288bc920a299f6b4909fa49ee2007110979d5f1c838c1d3fb","review":{"method":"MT spacing normalization","previous_target_sha256":"2cb51bf056f6530874c9615a9816a16481ccb07e4a8fd98c17a7dd70764b720f"}}
+{"id":"SLPS_022.32:009CE8","zh_CN":"$m00b%2龙马%0$s13“可恶！盖塔说什么我都听不进去！”","source_text_sha256":"78f4d25e62ece575e03aeff46a7fd7daeb62384707044b8e59a2bfbfff260fa1","review":{"method":"MT spacing normalization","previous_target_sha256":"812e1431fbf9402afa75b702bb166e4ce51791a6121b37d47042b2df061c51c2"}}
+{"id":"SLPS_022.32:009D24","zh_CN":"$f63b%2隼人%0$s13「什、出什么问题了……！？我、它坏了吗？噢！」","source_text_sha256":"f58ce47f762829619de6071b3794aaafb891c88a396f405fe5bd5e219e238e03","review":{"method":"MT spacing normalization","previous_target_sha256":"3fafbd0c8801047482fd8284fb2fab42309d3c83cb84ba42666a8b5aada7f89e"}}
+{"id":"SLPS_022.32:009D74","zh_CN":"$m01b%2隼人%0$s13“可恶！盖塔剂量超过允许量了！”","source_text_sha256":"0dfd2eb3ef011d1b19dfbe270eef81d19e925fa83ef05ee3c5c0d2583f5b0fac","review":{"method":"MT spacing normalization","previous_target_sha256":"68823eae8c6538d55de0806b7b95d48e70fb3536be56473183e47fa2e39e8a9a"}}
+{"id":"SLPS_022.32:009DB4","zh_CN":"$m02b%2武藏%0$s13“哇！这是怎么回事？！”","source_text_sha256":"4552a608117187117bb9b64bec93a7fbe390ef83ac881fc7937891e42adfa636","review":{"method":"MT spacing normalization","previous_target_sha256":"a28734450fbe2c5bdc4ce94a1d1ab955bf24d64eef6bf5b7ec8d13d5978442df"}}
+{"id":"SLPS_022.32:009DF0","zh_CN":"$m03b%2弁庆%0$s13“G-盖塔！救命！”","source_text_sha256":"5034712348e2797a5d729cc000cb7e0fac159084b1e3c9e75654d35ba3eedf51","review":{"method":"MT spacing normalization","previous_target_sha256":"c9868957081fc08b40e4d2cfadfdb988e9d4a671266fd1a44d04870024e9d707"}}
+{"id":"SLPS_022.32:009E28","zh_CN":"$m04b%2号%0$s13“你这个白痴！好好移动！”","source_text_sha256":"071b6020f6436e6322b6b336403e27fc2a95eb51ee41a59ba2ebd4e53482db97","review":{"method":"MT spacing normalization","previous_target_sha256":"b2efbead78313dc12d07e2d8d5a2493f4083a10d12ec7483be42150d4785b9d1"}}
+{"id":"SLPS_022.32:009E5C","zh_CN":"$m05b%2翔%0$s13“不！盖塔不会接受控制！”","source_text_sha256":"7ed31084632f5b408e62eb7bd0c8cbdc64b0494805e292afa2a3ac9065d4bd2c","review":{"method":"MT spacing normalization","previous_target_sha256":"ceab371b62100bbe2f4adc0febf182116edbc9237863d132626e60a72943f21f"}}
+{"id":"SLPS_022.32:009EA0","zh_CN":"$m06b%2盖%0$s13：“Robo的盖塔剂量不稳定！”","source_text_sha256":"3da9fc93f1a5fcf2340206e8ae0885e5186817247d823ff2e61a57c8297f8919"}
+{"id":"SLPS_022.32:009ED8","zh_CN":"$m07b%2ミチル%0$s13「这、这是怎么回事！？」","source_text_sha256":"985f72dd94bb134e75e8a1975a5eb7f792d00280fd80381cc8000680b2b59179","review":{"method":"MT spacing normalization","previous_target_sha256":"a9811792d35b7342c65289b38d89b06dc2635cd243615dec6fe9dbe3a006f7ab"}}
+{"id":"SLPS_022.32:009F08","zh_CN":"$m08b%2ランバート%0$s13“喂！别听盖塔说什么！”","source_text_sha256":"dad9d0792c2369ebb8fc697d938cdca1a14af0633799cf1f2c8ef5e500addded","review":{"method":"MT spacing normalization","previous_target_sha256":"a1066aa727dfe46acf9539747a1818cd8629948d802e2cb548bbc89ae1f77fe6"}}
+{"id":"SLPS_022.32:009F48","zh_CN":"$m09b%2シュワルツ%0$s13「可恶！所以我才不信任日本制造的东西！」","source_text_sha256":"876b4dd3daa347e2e6cde70028a962aac75e552d1067d518e3c79ab738f11fcd","review":{"method":"exact terminology/UI override","previous_target_sha256":"ea286dd089bc21566c7f05615443ee43aa0e717f76f4a0d97bd6701757eded12"}}
+{"id":"SLPS_022.32:009F8C","zh_CN":"$m10b%2ボブ%0$s13“喂，这家伙！它自己动起来了！”","source_text_sha256":"f79f474611244db049db704cca4840c8d83a67f77d28a472bcd837fea9e5289d","review":{"method":"MT spacing normalization","previous_target_sha256":"c0251bd781f4160cc29934de9c9a30d7f3f5ed0646d631be0dcea4d26d7d6eeb"}}
+{"id":"SLPS_022.32:009FC8","zh_CN":"$m11b%2サム%0$s13“这个！按照我的指示行动！”","source_text_sha256":"e6e4b6992edc7f43264f34b946b444d76423a438216ba27f0f9689b80590cd2c","review":{"method":"MT spacing normalization","previous_target_sha256":"035277845ed28a7ce558de3e7fc88df995acf3da224acdb4ea6b2e3a8f9818fd"}}
+{"id":"SLPS_022.32:00A004","zh_CN":"$m12b%2リンダ%0$s13“什么？！你就不能听我说的话！？”","source_text_sha256":"9861cd5314123d3b7d555090b385f42020a336d29d2db58f6e03974f809233ed","review":{"method":"MT spacing normalization","previous_target_sha256":"ce4d9e6b16ea654dd1c7ea4f005246d433aa7b20670fbbf14294244d0a6cdb8b"}}
+{"id":"SLPS_022.32:00A040","zh_CN":"$m13d%2シャトナー%0$s13“什、什么！？这个盖塔在做什么！”","source_text_sha256":"08e3cf87589cfc48a0308513b6b7543654254771cc189495c530877014a79609","review":{"method":"MT spacing normalization","previous_target_sha256":"4d02b314c2dbdd341305ec75905fd752189e98374348ecdc359a26be1c8e91e5"}}
+{"id":"SLPS_022.32:00A088","zh_CN":"$f14f%2ジャック%0$s13“什么！？盖塔自己移动并在火星上移动！”","source_text_sha256":"1b39c8793db7469d5029a4f55376a23092bf938df02c41b2b6a6f869c438e769","review":{"method":"MT spacing normalization","previous_target_sha256":"4100de5ab121cd80c3ad89cc376037f8d002f4ccca4911c537c8c555b28006cd"}}
+{"id":"SLPS_022.32:00A0CC","zh_CN":"$f15f%2メリー%0$s13“哦！Ta，我们开始吧！”","source_text_sha256":"d93dbadd0bb132854eb1732f8a90d3d5172065a31537fe575206475c0181466c","review":{"method":"MT spacing normalization","previous_target_sha256":"77949b4560b7159463429b4e6f0170c4e35726e8951f54c4dbc1125725e62cf9"}}
+{"id":"SLPS_022.32:00A104","zh_CN":"$m16b%2茜%0$s13“这是怎么回事！？盖塔自己动了！？”","source_text_sha256":"4f3350b2a14235624fbf561d28306f9bc493ee90ce6c446efd7c42a65117f553","review":{"method":"MT spacing normalization","previous_target_sha256":"618ba0fb0284eef36abb33d63cea2d8da1e4a32e50a8643993fb067adfc560dc"}}
+{"id":"SLPS_022.32:00A148","zh_CN":"$m17b%2椿%0$s13“盖塔失控了！？这是怎么回事！？”","source_text_sha256":"dd179489ed0386acb7178e8cd731ee89c4d92eb5c84a7b9b427cd2f5dfa5a041","review":{"method":"MT spacing normalization","previous_target_sha256":"c6c8fbc3f8209111da6a3ef35d1864222b8a9ce1df97ec33120dc5e9f261cec0"}}
+{"id":"SLPS_022.32:00A17C","zh_CN":"$m18b%2枫%0$s13“我好饿。”","source_text_sha256":"836285ee799d9ca706874ad319f02f6f910e17f9624f20d1b91a57855da2db81","review":{"method":"MT spacing normalization","previous_target_sha256":"49e5d2f6c9dbb36d139022a3ad54893b536892389fd5a20b631d2752532c93f0"}}
+{"id":"SLPS_022.32:00A1A8","zh_CN":"$m61b%2$n%0$s13“哎呀，盖塔失控了！？”","source_text_sha256":"6c904316fa4bf63a611fcb77bca7a4b558e10cdcfafd4d0b514b3ecbdcdb2d20","review":{"method":"MT spacing normalization","previous_target_sha256":"8b4ca5ce8f55369c822620ccb142120fc52dc767b0925f53b6e36c33bf4caff9"}}
+{"id":"SLPS_022.32:00A1E0","zh_CN":"$m62b%2$n%0$s13“天哪，盖塔失控了！？”","source_text_sha256":"aec7a96da8f6a1e905f4dab00066580cb48f054d320b2db6df1576181f06fbe1","review":{"method":"MT spacing normalization","previous_target_sha256":"a2556cb8610ba9217718045896a341fbd965d1515a6b649e62b8926a6efa498b"}}
+{"id":"SLPS_022.32:00A214","zh_CN":"$m21d%2早乙女%0$s13“糟糕！盖塔线路失控！盖塔无法控制！”","source_text_sha256":"054479f9a2ecb77954927d0977dd240f2a436809c425f6665fd32b70ba6ffff0","review":{"method":"MT spacing normalization","previous_target_sha256":"2545951f2a213be3af6bd4cdbe7015d991589bbad618c2f1343cfceb80369adb"}}
+{"id":"SLPS_022.32:00A268","zh_CN":"$f23a%2古田%0$s13「!?」","source_text_sha256":"36392d6fa25ae06e7aa1292f320f41e1c4c5d84e4861546c0781fa785e953d7d","review":{"method":"exact terminology/UI override","previous_target_sha256":"f3dd6aecadf3833c4134ede76a5264f5605fbb4261b0781c7b9a7ea3cd523076"}}
+{"id":"SLPS_022.32:00A284","zh_CN":"$f19d%2得克萨斯舰长%0$s13「!?」","source_text_sha256":"2c01aa04985e6cf64e5bb159b3391c184f26261018c5a668951e7e31f4c06078","review":{"method":"exact terminology/UI override","previous_target_sha256":"79a0d2d06f29df6e18a325a8aa228d309fa804cd38762d84cdc2ba905b8d094b"}}
+{"id":"SLPS_022.32:00A2A8","zh_CN":"$f25b%2研究员%0$s13“太糟糕了！已经失控了！”","source_text_sha256":"bf19212bb540ec03a7f698250b7b89e5ecc0f28318ab2bf8e2568bdbbef08a72","review":{"method":"MT spacing normalization","previous_target_sha256":"1c300ab6be2e1bab04fdf6e2d049202197fbfefe046b36380dbbc7131fbc1ae7"}}
+{"id":"SLPS_022.32:00A2E0","zh_CN":"$f26b%2研究员%0$s13“天啊……！失控了！”","source_text_sha256":"d646ffd091e6ccf8254ca5c184d93d847a3ef2fc4a559d9d4ce6a1770b45c835","review":{"method":"MT spacing normalization","previous_target_sha256":"b22081e65586e3329076209b5a7095a57e52ccc88a22f5d9f6e15ee64f6eef0d"}}
+{"id":"SLPS_022.32:072A10","zh_CN":"失败：盟军全军覆没。\n盖塔机器人并破坏获取机。","source_text_sha256":"2c28acc5d188a2d9a8ef163352b00c02ddd611a1c52d37ccef23f0994df44afe","review":{"method":"MT spacing normalization","previous_target_sha256":"7c3d1e90035b83f0a24ef71e58e24ba314f77960d11d5a4384367f45c216486c"}}
+{"id":"SLPS_022.32:07354C","zh_CN":"无名","source_text_sha256":"e2a4329a4d5059c76d77793413d899e9cdb021e37ff8512c1bac9319ccdd91dd","review":{"method":"exact terminology/UI override","previous_target_sha256":"70ec9cf0284801af19910c86f24ca8ae9f6e8ae0eb34d815fa634231ead49b68"}}
+{"id":"SLPS_022.32:073690","zh_CN":"げんき","source_text_sha256":"83460c5bb06bd9a0559af701865ead291d0589665d883cdb520675906c3401e0"}
+{"id":"SLPS_022.32:073698","zh_CN":"防御","source_text_sha256":"75ba7a572706c98eaf57aab152664e4b3f6d6bbc0430a2d469155aa95d463466"}
+{"id":"SLPS_022.32:0736A0","zh_CN":"回避","source_text_sha256":"3e8d0ff0d13deb3acdd01554d924e3f1b19d8f4f7cf5a5a122d6856fae18aef8"}
+{"id":"SLPS_022.32:0736A8","zh_CN":"反击","source_text_sha256":"e1d3a0438c5ce0d79a9ebed07f5a2401d45089079ef073aeb43acfca10ddd1b8"}
+{"id":"SLPS_022.32:0736B0","zh_CN":"选择","source_text_sha256":"e721d064de4863b29d2b5fd328338b20a076e3636d48d7ff1f13a2bda2b3685f"}
+{"id":"SLPS_022.32:0736BC","zh_CN":"前篇","source_text_sha256":"c582418c114da6421a903c8396dbca91542d075879ded1584914e6bd6d4b8ac3","review":{"method":"exact terminology/UI override","previous_target_sha256":"9728cf4d72c90f8466da74045741b3ed95993a41add06589dcd5d97d8df1b49d"}}
+{"id":"SLPS_022.32:0736C4","zh_CN":"后篇","source_text_sha256":"9a7fea01c3fa1e7e963f14d310235eae2797bcca140beb14a244911cb613c271","review":{"method":"exact terminology/UI override","previous_target_sha256":"72751f4b07850bf04e5960f2bdfec4d9a5896b3cf65ea42539fe1a554f3f19a0"}}
+{"id":"SLPS_022.32:0736CC","zh_CN":"往宇宙","source_text_sha256":"bcf16435a976eefd7b8d92a2c804ef4b089489bb0eff67daef0f861cff88d0e2","review":{"method":"exact terminology/UI override","previous_target_sha256":"05f5124dd3057526c0c0e5cb0b6bf7c465c168dcf4ac49dafa76e44571ba12a5"}}
+{"id":"SLPS_022.32:0736D4","zh_CN":"兄与妹","source_text_sha256":"0d6eab5169b1a10806f6e9811b4d4453ee28f90f1c280552311ff9068ae14d19","review":{"method":"exact terminology/UI override","previous_target_sha256":"8d85fca3c58e1345c8e04d7d224127db9f27be9feacf9e0673c0d423493a6892"}}
+{"id":"SLPS_022.32:0736F0","zh_CN":"搭载","source_text_sha256":"d94b42bdb9a7c2f659e9dfed965300378edbb0f36297659dae8be1fe6513a2ef","review":{"method":"exact terminology/UI override","previous_target_sha256":"932e4903546465d56f6c4f15a757a7cb283bbe81654be19383e7493947779a1c"}}
+{"id":"SLPS_022.32:0736F8","zh_CN":"暴走","source_text_sha256":"e5f06547e0faa8cb89613b318cb68ce149c1dc09909988319baf03555290920b","review":{"method":"exact terminology/UI override","previous_target_sha256":"2f6b0db7ddab870db198d22bf081f34dbd902d880d0c54a479628e3cb3d59764"}}
+{"id":"SLPS_022.32:073710","zh_CN":"武器","source_text_sha256":"4fe131173e23f605fa4482cfe6b2a7cb66012a973d7c33eee1c7131c63efcdcd"}
+{"id":"SLPS_022.32:073718","zh_CN":"攻击力","source_text_sha256":"febbd1262ce9450031f0e48cdefcdaaf1e501ca2c11dc42d698853d4b5de96bf"}
+{"id":"SLPS_022.32:07372C","zh_CN":"状态","source_text_sha256":"70e39859279e3de126cb608f04b555c98a7577bee1ef37b08c3293d0cbece907","review":{"method":"exact terminology/UI override","previous_target_sha256":"461d2dabe42580d52a693065a72eacf2f47266487f844871be86418c4f5aa432"}}
+{"id":"SLPS_022.32:073734","zh_CN":"HP顺序","source_text_sha256":"6a2b7d0e6f09dc749512b6f27e5bb7790dd3207c5d8112ad1797fcf9e3af054f","review":{"method":"exact terminology/UI override","previous_target_sha256":"7de23eda83e7dc25db8d2c4b3ead41d605874657bc18867918b194a766794621"}}
+{"id":"SLPS_022.32:07377C","zh_CN":"交换","source_text_sha256":"c0be6499c92ec64e88ccf3a935d5078bf17e1071a26a905dfc6542b51912464f"}
+{"id":"SLPS_022.32:073784","zh_CN":"收集","source_text_sha256":"6c09d8b9172e4189b73db409cd69fbb52fe8b3b7dd941cdea44aafbfa40a0871"}
+{"id":"SLPS_022.32:07378C","zh_CN":"挑衅","source_text_sha256":"ac0b7c317fe38879b541caff54e27fc17be57a5214205ad139a47de19a47a6ce"}
+{"id":"SLPS_022.32:073794","zh_CN":"逆境","source_text_sha256":"de37d0f3e3b304d7fe00eda1f3f89237e583f7010455c8b263a595c30102b4f6"}
+{"id":"SLPS_022.32:07379C","zh_CN":"侦察","source_text_sha256":"b2d66e32ff129d15bb978d5a6294cccd1dca4fd50258d5c920f1a2a3136b9dd0"}
+{"id":"SLPS_022.32:0737A4","zh_CN":"忍耐","source_text_sha256":"d74ec8a2362f8812bb4d202a3dcc61010358b24ff66941a64e25d07640b90e85"}
+{"id":"SLPS_022.32:0737AC","zh_CN":"修复","source_text_sha256":"a5a9ae1cd8db49231236a65c2c4507cc3fe3468ac774fc0a687046de9d3bf195"}
+{"id":"SLPS_022.32:0737B4","zh_CN":"复活","source_text_sha256":"79e45b157f0240f18f288d130559d476ca086f6a6209de26948b2132ed17c046"}
+{"id":"SLPS_022.32:0737BC","zh_CN":"自爆","source_text_sha256":"c86ec9c62395bea690159c6c8c0f808a7e6880ae017811c1ebf64491e65685f2"}
+{"id":"SLPS_022.32:0737C4","zh_CN":"反击","source_text_sha256":"e1d3a0438c5ce0d79a9ebed07f5a2401d45089079ef073aeb43acfca10ddd1b8"}
+{"id":"SLPS_022.32:0737CC","zh_CN":"无","source_text_sha256":"868310e193d1af0b9a0a16b18d5826a5490fe3f9410defa30dc115829fc1db4a","review":{"method":"exact terminology/UI override","previous_target_sha256":"f00fbf67193e437ee0807f646f14854e55f84f893cd6498fa1544ba66296626d"}}
+{"id":"SLPS_022.32:0737D4","zh_CN":"无名","source_text_sha256":"e2a4329a4d5059c76d77793413d899e9cdb021e37ff8512c1bac9319ccdd91dd","review":{"method":"exact terminology/UI override","previous_target_sha256":"70ec9cf0284801af19910c86f24ca8ae9f6e8ae0eb34d815fa634231ead49b68"}}
+{"id":"bin/battle.bin:001184","zh_CN":"%3回避%0","source_text_sha256":"54c9722a9e14790d7fa381773dedf8d9f95a27570029daf39d7a297bdaa04201"}
+{"id":"bin/battle.bin:001190","zh_CN":"%3防御%0","source_text_sha256":"161a1d6e31fa227905edb1d8bf67fba8066baddb27fa6e7c9110741614081585"}
+{"id":"bin/battle.bin:00119C","zh_CN":"%3反击%0","source_text_sha256":"96ff83f2943643921849eeb4d7c83e27e12173bdac55cd25298496b6ab84021c"}
+{"id":"bin/battle.bin:0011A8","zh_CN":"%3攻击%0","source_text_sha256":"aa969972780d5586e86a877e461e385104447106e681f4c996b481e1efc57a75"}
+{"id":"bin/battle.bin:001380","zh_CN":"%2暴击%0","source_text_sha256":"6c01f1ac7aeb313d55de6f11d1b38567cbd251db5aca32f855223e8332ebe78e"}
+{"id":"bin/battle.bin:001394","zh_CN":"%2／忍耐%0","source_text_sha256":"f2d56101b7cc73608de256fa894255b17db2f7a7f1128769160189b9c2aaa909","review":{"method":"exact terminology/UI override","previous_target_sha256":"a7224ab78cc754aca8fe906e930e5fc0f5ff0eae4b94dfcced7e69ba8dbe73d5"}}
+{"id":"bin/battle.bin:0013A0","zh_CN":"%2/逆境%0","source_text_sha256":"99c1504355e68f270944bd70b93274d47ee7f82449ee73a3198e53e751e84563"}
+{"id":"bin/battle.bin:0013AC","zh_CN":"%2／反击%0","source_text_sha256":"6df1da53f857a3cd6aba33cd6be44ad7e714e1d1ddbf5721e362196f5fa98d8e","review":{"method":"exact terminology/UI override","previous_target_sha256":"db22d3403598414d6a3054900ebfacec6d8ff5654af1c2b074afdcb0ed36f917"}}
+{"id":"bin/battle.bin:0013B8","zh_CN":"%2特殊能力%0","source_text_sha256":"8722410d75e479646089484997126c4d28d423570024ae158173afd9a50cf938"}
+{"id":"bin/briefing.bin:000114","zh_CN":"“盖塔机器人大战！”(%02ld)%s%s:%s","source_text_sha256":"ca5ae42ea663e88fadabeb338cf13ff269253011730a312808fde669d8111523","review":{"method":"MT spacing normalization","previous_target_sha256":"71d460246b537decdb73387620a1cd389b774da6b51486c0168600c7f657375e"}}
+{"id":"bin/briefing.bin:000140","zh_CN":"中断","source_text_sha256":"f9d19345a067cbe11ff6311c4a4e200c6922207cdac5530e19eabbf5e792f7d1"}
+{"id":"bin/briefing.bin:000148","zh_CN":"结束","source_text_sha256":"8f26d438109c877447c80b84eb7e4ba1e6768ebcfc5408f0bc3c0725956bf039","review":{"method":"exact terminology/UI override","previous_target_sha256":"ec6f70d157485a24f7abc8c91e8399eb6927c43cb79b26de7a4029ead3d4d513"}}
+{"id":"bin/briefing.bin:0001B0","zh_CN":"您想覆盖以前的数据吗？","source_text_sha256":"19d1142e499a92624479c9f7bcb1ad0ab302a787900bbe2ad19add2295ed8dfb"}
+{"id":"bin/briefing.bin:0001D0","zh_CN":"您确定要加载它吗？","source_text_sha256":"d8ee04003f092cf8788d9ed889ab6f826176d83425480729129286e42eb07f06"}
+{"id":"bin/briefing.bin:0001EC","zh_CN":"即使你停止当前的游戏进度","source_text_sha256":"6089a12a839df8f14c0529b8ee79a40095199adf3d4b94e5ebe3191c5a8d9579"}
+{"id":"bin/briefing.bin:000208","zh_CN":"确定吗？","source_text_sha256":"5146a1ff540e70db4b034892f4fe0a33969b863349efdcec2d48f4e947b053bf","review":{"method":"exact terminology/UI override","previous_target_sha256":"8889016ccee9b460ba96d1b5ffff6d98e00396233d9272c0c0be39959980179b"}}
+{"id":"bin/briefing.bin:00021C","zh_CN":"数据已损坏。","source_text_sha256":"8acbc020f572a210e5518c5ffe1ed7ee1e064cbca16f2c46a500a09ae5b65f6a"}
+{"id":"bin/briefing.bin:000240","zh_CN":"中断数据","source_text_sha256":"096082c7ee0f66dd9fe1c8e6b0a09d0d5a42339d5429c69abc62926bcfb05b82"}
+{"id":"bin/briefing.bin:00024C","zh_CN":"结尾","source_text_sha256":"9e6f3184c8e287d395ff7f069049c84325aa9cb2a112fe86869eb31dfc642b95"}
+{"id":"bin/briefing.bin:000260","zh_CN":"存储卡未插入","source_text_sha256":"cb78423441ac2f9450402f1fa2748bd2d682c69742914cfc64da52b3674ba737"}
+{"id":"bin/briefing.bin:000284","zh_CN":"检查存储卡","source_text_sha256":"2d252a08fa800de2160eeb576f457d7d01203d0a6f412cf18d3c582a69c6103a"}
+{"id":"bin/briefing.bin:0002A4","zh_CN":"存储卡或控制器","source_text_sha256":"9d270ae1f0cde9882a42805b791fcc9b0b92bce4ef66aa4414d01ee2216f9007"}
+{"id":"bin/briefing.bin:0002C4","zh_CN":"请勿插入或移除","source_text_sha256":"41ff515eef88fd972b210a0c8e4c8fade4ee3662ac14a2e09cd1ee1913e0b6cb"}
+{"id":"bin/briefing.bin:0002E4","zh_CN":"记忆卡","source_text_sha256":"27ace7f65d334a78304084c9d6a682fdf04e26f662021acb7c0a96addacbe857","review":{"method":"exact terminology/UI override","previous_target_sha256":"4f153b189439d316ed5b4e5f8bc54e053f33a09deeb718ba5b8fef609afd862c"}}
+{"id":"bin/briefing.bin:0002F8","zh_CN":"未格式化","source_text_sha256":"cfe89622838bd9409aa28eee5f6516142d9bc6ac6c57b78f90a1aa9067f7b11c"}
+{"id":"bin/briefing.bin:000314","zh_CN":"您想格式化它吗？","source_text_sha256":"1eae7c03faf55547e0fdf3f066097808783d471000e85cd81d8ae7a5be0a0171"}
+{"id":"bin/briefing.bin:00032C","zh_CN":"格式化存储卡","source_text_sha256":"2f9298cbee7dce4365af215ba384abfb120e84dcb9265a2a12f3ff7a146e2028"}
+{"id":"bin/briefing.bin:00034C","zh_CN":"正在读取存档","source_text_sha256":"aeac6d8af196cb0f4a886f85e9e60956b9a1f2a8f9705dc16ff44c56ae8f95cd","review":{"method":"exact terminology/UI override","previous_target_sha256":"cdc65d40899ab1ddbbba6f8338d3e33e5d1203fefbfc38d36f20ddfa58358e6b"}}
+{"id":"bin/briefing.bin:000364","zh_CN":"正在保存存档","source_text_sha256":"026d56141cb0fa42cf15d8aa07e8416f8981b6a23ca83b46a472b5b655571806","review":{"method":"exact terminology/UI override","previous_target_sha256":"f3850056db33502b25082a31301d9d9ac93e94542dee11cbcbef72cbda45ceeb"}}
+{"id":"bin/briefing.bin:00037C","zh_CN":"没有足够的可用块","source_text_sha256":"99bff8b11149c0cd05438f1d209edf177ae79832bd7fda37b99fb153c1c2bcca"}
+{"id":"bin/briefing.bin:000398","zh_CN":"需要1块来保存","source_text_sha256":"0844436ffced16c9b4dceae4b32d5dc0b7ce3138856a560f77e81f67c88f532b"}
+{"id":"bin/briefing.bin:0003B8","zh_CN":"读取失败","source_text_sha256":"0c43ff87360b284165d1d618c03e0e3697f2febce6485ec19152c6d899d13a0d","review":{"method":"exact terminology/UI override","previous_target_sha256":"d1d044826a45ef6533a4744d171d4a8808dec292f57ade9f3878f1f8f7eed278"}}
+{"id":"bin/briefing.bin:0003D0","zh_CN":"数据已损坏","source_text_sha256":"934b44f392ebdcf0aad90a7ad9ba87a27b0ba33801d8ffc138853c0f3f03becb"}
+{"id":"bin/briefing.bin:000410","zh_CN":"否","source_text_sha256":"48ef2b674823d03d45863e46e4706682f9588ef1d13921134ae3a8508483ffb5","review":{"method":"exact terminology/UI override","previous_target_sha256":"b02dfe2160c687c22f0762f388d6e2bca93d7bca18f55ca9b5ab9ae920de4f62"}}
+{"id":"bin/briefing.bin:000418","zh_CN":"是","source_text_sha256":"8f90d85ec13a0b1b12d81203f2f3262ca156028a94aeaf91ae52fcd5a9de4170","review":{"method":"exact terminology/UI override","previous_target_sha256":"aa2a331d2dcf56680e516898a4ae11aa832d2097fa7fd231b7be2c736ff15a99"}}
+{"id":"bin/briefing.bin:000704","zh_CN":"下一关","source_text_sha256":"39ce1b47fe44c96eee00519b949d4ebe80a42808e6a891f8bbbadd10a496ba04","review":{"method":"exact terminology/UI override","previous_target_sha256":"5b48d2e969c78fd43a7fbc8a2032067c943369377cc7572edb1d6255ea01474c"}}
+{"id":"bin/briefing.bin:000710","zh_CN":"游戏设置","source_text_sha256":"e3d5096cee38417d15de8684e22712c0df9fc7b30137931f3a535efb66539293"}
+{"id":"bin/briefing.bin:00071C","zh_CN":"换乘","source_text_sha256":"6e724a72699eff2099ddc6ea1b8599d96d172d572d49e9a8afc89dd555935196","review":{"method":"exact terminology/UI override","previous_target_sha256":"ae7c4c83caeb18a5d946607157a91138c662f39ccdfc27975c7f3f7d0399b859"}}
+{"id":"bin/briefing.bin:000728","zh_CN":"合体测试","source_text_sha256":"041b492a2ed4a15fb9e2c5494f36d34c33e37032fb9c4feeb498d5b9a2140e0d","review":{"method":"exact terminology/UI override","previous_target_sha256":"b5825c585e5cb4ff4ac129f945390d16eb0f8149a3fa431a5c1fd6781ac777cd"}}
+{"id":"bin/briefing.bin:000734","zh_CN":"合体练习","source_text_sha256":"6577679c9aa0cac94bd4f055bcedc8db519b2b01b9fa825336014c9c25fc7c07","review":{"method":"exact terminology/UI override","previous_target_sha256":"32b32085baefe3d1282f85a2f371cf1dfb68e2fb9fdafafab39df7816ef55b4c"}}
+{"id":"bin/briefing.bin:000740","zh_CN":"读取","source_text_sha256":"763e7f2b1a26c5fa159e887ef2fa9052813fd441e75dece00a033a3c3e791851","review":{"method":"exact terminology/UI override","previous_target_sha256":"8f8f907784631b04901afe29a72bdde5f86d2159d0b45f8219e4aed5f7a16409"}}
+{"id":"bin/briefing.bin:000748","zh_CN":"存档","source_text_sha256":"250717a1ada55d57020bd278785d09f9f399c9329c4caf6b82f69ea07fec64e8","review":{"method":"exact terminology/UI override","previous_target_sha256":"adde7ca654535fbae49a9caf5542a4ea14aa14f0101b7b6d44f462e4796a8533"}}
+{"id":"bin/briefing.bin:000750","zh_CN":"S级(--:--)","source_text_sha256":"880e623ab6a2f8bbf572f114be4d9ca64ea7fbb2848bb8b18550e29d5cdd11ad"}
+{"id":"bin/briefing.bin:000760","zh_CN":"A级(--:--)","source_text_sha256":"810b4128daa7ac5ff907f99d2942d5e5d51ec936fa0ba7efe802924b5b51cac0"}
+{"id":"bin/briefing.bin:000770","zh_CN":"B级(--:--)","source_text_sha256":"66a682c3065123038aae276cef443a6ffef17e187ddbffeb847d1027f1abe7eb"}
+{"id":"bin/briefing.bin:000780","zh_CN":"C级(--:--)","source_text_sha256":"fc7b65003fb51cb4cbeb980f379cd2db617d2a7e11f7d1fc287333484aa385f8"}
+{"id":"bin/briefing.bin:000790","zh_CN":"D级(--:--)","source_text_sha256":"3e943a5a8aee7ab72d2da804bd3a6b61aca60fce84a49779c47d29e08ca75604"}
+{"id":"bin/briefing.bin:000850","zh_CN":"您想在哪张地图上练习？","source_text_sha256":"747fce02039f38c01f0741e28b378b38f4d42970be78d629bb3df07b237e9aff"}
+{"id":"bin/briefing.bin:00086C","zh_CN":"您确定要继续前往下一张地图吗？","source_text_sha256":"949ea3183ed215933b0a2362c3ba461d9c4ef8c1b5f4792e372addf78133d712"}
+{"id":"bin/briefing.bin:000890","zh_CN":"是","source_text_sha256":"8f90d85ec13a0b1b12d81203f2f3262ca156028a94aeaf91ae52fcd5a9de4170","review":{"method":"exact terminology/UI override","previous_target_sha256":"aa2a331d2dcf56680e516898a4ae11aa832d2097fa7fd231b7be2c736ff15a99"}}
+{"id":"bin/briefing.bin:000898","zh_CN":"否","source_text_sha256":"48ef2b674823d03d45863e46e4706682f9588ef1d13921134ae3a8508483ffb5","review":{"method":"exact terminology/UI override","previous_target_sha256":"b02dfe2160c687c22f0762f388d6e2bca93d7bca18f55ca9b5ab9ae920de4f62"}}
+{"id":"bin/briefing.bin:000950","zh_CN":"结束","source_text_sha256":"8f26d438109c877447c80b84eb7e4ba1e6768ebcfc5408f0bc3c0725956bf039","review":{"method":"exact terminology/UI override","previous_target_sha256":"ec6f70d157485a24f7abc8c91e8399eb6927c43cb79b26de7a4029ead3d4d513"}}
+{"id":"bin/briefing.bin:000A86","zh_CN":"这是一个新添加的试点。","source_text_sha256":"389bb61611289d94f0b29aaa541de073f9a8e196c505a0ca7f1b1cba832cab53"}
+{"id":"bin/briefing.bin:000AA7","zh_CN":"$f21a%2早乙女%0“来自橘博士的新装备已经抵达。这是%1‘盖塔机器人号’%0专用的G臂立管。有了$/它，%1‘盖塔机器人号’%0将%1能够与‘超级盖塔机器人号’%0结合。不过，需要小$/心，因为它会消耗大量能量。”","source_text_sha256":"a740a5fda6091c9d6694b6ca758ce6176129b3df287569f3c03d966d2bda38de","review":{"method":"MT spacing normalization","previous_target_sha256":"e1cc2be44584e8dd0fd920d24f0c29bb658abff4af329c55360a2c629a82ffae"}}
+{"id":"bin/briefing.bin:000BA3","zh_CN":"$f21a%2早乙女%0“盖塔1和盖塔龙的新装备已经完成。$/盖塔1专用武器\\n%1“盖塔机枪”和“盖塔射线发射器”是%0$/盖塔龙的专\\n%1用武器。这应该%0使战$/斗变得容易一些。”","source_text_sha256":"b57d12ee4f0d5b4596aa371071546273de57b5dea083af7bd87ce2efa0cf00b7","review":{"method":"MT spacing normalization","previous_target_sha256":"1984e25b12696ff51b6da70ee14d10dc3ca5635f97cd5a08ec37a016ca1881c0"}}
+{"id":"bin/briefing.bin:000C85","zh_CN":"$f99a%3ランバート%0、%3シュワルツ%0、%3リンダ%0、%3ボブ%0、%3サム%0、%3シャトナー%0不再是会员。$/%1盖塔机器人G%0当前不可用。","source_text_sha256":"a8219efbae8969ece34696a31aed97104661d17fe27ce5c78d7323794c21cc12","review":{"method":"MT spacing normalization","previous_target_sha256":"ed729d3f5b277773478b1ab084035734e76a41a39b163d56ded913a30b95e1d0"}}
+{"id":"bin/briefing.bin:000D1F","zh_CN":"没有可供部署的单位。$/请使用“传输”将飞行员放在机器上。","source_text_sha256":"aa03fdb475639bae4f6e4f5a18c95b6eadcc397955f241ebcb9ed66def99cecb"}
+{"id":"bin/briefing.bin:000D74","zh_CN":"$f99a%1添加了雄鹰号%0。添加了$/%1猎豹号%0。已添加B$/%1T-2%03。添加了$/%1女郎指挥艇%0。","source_text_sha256":"71baaa76ad57fb5eb1183ed3875ed46e2aae9d224c8f980a1d33bab7a5bf97ea","review":{"method":"MT spacing normalization","previous_target_sha256":"f0674c0d431cf2a5cfb6fd7eb54d5f02ffa05b2d2a7640868b6b8fa91f304d36"}}
+{"id":"bin/briefing.bin:000E04","zh_CN":"$f99a%1添加了巨熊号%0。","source_text_sha256":"7d7a1dc61b2d48f75af321e9b0f40b701cd3dd847cf8d8dc304455cfe646d006","review":{"method":"MT spacing normalization","previous_target_sha256":"2ddfbf8968535d4563c56ec1112cb48739fba94f4391abd5fb9899df839c874e"}}
+{"id":"bin/briefing.bin:000E28","zh_CN":"$f99a%1添加了盖塔机器人%0G。","source_text_sha256":"55214c299b460f78642aab277166b60f663177c2548c37fae3ac9d1a21ad7744","review":{"method":"MT spacing normalization","previous_target_sha256":"607bd819733d975d4525a97dcc11e16677f27335c04138c50a8fb51f872e3251"}}
+{"id":"bin/briefing.bin:000E52","zh_CN":"$f99a%1添加了盖塔机器人%0Zan。","source_text_sha256":"def7c91a79c9ab7655a0d1d21b839ae5df8eb92876eb3033017aec9e0e12fedc","review":{"method":"MT spacing normalization","previous_target_sha256":"943a78637300c5dee9ae63c5e87724dd1be1d6d39887f12adf5d4b36f6874030"}}
+{"id":"bin/briefing.bin:000E7C","zh_CN":"$f99a%1添加了盖塔机器人号%0。","source_text_sha256":"a0636ec045ee6b453527f03a67f519729de465a29be492ea4396dae8bc2f0698","review":{"method":"MT spacing normalization","previous_target_sha256":"3787416060892f0c835f4d760a628b556292c50d075e683f1567a7e9150a65d5"}}
+{"id":"bin/briefing.bin:000EA6","zh_CN":"$f99a%1添加了斯%0蒂尔巴。添加了$/%1得克萨斯马克%0。$/%1罗博斯通%0、%1キングダム007%0、%1古斯塔%0夫无法出击下一张地图。","source_text_sha256":"d9e361bc4c50d98f23a48e442f5c390a3ab29737ce76d96b50a3b750f0c06d92","review":{"method":"MT spacing normalization","previous_target_sha256":"26f95afbf3a4ca989e781da2e457355dd6205771d51e702dfce685fc2df279f4"}}
+{"id":"bin/briefing.bin:000F43","zh_CN":"$f99a%1添加了真正的盖塔机器人%0。$/%1罗博斯通%0、%1キングダム007%0%1和Gus%0tav可供选择。","source_text_sha256":"85657187d803681abab9be98ba5fd54167763679a21574059a466f1ede807855","review":{"method":"MT spacing normalization","previous_target_sha256":"9fe428d8d39b81b094d9a1482290b9067369249e4ad574369c4c604d244c5c3a"}}
+{"id":"bin/briefing.bin:000FB0","zh_CN":"$f99a%1添加了黑盖塔%0机器人。","source_text_sha256":"7993adb78022e10acc42af4bcc8c0dca32e6d15c7f6e851c447b2733640449e5","review":{"method":"MT spacing normalization","previous_target_sha256":"e969a773e3e1710744f16b1351c004f2c93339f7ea4b3f111605a8addf98e77f"}}
+{"id":"bin/briefing.bin:000FE0","zh_CN":"$f99a%1添加了真盖塔龙%0。","source_text_sha256":"94308ddf28f9fad3052ef7e05a1a509eac27a2f18b5a47d651e5e23521f7378f","review":{"method":"MT spacing normalization","previous_target_sha256":"74723cc615d62adfd7384749326b41b45015a79871c2a2b670fae3cd38a8bbea"}}
+{"id":"bin/briefing.bin:00100E","zh_CN":"$f21a%2早乙女%0“你永远不知道会发\\n生什么。经常保存以避免类似的事情。”","source_text_sha256":"d1de8f514d9d80afb2f6ce1b8e47013ce149e49f222d2d3ad9f356a0bb93d0f7","review":{"method":"MT spacing normalization","previous_target_sha256":"e7a7698fb203394a32e6f637a20e35f936e660ac217d8b8edf655263cd904b9c"}}
+{"id":"bin/briefing.bin:00106E","zh_CN":"$f63a%2隼人%0$p01「没办法，我来帮忙吧。」","source_text_sha256":"d660fcf37fb2adcead98936051936c6955e9192558c4ec5e74b83b5428a5827d","review":{"method":"exact terminology/UI override","previous_target_sha256":"bcdc45f958bf38bd19a5f6b31ba7e0ae3e787a0a3b27fcddb62531da47d3198e"}}
+{"id":"bin/briefing.bin:00109A","zh_CN":"$f02a%2武藏%0$p02「有本大爷武藏在，以一当百！」","source_text_sha256":"ff869cfd039e720a8d97f41b4f26f03972812dbd55c227f651b794fbfb0f2a34","review":{"method":"exact terminology/UI override","previous_target_sha256":"c1549018a408d26c894ff9bcd35d88560e2a931224fa89822e8602b0f1ce8635"}}
+{"id":"bin/briefing.bin:0010CE","zh_CN":"$f03a%2弁庆%0$p03“我是弁庆，很荣幸能与武藏并肩作战。”","source_text_sha256":"7f824dc961b842419a26c5a4d262c285f8fe460e7ef4a406fbca5a5ad68803ea","review":{"method":"MT spacing normalization","previous_target_sha256":"81e6e064005e3ebb04b07570160eb3d1b1b5ca52a85c0d7b9f59b78bafffdee2"}}
+{"id":"bin/briefing.bin:00110C","zh_CN":"$f04a%2号%0$p04“是号！谢谢。”","source_text_sha256":"c6d0443df6bfd52d9cd2863217bcc65394e763b9ae6501697a5701a9334bf4ac","review":{"method":"MT spacing normalization","previous_target_sha256":"ce54cbd71b28f6c28389e1c3e1f797f82ee63adc902265ab8901f8091588e7be"}}
+{"id":"bin/briefing.bin:001136","zh_CN":"$f05a%2翔%0$p05「我叫橘翔，请多指教。」","source_text_sha256":"5503bb08c6039e352c47690c57f573edcd3e9bda98804726f9c357d34c70548b","review":{"method":"exact terminology/UI override","previous_target_sha256":"d3a5a143b8ba48d0b4fbf51acd0d1d14edce60f15487d6f966b92d34c7153016"}}
+{"id":"bin/briefing.bin:00115E","zh_CN":"$f06a%2盖%0$p06“机器人修理就交给我吧。”","source_text_sha256":"31263eac794708bd2cd6230606c76743a0f2996afc01ed37595869779f01456d","review":{"method":"MT spacing normalization","previous_target_sha256":"485439fc85b3bba44f1a2dd83bebca5c41e3d1d5219afda4bca4e50b80692dd9"}}
+{"id":"bin/briefing.bin:00118C","zh_CN":"$f08a%2ランバート%0$p08「虽已年迈，也会助你一臂之力。」","source_text_sha256":"67c95eb088efb3f6c09323944480d42d43133a9650fa01ce2e0ad51c9ed8da24","review":{"method":"exact terminology/UI override","previous_target_sha256":"e950e3719b5447414060d5d69580b67ff0e22baa9b074f93a7cc34090ec48079"}}
+{"id":"bin/briefing.bin:0011CA","zh_CN":"$f09a%2シュワルツ%0$p09「没办法，就助你一臂之力吧。」","source_text_sha256":"4ea702bc82bb62b1744b2bf773ed7428d3bbfc5ceda843effe43563331e2c8b2","review":{"method":"exact terminology/UI override","previous_target_sha256":"18e74aed859e7dd2bd543694d0d58a562a0ec558306062628d88238e2f68d51a"}}
+{"id":"bin/briefing.bin:001206","zh_CN":"$f10a%2ボブ%0$p0a“让我们尽力战斗吧。谢谢。”","source_text_sha256":"956f212035a742cb085033d52f932347a40176a5b9ef21dc3a419fd360dc809a","review":{"method":"MT spacing normalization","previous_target_sha256":"aa1a86c63d0fb3ec52e32a5141f4862d19189c52e3b90a42c9d9425fb4520fe0"}}
+{"id":"bin/briefing.bin:001238","zh_CN":"$f11a%2サム%0$p0b“防守方面我有信心，交给我吧。”","source_text_sha256":"b2152b7a77c8b7c6a629ad459b4ea1e9e924cf5d0074b447854cec22a172f8a8","review":{"method":"MT spacing normalization","previous_target_sha256":"0a76b420e18c329c51c60f62873531de8e7c021e83ba4bfaeebd2b89fd1b695c"}}
+{"id":"bin/briefing.bin:001270","zh_CN":"$f12a%2リンダ%0$p0c“谢谢大家。”","source_text_sha256":"b0cdf4d7b080ba5a6beb966dfe2e47c93c14b7525dc631f1e72478387b0ce5a6","review":{"method":"MT spacing normalization","previous_target_sha256":"9f5cb595c88d05e1f885c0feb692c072868f81dcf6f716d4109b910a80e611d6"}}
+{"id":"bin/briefing.bin:0012A2","zh_CN":"$f13a%2シャトナー%0$p0d“喂，我是シャトナー，请叫我シャトナー。”","source_text_sha256":"ef2d349217fd29f753e76ab12ee25fb5e74be95bb9070785da7ac8d25f764c01","review":{"method":"MT spacing normalization","previous_target_sha256":"50dacea8fe80e91dd88b83806892368b49462be68353092f14e5a4e4dc472b0d"}}
+{"id":"bin/briefing.bin:0012EA","zh_CN":"$f14a%2ジャック%0$p0e“大家一起玩吧！”","source_text_sha256":"8376b7a646d2406456e61794817a5248b8081c9aa4603b1ba690480535816f56","review":{"method":"MT spacing normalization","previous_target_sha256":"2062cbeb2432d85ccde94799ccb1de90f051d5f49af3f4a0519ec27d6ea14eb4"}}
+{"id":"bin/briefing.bin:001326","zh_CN":"$f15a%2メリー%0$p0f“嗨！我和我的兄弟一起照顾你！很高兴认识你！”","source_text_sha256":"ce184a6a9bf0dca04828edc83545017acaff91002dc86354ea1cc3ea5e621fd6","review":{"method":"MT spacing normalization","previous_target_sha256":"f09c45e2efef8d3f4ecf0e6e457c03d5bcbafa4e169ba63bd2c10f28082384fe"}}
+{"id":"bin/briefing.bin:001372","zh_CN":"$f16a%2茜%0$p10「齐心协力，一起加油吧！」","source_text_sha256":"5864861c5962603610344ff1e2edec2cb546edf44d3512b68817e9ae8bd57faf","review":{"method":"exact terminology/UI override","previous_target_sha256":"663df66039bc7c48994bc42ce10842792f746da74205efe2e5e5629fd3b39cfc"}}
+{"id":"bin/briefing.bin:0013A0","zh_CN":"$f17a%2椿%0$p11“是椿...谢谢。”","source_text_sha256":"845244623d2839763cf0206501be889540c3ef07ba7953704c4ea9048ab932dd","review":{"method":"MT spacing normalization","previous_target_sha256":"32ca11f75bd495d291a25c07cdc5994dfbc292766d9e45bff0ad0ecddd92456c"}}
+{"id":"bin/briefing.bin:0013CA","zh_CN":"$f18a%2枫%0$p12“呃……嗯……我会尽力的。”","source_text_sha256":"855d3176a9755a3d446179aa321a56d2d2be2ed248cffba95c207fd941711ee2","review":{"method":"MT spacing normalization","previous_target_sha256":"bd2afa4da715c48eabe4e4e874f41e3dfb8de77c60f9c62240975b9a46afb6ab"}}
+{"id":"bin/briefing.bin:00188C","zh_CN":"得克萨斯马克","source_text_sha256":"69b1b152595114b14245ba778d67f9573aba37d3b223b6b22370fe6638e87e8f"}
+{"id":"bin/briefing.bin:00189C","zh_CN":"古斯塔夫","source_text_sha256":"09815c791734b326b381651f298891496da6cbc992c8faae5d106878578fe54a"}
+{"id":"bin/briefing.bin:0018A8","zh_CN":"王国007","source_text_sha256":"fdaeaeb58c6d412b44ef44fcf73245255d8c5c44a66f31b87b2f4bbf33ca352d"}
+{"id":"bin/briefing.bin:0018BC","zh_CN":"罗博斯通","source_text_sha256":"375bc01dab9a74d8c744592031779a7e8c5b60093dc01a51a2f02984c6a87c65"}
+{"id":"bin/briefing.bin:0018CC","zh_CN":"斯特尔巴","source_text_sha256":"14c90d6bda61ee507b9c108f44e48065f5b99935dedbff379c02555ff87668e8"}
+{"id":"bin/briefing.bin:0018D8","zh_CN":"女郎指挥艇","source_text_sha256":"6dbc396f6fd169e1fbf2549e2e334dd6f2dd0b2e6ba103e3f2c135c7e4d1aeb9"}
+{"id":"bin/briefing.bin:0018F4","zh_CN":"盖塔机器人Za%1n女性所需等级：B","source_text_sha256":"15ba89be3fa5fb43ca6eb271af3838e44cf70a17875dd7bf608146a65c533348","review":{"method":"MT spacing normalization","previous_target_sha256":"0fed912c7dd7a35477de3681c71ec23bc5711b4a9caf853df41f2e559199e325"}}
+{"id":"bin/briefing.bin:00191C","zh_CN":"黑盖塔所需%1等级：A","source_text_sha256":"7b8cd0dc4ce088f0d9383cfafcce63e5f3503d76f2ca45ee56d720dfe1fffb9d","review":{"method":"MT spacing normalization","previous_target_sha256":"05ed6ca76aea493efd90ffb25b716729466e0890ab4681b8c1431e8e4bc1ff5c"}}
+{"id":"bin/briefing.bin:001944","zh_CN":"真盖塔龙所%1需等级：S","source_text_sha256":"360f9e64417ddd41449118fddb4258a27ec86ce411f3a7aa6b01282006d9fb9f","review":{"method":"MT spacing normalization","previous_target_sha256":"40eecf76016fb4e637bd8d3de13aade71df2e3add218324a0b716936f8e4e792"}}
+{"id":"bin/briefing.bin:00196C","zh_CN":"真实盖塔机器人所需%1等级：A","source_text_sha256":"c1216bca2c248f2ab7567dbfde78debda145c0effb3e51e1c7bf3b71d8422744","review":{"method":"MT spacing normalization","previous_target_sha256":"e60f0d1aa807eb5cc6c0ecfa4421d207aa4a54644e3d30ec9b5128f342ab130f"}}
+{"id":"bin/briefing.bin:001990","zh_CN":"盖塔机器人号所需%1等级：B","source_text_sha256":"c17c9aa6def7456255863eca4b1e2ba8fbd39b493f403729323213ce04f64fc9","review":{"method":"MT spacing normalization","previous_target_sha256":"0b8da981dc82c42c05e8c331440b2c730703e417bc66851876b3fd49579bc226"}}
+{"id":"bin/briefing.bin:0019B4","zh_CN":"盖塔机器人G所需%1等级：C","source_text_sha256":"bec0e66f30dd2e1b9ac935873164963c6ccf9eb5a0ed958f79fafa5d7c7ee7b8","review":{"method":"MT spacing normalization","previous_target_sha256":"e5cd9524db6e3d125a9e0d8edeae79785dbf9060baadfe18a77368b921ac09e9"}}
+{"id":"bin/briefing.bin:0019D8","zh_CN":"盖塔机器人所需%1等级：D","source_text_sha256":"434b0812ef2bdc219635259d3769181702cfc1261d3a14dbc5049a8094523ba5","review":{"method":"MT spacing normalization","previous_target_sha256":"78c123372d479854d02e2599190878186eba7106573c78528a2d513b299385bc"}}
+{"id":"bin/briefing.bin:0019FC","zh_CN":"等级：S","source_text_sha256":"b24ff68caa19f6fe866dde8f97655f642879e35d0cf0131b9b8c28e1a53f821e"}
+{"id":"bin/briefing.bin:001A08","zh_CN":"等级：A","source_text_sha256":"48d75e4ef95be9a5b6def43b7bbfad3ede7e213bc6b693b452ef086bef713006"}
+{"id":"bin/briefing.bin:001A14","zh_CN":"等级：B","source_text_sha256":"4a868745f740203735ca59d282f345869b4a6f99e50beb57182899334e3921f2"}
+{"id":"bin/briefing.bin:001A20","zh_CN":"等级：C","source_text_sha256":"e83dbbdae92c74e91c3a58fe04c92825ec17ca80de0ccb99e9a5fdb6631468cc"}
+{"id":"bin/briefing.bin:001A2C","zh_CN":"等级：D","source_text_sha256":"715f7c5d673d19d24826c042900936fe4c1139ab3ae0e160a35eac6a3e79476f"}
+{"id":"bin/briefing.bin:001A38","zh_CN":"等级：－","source_text_sha256":"c914d5b83942eec593b6bc9da539c3ee1c8d80d42e0cb4f2a90882607d81e8f5","review":{"method":"exact terminology/UI override","previous_target_sha256":"a9899c02c8171170e160ce8920073b1e4622b7dce3b5723ceb38f2bcd2346472"}}
+{"id":"bin/briefing.bin:001A4C","zh_CN":"回避","source_text_sha256":"3e8d0ff0d13deb3acdd01554d924e3f1b19d8f4f7cf5a5a122d6856fae18aef8"}
+{"id":"bin/briefing.bin:001A54","zh_CN":"命中","source_text_sha256":"393df9bb13ea4900352dc3e57d54ab4c734201384bfff92cbf4b9812a45bd5d5","review":{"method":"exact terminology/UI override","previous_target_sha256":"c6d764df544b17199c30427734f47d75c7d224eef1bacf51e6b8362591c35381"}}
+{"id":"bin/briefing.bin:001A5C","zh_CN":"移动","source_text_sha256":"de2596ff85520b36a78110aba0914c332db890cdc3bbd27e730b2b2c03408536"}
+{"id":"bin/briefing.bin:001A64","zh_CN":"防御","source_text_sha256":"75ba7a572706c98eaf57aab152664e4b3f6d6bbc0430a2d469155aa95d463466"}
+{"id":"bin/briefing.bin:001A74","zh_CN":"体力","source_text_sha256":"d6d2aa99fd698da376bfe5da1e585e816e6b042d1b03afa35d1458322f31f85d"}
+{"id":"bin/briefing.bin:001A7C","zh_CN":"操纵","source_text_sha256":"8cec9b971315c799c134397a2262f69aca02ba20bf2293b68d4b7bd9c85040a9","review":{"method":"exact terminology/UI override","previous_target_sha256":"4c2e2bb6d4d0284a92c4f1f0f7e2fc93b4aee30cb684264f616b36a6468e89d1"}}
+{"id":"bin/briefing.bin:001A84","zh_CN":"反应","source_text_sha256":"bd147afb759f4175f7912c4614b8b6db2d9fa3b8bc126b279068f081886cd30b"}
+{"id":"bin/briefing.bin:001A8C","zh_CN":"射击","source_text_sha256":"d9ee3e0a5c2973fcc6044b705db3772bc4fe69ea0cb4c276a5273f821e9eed31"}
+{"id":"bin/briefing.bin:001A94","zh_CN":"格斗","source_text_sha256":"afd52e9e2a90cac1061d08876c0fbcb34727a2afa5ea51b7cdac8164572ce3ef","review":{"method":"exact terminology/UI override","previous_target_sha256":"57cd33d54f8bba9adbceaa2fa5389c668fb1e15203fd647e71b54f3bec023636"}}
+{"id":"bin/briefing.bin:001D38","zh_CN":"空位","source_text_sha256":"303602193e7ce28c345ef704b4ac0a1d9eafb1e76d7a97c0238fe60910b90ec2","review":{"method":"exact terminology/UI override","previous_target_sha256":"7091cd1f6ffd48257dae367e5716eaa94ba8401da6809bd75a2a745a77b64a33"}}
+{"id":"bin/briefing.bin:001D40","zh_CN":"无","source_text_sha256":"868310e193d1af0b9a0a16b18d5826a5490fe3f9410defa30dc115829fc1db4a","review":{"method":"exact terminology/UI override","previous_target_sha256":"f00fbf67193e437ee0807f646f14854e55f84f893cd6498fa1544ba66296626d"}}
+{"id":"bin/briefing.bin:001DF8","zh_CN":"请为黑盖塔","source_text_sha256":"8167118cebb65ec9621dd4e9cfdeab14d64b7a8f16416e4cf1f97f85a9b6adda","review":{"method":"exact terminology/UI override","previous_target_sha256":"75321503fc00194b8159bf4aaf1bc19a66c55c147fdeabfec019c6a5671ba24a"}}
+{"id":"bin/briefing.bin:001E0C","zh_CN":"安排驾驶员","source_text_sha256":"ada1fbd9bb779a0c12f9092273559df0280e60322a6ae594a9e460a9af6b3d6f","review":{"method":"exact terminology/UI override","previous_target_sha256":"63999287fd4c092860bbeb5b67584a87106660da42997f5e995514cf2d475a7d"}}
+{"id":"bin/briefing.bin:001E1C","zh_CN":"进行搭载。","source_text_sha256":"0212b6bb95c1ee269e4660930852c90d52ad5371c2476a23668dcae304ba81d4","review":{"method":"exact terminology/UI override","previous_target_sha256":"9458749f0d7d15982dc68d554cf7b3068f602317a40077926c9a8f6d46310668"}}
+{"id":"bin/briefing.bin:001E30","zh_CN":"请为盖塔系机体","source_text_sha256":"51282b59fba12014b0e56e3e7c6434f9061d1231ef430f46a1bebd1a3af6540b","review":{"method":"exact terminology/UI override","previous_target_sha256":"0d6f359d8090999813986ac6ef0bca9a1cc9820d0150c6953b9b882da65983a6"}}
+{"id":"bin/briefing.bin:001E48","zh_CN":"安排三名驾驶员","source_text_sha256":"e20b08e964f58ce7c348267ac87e4802f644f8c02064141e2ab28189cb6a3e9b","review":{"method":"exact terminology/UI override","previous_target_sha256":"aca8f3ae9116a8003f343a57c294daa5c5a4c258d3a6e7d30bdbb8ba3edc01bc"}}
+{"id":"bin/briefing.bin:001E5C","zh_CN":"退出","source_text_sha256":"a7b8f4b31985e053fbce3cf2a73410d8407ce4239409f3049f687d8a9c14fe41","review":{"method":"exact terminology/UI override","previous_target_sha256":"8491cffebe6126ea933585c11890ee4d119dbc2c0f284f0240f8e62e253885fb"}}
+{"id":"bin/briefing.bin:001E64","zh_CN":"继续","source_text_sha256":"f751bed20659715f064a65b955b2b525fffcb31f6f54ca3e7b4c312004566803"}
+{"id":"bin/briefing.bin:001E6C","zh_CN":"恢复到更改前","source_text_sha256":"29f0d07f8f8d2ea9f4b881ec53d0bdde4d192aabc2e281facdea6e625a08f8f6"}
+{"id":"bin/briefing.bin:001E84","zh_CN":"出击位","source_text_sha256":"961e76a5e8bd3d54b2841f86614efb63658f3751e4065db91c1407b103b6096b","review":{"method":"exact terminology/UI override","previous_target_sha256":"e3c9bc36f6a6480fc79546a4d8d786cca102f48ce847b64ed8d48a7b19f2f2f9"}}
+{"id":"bin/briefing.bin:001E98","zh_CN":"待机位","source_text_sha256":"f9f7e01affcbbc02d8ac5224619e68362b7d0e776515a06223c9402c8d05f6bc","review":{"method":"exact terminology/UI override","previous_target_sha256":"17c542eba3230bdee306193339c37f77e2fc9d35e56cccf842749c5555067aee"}}
+{"id":"bin/briefing.bin:002460","zh_CN":"月","source_text_sha256":"1625179badc027f0d0a26df9da3d4ae1be4483cc0a9365e54faab22fbe250055"}
+{"id":"bin/briefing.bin:002464","zh_CN":"月附近","source_text_sha256":"5ab42b9d06744f52de5f7ad7436fc311f082a7c368b7671024c4d35efd3a465d","review":{"method":"exact terminology/UI override","previous_target_sha256":"ba287bd3b162e27ecef0d38d46d4cd1bbcfa39bf273b4a0cbd1e8259f79e5407"}}
+{"id":"bin/briefing.bin:00246C","zh_CN":"卫星（平流层）","source_text_sha256":"0ef7891777b9079ebd63e9b4fbc659dcea860edc590454936d68b186b3b4600e"}
+{"id":"bin/briefing.bin:00247C","zh_CN":"北极圈","source_text_sha256":"786aa2144654fef95e1011deb440c5563971dae65a0e987177c70d51307613a3","review":{"method":"exact terminology/UI override","previous_target_sha256":"65a58dd11a3785189ccb408215ee78521a4bdb7516d1493bb286182891159437"}}
+{"id":"bin/briefing.bin:002484","zh_CN":"阿拉斯加基地","source_text_sha256":"5b42eb6a382ab9bd14219e81ddbb12761eb507ec0cc2ecb9ade85f9d8e7d7d8c"}
+{"id":"bin/briefing.bin:002494","zh_CN":"得克萨斯","source_text_sha256":"c7c97656698670ad1dc2c25e0b140d58178da4abe741459af3f5557a1092b469","review":{"method":"exact terminology/UI override","previous_target_sha256":"a4128eb4ca95e89393a8c4bebaff6154e9867664c8653b7c17de3f43b6ef6d5c"}}
+{"id":"bin/briefing.bin:0024A0","zh_CN":"日本","source_text_sha256":"cf2abf0c5be326cb922a70f8163f91079c4d9aa8655c60ead89ad545c9de2e92"}
+{"id":"bin/briefing.bin:0024A8","zh_CN":"早乙女研究所附近","source_text_sha256":"696544760fcc49a1934cff92d3364ed2261bbd9b0095fbd0deb9b6d445bb4e07","review":{"method":"exact terminology/UI override","previous_target_sha256":"33276d72ec82cef4ad39843f8451c5a1a9de7a0ede5869f0e7ac6424f4d1cf43"}}
+{"id":"bin/briefing.bin:0024BC","zh_CN":"橘研究所附近","source_text_sha256":"edbd8471295e0e126377894c5ff1987547d5ff7234fc0f0aa39e19416e81e430","review":{"method":"exact terminology/UI override","previous_target_sha256":"319dfda2cae4560d10bc5d438b5c9c7ea50f1fa7f6d7b14de2bca104ed404257"}}
+{"id":"bin/briefing.bin:0024CC","zh_CN":"太平洋上","source_text_sha256":"e2d3050e5c466bf30907ca357ae60685cd0382f5e1416f88753eaf7cd02ef089","review":{"method":"exact terminology/UI override","previous_target_sha256":"a9bd22e1fd02912e07e4ccf3d6b2b862aad45bce26107000d28eaf7be7adc6cf"}}
+{"id":"bin/briefing.bin:0024D8","zh_CN":"市区","source_text_sha256":"08d532fa6ccc1d8f1e48b098ed23c8c5565c29306f2b6540ecf16ba9799588f5"}
+{"id":"bin/briefing.bin:0024E0","zh_CN":"俄罗斯","source_text_sha256":"60c84542ec5ff2c26ddc1d41c76ac6992f333fb5a82c92303e0c42ca16abec1a"}
+{"id":"bin/briefing.bin:0024E8","zh_CN":"德国","source_text_sha256":"e8900cb0689eae74065d44a333689d92352282766d98a5d755e8032d810213e1"}
+{"id":"bin/briefing.bin:0024F0","zh_CN":"英国","source_text_sha256":"b1573b12262e9f61ad8fbb6bbd660c5babc0d51813bd15a16bc819396bfb2491","review":{"method":"exact terminology/UI override","previous_target_sha256":"cc5ba5e6ab7dfed66b163ed66b0efb89b29e99778d34c27904986c8348c5eb32"}}
+{"id":"bin/briefing.bin:0024FC","zh_CN":"隼人教学楼","source_text_sha256":"63eafa81550f28ffd2475f0e49e02e38d3e5458ba7ef03d071bfdac842143b72"}
+{"id":"bin/briefing.bin:002508","zh_CN":"橘研究所","source_text_sha256":"406f8c3c4c004757a5013c9478af05d2708fcea953c5c67307f459ac421d730b"}
+{"id":"bin/briefing.bin:002514","zh_CN":"生产工厂","source_text_sha256":"c0a64c77513d133b07b10a8f0de3b1183909dab3e4422c08dc27e745ee708ecd"}
+{"id":"bin/briefing.bin:002520","zh_CN":"浅间山火口","source_text_sha256":"c1f9924c3a6226377ee89b4baed302f5f264ff831b4341584ee0317705a9e4a0","review":{"method":"exact terminology/UI override","previous_target_sha256":"645bd0555165dec4550deb6bb6e6a868a405e4179c5e4959f4b55232f9c0c8d6"}}
+{"id":"bin/briefing.bin:00252C","zh_CN":"早乙女研究所","source_text_sha256":"8b530f64639ad17ecbd8a893a48ecefb6495367fc06d71944080a51df49c0bed"}
+{"id":"bin/debug.bin:001A0C","zh_CN":"音效调查处理","source_text_sha256":"73c28ab4faf8e80dd19444beee60dee93c761582992f5da244c085ae98954971","review":{"method":"exact terminology/UI override","previous_target_sha256":"a48f99f4a4967b3cbd2bf83c0aa5e2e4530ffc94a1f6dfc4c52c3af6dfa967fc"}}
+{"id":"bin/debug.bin:001A20","zh_CN":"%s音效名称：%s","source_text_sha256":"25003ce8a279eae7a81a9dc71c125101aec8c5706a83baadb0bcde5cf16e36ff","review":{"method":"MT spacing normalization","previous_target_sha256":"b87bea01c445a6b66656901f9fbf5e1dc0570c9da2dad92c3eeebc105671e0a2"}}
+{"id":"bin/debug.bin:001A34","zh_CN":"%s音量（右）：%3d","source_text_sha256":"c2f227fd05270ce7443cd4b134e058e95484a47a8171175a25ce3dbc9422f1fd","review":{"method":"MT spacing normalization","previous_target_sha256":"d8e3035adb77a0315a6544fcb64f9e021f723d8e0f9b309af7ed0d86f7ef7573"}}
+{"id":"bin/debug.bin:001A48","zh_CN":"%s音量（左）：%3d","source_text_sha256":"833a28c497213da47cb2b903c782b8ad4160d914662d7c537b973765b947aeac","review":{"method":"MT spacing normalization","previous_target_sha256":"b104df7ffccf46a4365ecfc8d0df8ff123a160b955ade4ad181f14dfc801b1e3"}}
+{"id":"bin/debug.bin:001A5C","zh_CN":"　%s结束","source_text_sha256":"b7e0e9559bf3eb9627f816cdba6a0e7a51c42623f0d9ab47fba8df471cecd50f","review":{"method":"exact terminology/UI override","previous_target_sha256":"afce640f2a85d720a2bab6e8a7860b271565376ab528fc6cd87203b0fbda9aa3"}}
+{"id":"bin/debug.bin:001A84","zh_CN":"结束","source_text_sha256":"8f26d438109c877447c80b84eb7e4ba1e6768ebcfc5408f0bc3c0725956bf039","review":{"method":"exact terminology/UI override","previous_target_sha256":"ec6f70d157485a24f7abc8c91e8399eb6927c43cb79b26de7a4029ead3d4d513"}}
+{"id":"bin/debug.bin:001A8C","zh_CN":"中","source_text_sha256":"a567bdaa11367f260f0708391f4d10766b5962f565d9e432f17981a3584fe1e2","review":{"method":"exact terminology/UI override","previous_target_sha256":"b4c49b98f680342dda7b7622dd05db51970467dd737765bd85efccda18ade0a9"}}
+{"id":"bin/debug.bin:001AA0","zh_CN":"XA调查处理","source_text_sha256":"176c920810c1f26ad61e8c1ddd9ec8e4b53b1ad34e119135cbb46c2b3fa0d7a1"}
+{"id":"bin/debug.bin:001AB0","zh_CN":"　　播放%s","source_text_sha256":"38a6e6ef9b2ea838ef4dc85ca53212d651195dfce0c7d4f8ac4825055a030aaf","review":{"method":"exact terminology/UI override","previous_target_sha256":"3facc69c5de50cc83d32b9aac1a3c07197a2a6226badb7b49bee9fa8d2889bca"}}
+{"id":"bin/debug.bin:001ABC","zh_CN":"　　定位%s","source_text_sha256":"5033161cd013b18263d091795b209f6216bc3b4caa0734e60c8cb21ace82a820","review":{"method":"exact terminology/UI override","previous_target_sha256":"a05ba27169f13dd85636e87dcac7994669376cb8a18189c415476e5be6301259"}}
+{"id":"bin/debug.bin:001ACC","zh_CN":"%sXA编号：%3ld","source_text_sha256":"9f6b5ac645d0c822ae2f91c613fc5ce15d409024a0ad09b3d9d6c51b930f8781","review":{"method":"MT spacing normalization","previous_target_sha256":"bcb5c11b44c6777139a47d8df3f9486a11e25aaefb3dbb0a7eaac36362ce1d88"}}
+{"id":"bin/debug.bin:001AE4","zh_CN":"%s重复：%3ld","source_text_sha256":"0b053bdd6fffe644dcfc12e7966c59f17ce596841fbf0f570abe3e97d9ab87ad","review":{"method":"MT spacing normalization","previous_target_sha256":"33c19743fbbc4d89b883162f225c4f930c07d85245579dfed61a4c9624dbbe52"}}
+{"id":"bin/debug.bin:001B10","zh_CN":"　%s结束","source_text_sha256":"b7e0e9559bf3eb9627f816cdba6a0e7a51c42623f0d9ab47fba8df471cecd50f","review":{"method":"exact terminology/UI override","previous_target_sha256":"afce640f2a85d720a2bab6e8a7860b271565376ab528fc6cd87203b0fbda9aa3"}}
+{"id":"bin/debug.bin:001BE0","zh_CN":"调试菜单“请选择攻击单位”","source_text_sha256":"38466b0e9825ee6b2c4ce97f18fe087c07abded0997678ad00631b365de7a943"}
+{"id":"bin/debug.bin:001C14","zh_CN":"选择技巧/%2d：%s","source_text_sha256":"51b38bf26b8682c61a571b66ed64739ebfef095263b4582e94ac8080508a0c13"}
+{"id":"bin/debug.bin:001C28","zh_CN":"选择技巧/%2d：用于预览","source_text_sha256":"5827b2c90b9a3d4f9a8abd76c0083b3791fb2434f2fd8f369ad27588e193164f"}
+{"id":"bin/debug.bin:001C48","zh_CN":"地形/%2d","source_text_sha256":"df4582cd5a8781a73316a6063080d3ccde8874f004cf212c56bf9ac7cfe4ff9f","review":{"method":"MT spacing normalization","previous_target_sha256":"e709d45a6dde416d1c53fec64bc2c054cd00c0a998831352f54db0fa01b28a39"}}
+{"id":"bin/debug.bin:001C58","zh_CN":"飞行员/%2d","source_text_sha256":"da01bfa6860f8363b9dcfcc1801763d9da5163bdbac23c5ef49e1ebe54ba817c"}
+{"id":"bin/debug.bin:001C68","zh_CN":"防御状态/正常","source_text_sha256":"3ec0dabf192da3da121385ea509ba92ea0f82d17e4e9586f78c114c80a5b26d4"}
+{"id":"bin/debug.bin:001C7C","zh_CN":"防御状态/防御","source_text_sha256":"707bc9d79efc7ef5e88c7bb2d091e73294777979af9772b436ff2a1abcf7180d"}
+{"id":"bin/debug.bin:001C90","zh_CN":"防御状态/回避","source_text_sha256":"9b84ddf88f3b9f8de24bbede04cbdeac1f140ad799eded9f7b20e54c0d27dda5"}
+{"id":"bin/debug.bin:001CA4","zh_CN":"防御状态　／盖拉","source_text_sha256":"9af3b9b2a5a75ea4f4fd004e738890305f6ee4addac5a0b0e82233eae37b2349","review":{"method":"exact terminology/UI override","previous_target_sha256":"cd7faaaacfeb5dc86f40e910cad83893e0ecfa4e7ba3aff50368d40fcbcae2b7"}}
+{"id":"bin/debug.bin:001CB8","zh_CN":"耐久性/普通","source_text_sha256":"e8a082043fe56768cf4ac8691d8afe49166b32a55f3101bfb7798368c2b80af6"}
+{"id":"bin/debug.bin:001CCC","zh_CN":"用于耐久性/检查","source_text_sha256":"dccd42f65a1db5d0ef040a8f4f8097d1ea4be6972bd18200063dddab5663f0cf"}
+{"id":"bin/debug.bin:001CE4","zh_CN":"耐力/死亡","source_text_sha256":"c26bc1f54ba2821f0c3a1f1d68dd7847fb265885b6af1dc670b2cdd95227bf5e"}
+{"id":"bin/debug.bin:001CF8","zh_CN":"耐久性/固定性","source_text_sha256":"a2d246d0e61df5a01e600431728fe4e164901e6c6e9aa39be39e74bdbbea5e5f"}
+{"id":"bin/debug.bin:001D14","zh_CN":"调试菜单“请选择防御单位”","source_text_sha256":"d185f7624431495fd406f7896d30223110de6d952c987ec612f92b5712e32438"}
+{"id":"bin/debug.bin:001D48","zh_CN":"选择技巧/%2d：无","source_text_sha256":"7a0d92cdb51eb25f7ef2db8ad283bb8f00944784e59e5c0b297f25c9c5e46d7e"}
+{"id":"bin/debug.bin:001D60","zh_CN":"%2d/攻击/%1d/%2d","source_text_sha256":"1af0a8fcd3fdbac18403282e6bf11b54de498291ac225fb84f8a627a39b8657e"}
+{"id":"bin/debug.bin:001D74","zh_CN":"%2d/防御/%1d/%2d","source_text_sha256":"d5769164da25a44b0fad55ac3f416c0f5d0ab5f40ec8817d2a0deb927ef85f8d"}
+{"id":"bin/debug.bin:001DA0","zh_CN":"攻击中","source_text_sha256":"38e9bde55552a9e5c32fe33182d1fde2c8dbbe8ccccb1a8712050dbe7ea4db1d","review":{"method":"exact terminology/UI override","previous_target_sha256":"5456c89b68e6405d6294a1f15a88896f944e4c025aed3e9c4bcfbd4b32b4b113"}}
+{"id":"bin/debug.bin:001E38","zh_CN":"“调试菜单@02”","source_text_sha256":"277e1fca2a1a6d5880c28431c07684545b7b512ab34223936d95daf2754aa2ad"}
+{"id":"bin/debug.bin:001E50","zh_CN":"1.@01场景变化","source_text_sha256":"d458094d3acf0fb5dcc4d2ea402e798b6a97659b55b7ab7631315cfb39cb9424"}
+{"id":"bin/debug.bin:001E6C","zh_CN":"2.@0E@0F相机模式","source_text_sha256":"4d5b50707082e33ed2e7d13f03919a41af01613f71870bb7239c8ff720863d65","review":{"method":"MT spacing normalization","previous_target_sha256":"92ad0c386aa9277cf13f93e7537cbc98abeb5ca3d8afa9bee3f79ff7c7258975"}}
+{"id":"bin/flight.bin:021FDA","zh_CN":"按下按钮","source_text_sha256":"4e0ca1cba197f61b52a3b05d4defcc495b2df5f4387be9ddcfcdea42f268d06f"}
+{"id":"bin/flight.bin:021FF1","zh_CN":"用按钮停止","source_text_sha256":"11b61ad52a5eb62905da6c5891a40b44cfc17a00eacaff90701126d50c3501a4"}
+{"id":"bin/flight.bin:022002","zh_CN":"难度","source_text_sha256":"581d8d0ee9eca64461fdb3de837f4c892d283b8291d51a7bb2d1e99805020e2a","review":{"method":"exact terminology/UI override","previous_target_sha256":"65cd7d7eceef085903bafd1a641e4ee3f604c6c732dc4c1719b6f16348759dea"}}
+{"id":"bin/flight.bin:022018","zh_CN":"合体演习","source_text_sha256":"44d571435ddcdc7d3458a174c5b476abcdba712a0b49ba1153c590cf61541b2e","review":{"method":"exact terminology/UI override","previous_target_sha256":"32b32085baefe3d1282f85a2f371cf1dfb68e2fb9fdafafab39df7816ef55b4c"}}
+{"id":"bin/flight.bin:022021","zh_CN":"森","source_text_sha256":"5f8e490558897efa493cfbd5d78dfa22de2d997068ef7ab64282edef82d67351","review":{"method":"exact terminology/UI override","previous_target_sha256":"3bfbf21e2f002bc2dcafb5e9df5fcbb1f16ea95587716d7794fa0e5c8547bbc8"}}
+{"id":"bin/flight.bin:022024","zh_CN":"海上日落","source_text_sha256":"2f80fe66bad419403fe4711345f9c90406741030f3644147820fda100f33ac2d"}
+{"id":"bin/flight.bin:02202F","zh_CN":"夜街","source_text_sha256":"36da3131750f610f0983bbfccfaba86e6d1d8aba500c2ba82ebe83acf2d47655","review":{"method":"exact terminology/UI override","previous_target_sha256":"61dd3bf4b7f0a9ac03722047ce5f60c478d7053607b260c456215e3b7bcd4b61"}}
+{"id":"bin/flight.bin:022036","zh_CN":"风暴中","source_text_sha256":"d41d0174b38dccb1f13dbae742a8bfd41afbdd0e381a959003950b5d25c1cbe5","review":{"method":"exact terminology/UI override","previous_target_sha256":"9300091ef2dd918f4a364579d8ec95ad4f3d7a0804274bd7e1611d4cdbb3c1a1"}}
+{"id":"bin/flight.bin:02203D","zh_CN":"平流层","source_text_sha256":"c164f5ecd8032b480644ca3836e52623abf3e75d26f324366a115bbd1f115fce"}
+{"id":"bin/flight.bin:022044","zh_CN":"情况","source_text_sha256":"6f7f5f42876b40501166d1c1f06edd5d15b5b9cd13cfa4b0740f253a046edb6d"}
+{"id":"bin/flight.bin:022049","zh_CN":"无异常","source_text_sha256":"4b0de269cd410bec38b61d597bee14aa6a24b31dc7c1a0d48e56a67589cd54ca","review":{"method":"exact terminology/UI override","previous_target_sha256":"b3152ba33d6ce5f6b5cc3b825440abccf6f177b7a42f8d2bdcbf72e626327183"}}
+{"id":"bin/flight.bin:022052","zh_CN":"记住%1这里合并的时间！","source_text_sha256":"9cfb4b270af2c6a1277dd264f1e0c3518e66db8ed941a0e74439305e99df3f30"}
+{"id":"bin/flight.bin:022078","zh_CN":"逆光难以看清","source_text_sha256":"20d7fe58f72db31c23fea0874c84e9585cbcf5edd87c036acefdb559a69b9c5b","review":{"method":"exact terminology/UI override","previous_target_sha256":"0a673138a73047d54ce3014ecc91f66ad717d2d43d9644cce9f3dcc801fde838"}}
+{"id":"bin/flight.bin:022089","zh_CN":"%1小心，因为会有阵风！","source_text_sha256":"0183eccb0225e46588970e59a2ccf3879e9324dd79f70222e066d4b764acc7e8"}
+{"id":"bin/flight.bin:0220A5","zh_CN":"位于高楼之间","source_text_sha256":"872a062e1d512ae9f89c248904365f9d4322ac3ae889b65631b084b07224e068","review":{"method":"exact terminology/UI override","previous_target_sha256":"42cff2908a9158ab269f3202593a760c8ce9ce09dd869486d6357b67cf1623cc"}}
+{"id":"bin/flight.bin:0220B2","zh_CN":"%1小心接近的建筑物和阵风！","source_text_sha256":"f79ea66aedea13d712d8abd85d2dfbb666b65d5aaacbe9eb8568f81ac8d67b88"}
+{"id":"bin/flight.bin:0220D6","zh_CN":"%1狂风大作","source_text_sha256":"212f8abc4ed7b12629856b793dd18a77dfd0313197cd65a71b1b5e637ac1f687"}
+{"id":"bin/flight.bin:0220EB","zh_CN":"如果你失去了朋友%1，请使用雷达！","source_text_sha256":"7ad2814ea40bad2a2314632b43c0744315e4d780a2024117d890dab55d8ce756"}
+{"id":"bin/flight.bin:02210F","zh_CN":"仪器坏了，雷%1达也很难看见。","source_text_sha256":"2d62cad129f085da55cb12e9478a092bf150f84a58c4b4d4785011a11e776aeb"}
+{"id":"bin/flight.bin:022136","zh_CN":"撞上%1大岩石%0就会被撞飞！","source_text_sha256":"cfe5f3eca8f4b575c9b8a6b5e9d45170b6d1844b2632d388ae3e556119907c8e","review":{"method":"exact terminology/UI override","previous_target_sha256":"7220ce32a0e59ee5fa7d959beae3a6dca32103fc92828c7853d5862dae542289"}}
+{"id":"bin/flight.bin:02215E","zh_CN":"速度","source_text_sha256":"0e14d148b46b8c0bcb53c2a69c9cc859763761443121eb2c2dd35bdb814d75b9"}
+{"id":"bin/flight.bin:022163","zh_CN":"慢速","source_text_sha256":"0949910fb8c4e07f29bab9f28444567866b38a3ca1125a1950c08a650fea5c12"}
+{"id":"bin/flight.bin:022168","zh_CN":"中速","source_text_sha256":"ceeff94d1f435951bf68f3588dfc9e6e721629b8b1fbb3f3862c8896a4dbd2aa"}
+{"id":"bin/flight.bin:02216D","zh_CN":"高速","source_text_sha256":"3991ac9f053a1991e3b0d3741c2d1b9dd2f90bc65058dfdb3e53c0562d671010"}
+{"id":"bin/flight.bin:022172","zh_CN":"超快","source_text_sha256":"3e9e21fc6951836274d9575a8ff756dfe509baad88c0bb82d4defe08632b9ffd"}
+{"id":"bin/flight.bin:022179","zh_CN":"@02按钮","source_text_sha256":"2fb9bee871fa5264b5f925892279ca95efe84e6e46d9f4d6101d9936230ca3b7"}
+{"id":"bin/flight.bin:022183","zh_CN":"@01按钮","source_text_sha256":"6711d0849ab6ba9aa6cdaba0874a8529db1371836383d62c65a42c491ff217d9"}
+{"id":"bin/flight.bin:02218D","zh_CN":"方向键","source_text_sha256":"1651ef947ec311aeded19d4dd8230b4f4a003076773e589cac2f621c99ff7e30"}
+{"id":"bin/flight.bin:022196","zh_CN":"移动","source_text_sha256":"de2596ff85520b36a78110aba0914c332db890cdc3bbd27e730b2b2c03408536"}
+{"id":"bin/flight.bin:02219B","zh_CN":"加速","source_text_sha256":"1a96b6acadc2d0f9f26e90ad15307ac778853d82ba8ea40d733f19b746c65df9","review":{"method":"exact terminology/UI override","previous_target_sha256":"bb6cf439858c8b02b0423ea305e45e2c8c5cdbc5f4f1f585156b5f2f8791a36f"}}
+{"id":"bin/flight.bin:0221A0","zh_CN":"减速","source_text_sha256":"fa55786f6ebf4052d603dfe1b4dfaf3c898c783dda406f613246961c451dc26c"}
+{"id":"bin/flight.bin:0221A5","zh_CN":"普通操作","source_text_sha256":"b49ad9a839f77f92b152f76866e3966bea50aae4e58aac19f9bde5f07a5ba88b","review":{"method":"exact terminology/UI override","previous_target_sha256":"07904b4d1abba34f04907011ac68ca355cfd71a5ad72b69094c967d64a089326"}}
+{"id":"bin/flight.bin:0221AE","zh_CN":"上下反转操作","source_text_sha256":"9441c5af442fc289e266f586d9500b7b7149f6a6ba2e69a740591d6979c32cf3","review":{"method":"exact terminology/UI override","previous_target_sha256":"22262c424c485881d8955c21c0c27455ddffe90b413369b3cb38d7d00deb3350"}}
+{"id":"bin/flight.bin:0221C3","zh_CN":"进行%1上升%0","source_text_sha256":"44bd58eb84eb2c4a3bdcb28e0e00a2c8631db27a5b5c4d124bbee588212ec51f","review":{"method":"exact terminology/UI override","previous_target_sha256":"e394ea6d5494156863fbe00257bbd01e94d66b9dda96a43e8ac09a4b708242db"}}
+{"id":"bin/flight.bin:0221D2","zh_CN":"进行%2下降%0","source_text_sha256":"e0ccbf8011b859d65aee442b0c3a72cab50278f19f42b14baa71bf3b0e5a0a49","review":{"method":"exact terminology/UI override","previous_target_sha256":"d9707f8d1d1a0bfdcab1cd4568b0030b32e8fa4f39ea7156a814939209d19821"}}
+{"id":"bin/flight.bin:0221E1","zh_CN":"因为没有新的盖塔机器人","source_text_sha256":"dd763aa4d408164f1ac70068a0fd3811f4f2e40632ca6a4eccb09695d7ff1247"}
+{"id":"bin/flight.bin:0221FE","zh_CN":"无法参加测试","source_text_sha256":"e73b4a9fd80e7e626941e559f00e55bcef739819179563893563f353d222460a","review":{"method":"exact terminology/UI override","previous_target_sha256":"fd91cd335cdc17f598d45d0e4b00af01e3a1a9e7118a45fbbe888e3300fb2d52"}}
+{"id":"bin/flight.bin:022213","zh_CN":"现在就通过联合练习来锻炼你的手臂吧！","source_text_sha256":"b442c6fc10958284b9c14f0023667d2ccce0563320aaa17111b397beeb937cc8"}
+{"id":"bin/flight.bin:02223A","zh_CN":"要退出吗？","source_text_sha256":"5c73938bc18944b833cd3e79b50928510b64a1fe9d2eaf9dc44bc70663b48d6d","review":{"method":"exact terminology/UI override","previous_target_sha256":"c8fe4bb40e2cfc14ff0522a1d08754284f812a1d1bcc2313a7e2a56d10668e9c"}}
+{"id":"bin/flight.bin:022247","zh_CN":"：退出","source_text_sha256":"d4293cc470427f8362d1b3e3d19bc3f6381196c917a79c02e58e5a3cddb89735","review":{"method":"exact terminology/UI override","previous_target_sha256":"2c2a01318e0a2bbe2f84f7d2d085839b8e1670c906faebfa72607566e4a01c24"}}
+{"id":"bin/flight.bin:022250","zh_CN":"：返回","source_text_sha256":"500ef082e50b6d03fe23c1e8f4074ad87d96b74decef488ab09e32ec6d53019a","review":{"method":"exact terminology/UI override","previous_target_sha256":"2a6b185fe10e1a82e95155633885db3d8c9d310b6c71baa4ae5ecaff32d881e5"}}
+{"id":"bin/game.bin:000048","zh_CN":"平原","source_text_sha256":"543401b7ea820641ec80b4196c0ba1d70151ecac5f2ba0af0865187f537a114d"}
+{"id":"bin/game.bin:00004D","zh_CN":"森","source_text_sha256":"5f8e490558897efa493cfbd5d78dfa22de2d997068ef7ab64282edef82d67351","review":{"method":"exact terminology/UI override","previous_target_sha256":"3bfbf21e2f002bc2dcafb5e9df5fcbb1f16ea95587716d7794fa0e5c8547bbc8"}}
+{"id":"bin/game.bin:000052","zh_CN":"海","source_text_sha256":"0ac6d5192ec21d34f7d6e0b0246b06d5cbaa2600cfcbd48f2363d1e3d22e76a2"}
+{"id":"bin/game.bin:000057","zh_CN":"山","source_text_sha256":"4862540a299762b3f090257ebb6976ec1d05ca460de0a1a195ee8569061ad6c0"}
+{"id":"bin/game.bin:00005C","zh_CN":"冰面","source_text_sha256":"0eebe5c4396c1886eb64ae207d7c0420118528db2acdd101628b637b5e44f283","review":{"method":"exact terminology/UI override","previous_target_sha256":"2bd4c053ded1e6d2b2328a2c19185953dd057c464caad5db11dfde287ac05368"}}
+{"id":"bin/game.bin:000061","zh_CN":"城市","source_text_sha256":"d7eef7209e798c5878be3dd34695368fe31f9cc0f644ad9bda4525150a0a449c"}
+{"id":"bin/game.bin:000066","zh_CN":"路","source_text_sha256":"a44c7ba211320a43e426a37960fda386d1034270704cf38a6b1bced7feb7388a"}
+{"id":"bin/game.bin:00006B","zh_CN":"宇宙","source_text_sha256":"eda8157c4c7025af29b9fc0dcf1cde1e4ec3263125eaa4d298e762d127fbb5b9"}
+{"id":"bin/game.bin:000070","zh_CN":"湿地","source_text_sha256":"c06063869722a3de0bd3f5f5b4761ccb9f202e4247c683977b059416eeb62e71"}
+{"id":"bin/game.bin:0002E4","zh_CN":"按键设置","source_text_sha256":"f1d0d0a984ad6ff8d30dbb5cb0ce0e257d283485b81577b6eb64ab12533f4c45"}
+{"id":"bin/game.bin:0002F0","zh_CN":"网格／开启","source_text_sha256":"0b36f36daebda52ff193a65f79b26a9f211303591bcee3a797fb87330f8251b3","review":{"method":"exact terminology/UI override","previous_target_sha256":"8b234a9eadeac2b5cd22c22b4b24b7e6db309e20ef9e99d5c564497b18eabc7d"}}
+{"id":"bin/game.bin:000300","zh_CN":"网格／关闭","source_text_sha256":"6b7a4aa44954b0f2a7059600bd4e4aa5d305e32d53765623c5d829b569fe02ab","review":{"method":"exact terminology/UI override","previous_target_sha256":"2c7d4222d64b46bad997bc1b5614a784434ffe1f77725e0b04ec3d830fe6e45c"}}
+{"id":"bin/game.bin:000314","zh_CN":"振动/开","source_text_sha256":"d2a6418ea631d4908627732da028f875ebe9ffdfd427614f400ffa3ea6426c96"}
+{"id":"bin/game.bin:00032C","zh_CN":"振动/关闭","source_text_sha256":"7477c9d4ac3b9e76a3b8b7e0ae3fc000ebe43b5684e505d6c3a19da5123b4478"}
+{"id":"bin/game.bin:000348","zh_CN":"音效／立体声","source_text_sha256":"a738f3004d138f8652bbc38606560c0f66149ae0f3fe71cb399e24b6a1041248","review":{"method":"exact terminology/UI override","previous_target_sha256":"155e68ef69f0ec60b110be338bc31af769c29bd7b71193d1a7be7826e6b9dbec"}}
+{"id":"bin/game.bin:00035C","zh_CN":"音效／单声道","source_text_sha256":"1ef80e843b18f3def7b377171bbf8205f98348b4d8ac34da2f175c0ab88ec5a0","review":{"method":"exact terminology/UI override","previous_target_sha256":"27d6332690eeed18e8931951f01878e58390cba531e472663763855ee174d0f9"}}
+{"id":"bin/game.bin:000370","zh_CN":"敌军搜索（右）","source_text_sha256":"dfb23401b0bd54d28b1597554760b0246be9cbdceb83d7726644fdd1bbb67da9","review":{"method":"exact terminology/UI override","previous_target_sha256":"ebe9f7bf95ca263e35a6cbdc52fbb18c03211b05d154b607df0121db10418f3b"}}
+{"id":"bin/game.bin:000380","zh_CN":"敌军搜索（左）","source_text_sha256":"bec33af815040b2e1dd81cb59282f4dfdf198f800b3b014fa2b71f5214bc4065","review":{"method":"exact terminology/UI override","previous_target_sha256":"c0e650d6e8cfd721cd60e547121ab6521a4b3def33fc34006828389feaf27c2f"}}
+{"id":"bin/game.bin:000390","zh_CN":"我军搜索（右）","source_text_sha256":"c0e18f51d00c716b59e713b4a226045e7c5699d3cb749b96496206beb2be5c0d","review":{"method":"exact terminology/UI override","previous_target_sha256":"d137292c231134e2633c3d570bd90b0837edb6808ac3f2d80ac27554a155cd4c"}}
+{"id":"bin/game.bin:0003A0","zh_CN":"我军搜索（左）","source_text_sha256":"25e038f2f65a940a6328f7a3e6ea9ea2db36c18cb1efac64af5a8ffccfbac807","review":{"method":"exact terminology/UI override","previous_target_sha256":"36d76a3b023eb74c9b0000ce88803d8f644b04f5493e1c125c8cafbfdfc652e5"}}
+{"id":"bin/game.bin:0003B0","zh_CN":"部队表","source_text_sha256":"8061c8220f9e8f49b96ff8d5eb6a9427b9b80c096fdf828746d56aa89fe4fb03","review":{"method":"exact terminology/UI override","previous_target_sha256":"657894926b0738e7381ccaebcfbf6a75700e3375e85dd7e11a78d9e85ec11f06"}}
+{"id":"bin/game.bin:0003B8","zh_CN":"全局地图","source_text_sha256":"9ef870a9fecf7b6f0abc50909ca8a7a585d6f46ed0f41c10137ed73c24667c37","review":{"method":"exact terminology/UI override","previous_target_sha256":"d2a2bb2bcf1750192c73d7cb64a291c13433f21a88ded6112b06ffb1df2e8a29"}}
+{"id":"bin/game.bin:0003C4","zh_CN":"取消","source_text_sha256":"bca84ea5c65fee0eccd1f23a972b95cce908f83977c65b4e8b32ca72a772a9a5"}
+{"id":"bin/game.bin:0003D0","zh_CN":"确定","source_text_sha256":"df3535a64718d11cf8080216b26b76d9139828438c59a75569744ab2d399a7a8","review":{"method":"exact terminology/UI override","previous_target_sha256":"f4aafaba3be7ad874ed2fc780a54b0d81c598a4b9546918dbec459f629e8c91e"}}
+{"id":"bin/game.bin:0003D8","zh_CN":"恢复默认","source_text_sha256":"4e5a998d621b593b373800787decd7fb62a5c05a8651875f58bc7e665d198618","review":{"method":"exact terminology/UI override","previous_target_sha256":"6e77f5821adaa700a09d6ea67c2c82d8918826cc0d5dd09d1172c793df3d6bc2"}}
+{"id":"bin/game.bin:0003E4","zh_CN":"返回","source_text_sha256":"8fc7f899161b2076651a211a123ccbad0f7ad032c023f59aa3ffd06983e887b8"}
+{"id":"bin/game.bin:000456","zh_CN":"SF状态","source_text_sha256":"4db68a2e91c92bbb253633009b8ae1229186039d756f95d020efb33e0167fc8c"}
+{"id":"bin/game.bin:000460","zh_CN":"待机","source_text_sha256":"5abb716b4f16a5e455779fff872a6e04c401795bd930c401d613db1057ad8f24","review":{"method":"exact terminology/UI override","previous_target_sha256":"d93373f81363e3cc82f2350f4d7412b60da4c9c43597fddf7f84b8398fced311"}}
+{"id":"bin/game.bin:000468","zh_CN":"出击","source_text_sha256":"f1a748ad1f073ff23d7a320e07d4921d760526ddcc3432457998a5199e398ee3","review":{"method":"exact terminology/UI override","previous_target_sha256":"d2bb025a2e51c410b704733316c843087aae60f3b4a336c9040f28d637a47b3a"}}
+{"id":"bin/game.bin:000470","zh_CN":"搭载","source_text_sha256":"d94b42bdb9a7c2f659e9dfed965300378edbb0f36297659dae8be1fe6513a2ef","review":{"method":"exact terminology/UI override","previous_target_sha256":"932e4903546465d56f6c4f15a757a7cb283bbe81654be19383e7493947779a1c"}}
+{"id":"bin/game.bin:000478","zh_CN":"侦察","source_text_sha256":"b2d66e32ff129d15bb978d5a6294cccd1dca4fd50258d5c920f1a2a3136b9dd0"}
+{"id":"bin/game.bin:000480","zh_CN":"交换","source_text_sha256":"c0be6499c92ec64e88ccf3a935d5078bf17e1071a26a905dfc6542b51912464f"}
+{"id":"bin/game.bin:000488","zh_CN":"修复","source_text_sha256":"a5a9ae1cd8db49231236a65c2c4507cc3fe3468ac774fc0a687046de9d3bf195"}
+{"id":"bin/game.bin:000490","zh_CN":"维修","source_text_sha256":"a0b0db2e55b8efc7299f6050b004b463a6cd8d7233ccd692ba7609bc75922232"}
+{"id":"bin/game.bin:000498","zh_CN":"补给","source_text_sha256":"8d83c4ab5baddd5596e73e41bc2e5c0db0867c3cb7b758bf7572f02ed374d704","review":{"method":"exact terminology/UI override","previous_target_sha256":"f99f6de8514ea249a679ba27ff048ce9c815e9ea94880e9ff6b447f54276db92"}}
+{"id":"bin/game.bin:0004A0","zh_CN":"地下","source_text_sha256":"03876ed80d3e816c424cfc162421aae78e97de1b19382903c10f8d298b505a94"}
+{"id":"bin/game.bin:0004A8","zh_CN":"地上","source_text_sha256":"f930fbf37f5e6ecebb890d575e16a575fcce3273cb9c12699dcd413d74814ea3"}
+{"id":"bin/game.bin:0004B0","zh_CN":"分离","source_text_sha256":"e1019eca440eec90c7244b3eddff8de91fb407524c8ba3790835e6d3fa952a5a"}
+{"id":"bin/game.bin:0004B8","zh_CN":"变形","source_text_sha256":"eebcc5869056961bbaf38c451c79a57e44910ab86aba288c85aed213806908e9","review":{"method":"exact terminology/UI override","previous_target_sha256":"54da44760a1cf1c05120559eaf907ac5ebf4e39a8ade88d02464940fd24fa61d"}}
+{"id":"bin/game.bin:0004C0","zh_CN":"合体","source_text_sha256":"d1d214f5bfb3591967de680ebe3b1af704c1b710e6af6bb364fbbc47df46ed0b","review":{"method":"exact terminology/UI override","previous_target_sha256":"07d9b4c890e1226f70736f6eac73f77ec644d705f09c2ff67c0cf0971df70732"}}
+{"id":"bin/game.bin:0004C8","zh_CN":"攻击","source_text_sha256":"c62991e857bf6db8df7b84e105550cd4d03590f0238997e583bcd078388afb32"}
+{"id":"bin/game.bin:0004D0","zh_CN":"移动","source_text_sha256":"de2596ff85520b36a78110aba0914c332db890cdc3bbd27e730b2b2c03408536"}
+{"id":"bin/game.bin:0004D8","zh_CN":"调试","source_text_sha256":"026d3062fb01fcf88f656e72d0cc271da80e537591dca463650196b779f9a60c"}
+{"id":"bin/game.bin:0004E4","zh_CN":"回合结束","source_text_sha256":"ba1cc3ac2e75901bfef1ebc58e1619cf97926117c75c89820cf127b8bf437f62"}
+{"id":"bin/game.bin:0004F0","zh_CN":"游戏设置","source_text_sha256":"e3d5096cee38417d15de8684e22712c0df9fc7b30137931f3a535efb66539293"}
+{"id":"bin/game.bin:0004FC","zh_CN":"读取","source_text_sha256":"763e7f2b1a26c5fa159e887ef2fa9052813fd441e75dece00a033a3c3e791851","review":{"method":"exact terminology/UI override","previous_target_sha256":"8f8f907784631b04901afe29a72bdde5f86d2159d0b45f8219e4aed5f7a16409"}}
+{"id":"bin/game.bin:000504","zh_CN":"存档","source_text_sha256":"250717a1ada55d57020bd278785d09f9f399c9329c4caf6b82f69ea07fec64e8","review":{"method":"exact terminology/UI override","previous_target_sha256":"adde7ca654535fbae49a9caf5542a4ea14aa14f0101b7b6d44f462e4796a8533"}}
+{"id":"bin/game.bin:00050C","zh_CN":"过关条件","source_text_sha256":"db711e23b83a50e0f29b08fccd61714c72cc3fd3e1846ae35b1a330e870ec04d","review":{"method":"exact terminology/UI override","previous_target_sha256":"d6286f32fe777667552a9c4f21acc35d42e317616dd06ba421de6d3d40f39951"}}
+{"id":"bin/game.bin:000518","zh_CN":"全局地图","source_text_sha256":"9ef870a9fecf7b6f0abc50909ca8a7a585d6f46ed0f41c10137ed73c24667c37","review":{"method":"exact terminology/UI override","previous_target_sha256":"d2a2bb2bcf1750192c73d7cb64a291c13433f21a88ded6112b06ffb1df2e8a29"}}
+{"id":"bin/game.bin:000524","zh_CN":"部队表","source_text_sha256":"8061c8220f9e8f49b96ff8d5eb6a9427b9b80c096fdf828746d56aa89fe4fb03","review":{"method":"exact terminology/UI override","previous_target_sha256":"657894926b0738e7381ccaebcfbf6a75700e3375e85dd7e11a78d9e85ec11f06"}}
+{"id":"bin/game.bin:00052C","zh_CN":"战斗：关闭","source_text_sha256":"0044973b15171e87894fd187a8c28abed844900344b4dfaa0a40e4e53e6dbc95"}
+{"id":"bin/game.bin:00053C","zh_CN":"战斗：开启","source_text_sha256":"00bc661b2e685d5a8af5396a982e489f621e002c61df316f9c037d7d797663d7"}
+{"id":"bin/game.bin:000564","zh_CN":"1P无敌：ON","source_text_sha256":"b022ac2788cbd6c64bf8ad8bc01c24a4e7d0669b6eb6e10d6886065897c89cd8"}
+{"id":"bin/game.bin:000574","zh_CN":"1P无敌：OFF","source_text_sha256":"50474d9ef459350d9709fdc1c2ab4e84fe5a63cbd2fa7e8c57d80e6fc8f5e9f0"}
+{"id":"bin/game.bin:000588","zh_CN":"AI无敌：开启","source_text_sha256":"9a3fc8bd863ebfc740d84cd4ad73b9928d115e7a30754cd7f8e6ad0e695ca6ac"}
+{"id":"bin/game.bin:000598","zh_CN":"AI无敌：关闭","source_text_sha256":"fc5c7bfc047adc39ccf9f5e18208ac606e719c08a7c0da79791c6a8dcda91e3b"}
+{"id":"bin/game.bin:0005AC","zh_CN":"模型预览","source_text_sha256":"c88df01c853b96779db4048f06a46c66acfa671f83bca5a6f88f15471d483fa5"}
+{"id":"bin/game.bin:0005C0","zh_CN":"参数重新加载","source_text_sha256":"a0a96464ff027195cc87ddb30bac8b02e8bc369ebd52c0ba308a2e399660afbe"}
+{"id":"bin/game.bin:0005D4","zh_CN":"调头","source_text_sha256":"0107438806f576b23d485fb48f029db55d647121143cf2043f45de3d75362fe7"}
+{"id":"bin/game.bin:0005E0","zh_CN":"关卡完成","source_text_sha256":"a5b172eae3d3bd5db4530c84b0b2db87ea5474b2149431437a28484404ca5a6c","review":{"method":"exact terminology/UI override","previous_target_sha256":"90b8fd9e8d25699695b5f2f7116c6f77a02836726df98765ebbfe680d1217f7d"}}
+{"id":"bin/game.bin:000678","zh_CN":"胜利条件","source_text_sha256":"d82119327a7b1e00d9e47ede90401745000a08bcd42c5908bfa1cc07389781c5"}
+{"id":"bin/game.bin:000684","zh_CN":"失败条件","source_text_sha256":"9ade887b7469e24329635dc92542662f012f67130fceb4eb170f949aac9b2587"}
+{"id":"bin/game.bin:000850","zh_CN":"玩家回合","source_text_sha256":"b4cf7237a8faf1bc4f324ab22a0ad67161fc3239e5713fd76bde832008201d10"}
+{"id":"bin/game.bin:000864","zh_CN":"敌人回合","source_text_sha256":"edaa4192acb441b5ef3af5838d7863fd706a30fe8ca83dffa92c66d237cf8215"}
+{"id":"bin/game.bin:000870","zh_CN":"暴走回合","source_text_sha256":"7bfb12733977b1d978feea307130dd1f96eafd6255b0d7fdfff356983c4ec86d","review":{"method":"exact terminology/UI override","previous_target_sha256":"e17c7641315a7cd229b4e8b82a00fa7a6f2b97380e39b84b9d11c22656e08136"}}
+{"id":"bin/game.bin:00097C","zh_CN":"行动选择","source_text_sha256":"b706e21104983dd6f28b6ed46d82aec0f5514e0940970dc51faf896e201f84d6","review":{"method":"exact terminology/UI override","previous_target_sha256":"a96a0179e76f0f7f52fbeb544b8be1e978eead47c16487947ad93c04b2d94e6d"}}
+{"id":"bin/game.bin:000988","zh_CN":"要移动到哪里？","source_text_sha256":"e440089d8423a9c64e5820739d02d2495a130d611af5a4d52c0308c7045ad5fe","review":{"method":"exact terminology/UI override","previous_target_sha256":"3fc6861c7163f5499b7f379f945e90e4c0f150c937a999a809e8714b2ee37f1d"}}
+{"id":"bin/game.bin:00099C","zh_CN":"选择修理机体","source_text_sha256":"0ac59f9cef060d9f9e53e3efb29701b85dfd3f560d27ed89d7b027b3b1d937b1","review":{"method":"exact terminology/UI override","previous_target_sha256":"19aa33d18e4d46be3ac1c85e37405e271c6bce4ea844b12b1b12e503df39f5c7"}}
+{"id":"bin/game.bin:0009B0","zh_CN":"选择修补机体","source_text_sha256":"12223a9a91eb07524192eab74ac3f53294636544c27bd9a49c8596ddd68450fb","review":{"method":"exact terminology/UI override","previous_target_sha256":"19aa33d18e4d46be3ac1c85e37405e271c6bce4ea844b12b1b12e503df39f5c7"}}
+{"id":"bin/game.bin:0009C4","zh_CN":"选择交换位置机体","source_text_sha256":"24ce0c499b86a5ac53290de0c9bfe8bdd9f2fbfb13bbb8c6f5b47d87cf583066","review":{"method":"exact terminology/UI override","previous_target_sha256":"753ab8d798bf33352b7bb4cd6345175030aee7303c3ccd64abdfa020601239b4"}}
+{"id":"bin/game.bin:0009DC","zh_CN":"选择补给机体","source_text_sha256":"a0a26ec23ae3b3c211bc4174b39639017d2caa5577cda978eda5223b5730db6d","review":{"method":"exact terminology/UI override","previous_target_sha256":"fd178f37b571cec2ddf7012e51d84dc6bf9e9680d4ff6e2e880d1efcc5fb14ad"}}
+{"id":"bin/game.bin:0009F0","zh_CN":"选择搭载机体","source_text_sha256":"04668d00570558782022c6f4e7940dc121addbbf617043fa66dbb77f82fbb9e3","review":{"method":"exact terminology/UI override","previous_target_sha256":"844114d3b16f7f98df9543e2c02890a2d231d02d68c471e8fb5ea411ef49c27e"}}
+{"id":"bin/game.bin:000A04","zh_CN":"要调查哪个敌人？","source_text_sha256":"c2d08165372db7224ad2049a551b8649aeae1c66df5621b8493e901e7efbae51","review":{"method":"exact terminology/UI override","previous_target_sha256":"0dea763b8c37dd1dd49ffa7ad6e4f3644a52289e3e4c780f68ce3276442d3be5"}}
+{"id":"bin/game.bin:000A18","zh_CN":"要瞄准哪里？","source_text_sha256":"28b2d7ca1ee082a0fd5397a6974e56742627c609a0b0f1e40f9bdb0cef6c16f4","review":{"method":"exact terminology/UI override","previous_target_sha256":"ec1ac8f0ae1cb6282b650754065d229aaf6f0d4aad12c7291f8dcff6948f1912"}}
+{"id":"bin/game.bin:000AD4","zh_CN":"宇","source_text_sha256":"aab44818ef40f39a3b5eaa364dec50c0ca41b8be88e9719f6f8fe156bf858d4c","review":{"method":"exact terminology/UI override","previous_target_sha256":"a0c7716669b5ded0d8051abfc232b828d489f7d889b2928eefcf43f0b8f495d6"}}
+{"id":"bin/game.bin:000AD8","zh_CN":"海","source_text_sha256":"0ac6d5192ec21d34f7d6e0b0246b06d5cbaa2600cfcbd48f2363d1e3d22e76a2"}
+{"id":"bin/game.bin:000ADC","zh_CN":"陆","source_text_sha256":"99c46cc52ad010b0c01be9b085f4ae0b110881783f3da50b9d108d7f2d0cdae5","review":{"method":"exact terminology/UI override","previous_target_sha256":"c214ddf69f944931ab199fe89c767ae9601fc8ad49eefb109f6b27228872f391"}}
+{"id":"bin/game.bin:000AE0","zh_CN":"空","source_text_sha256":"2f8267a89ad55e6b6ccc4831c09edd812a53e8086c49c33d7eb1ae014dd1ea59","review":{"method":"exact terminology/UI override","previous_target_sha256":"6c8c7a77cdfd4fd3e8d872de821ed94b78d8a967978cb3b460f06602c6e5ee67"}}
+{"id":"bin/game.bin:000B08","zh_CN":"地形：","source_text_sha256":"b784c9b6d5e63a37d03aa7686891a8ee9bca305755fa88aab975c14c06464134"}
+{"id":"bin/game.bin:000B10","zh_CN":"海修正：","source_text_sha256":"22d33f675b9f66fcd53cf55151293b77ed50babc2df01399abca3ffc531aac92","review":{"method":"exact terminology/UI override","previous_target_sha256":"a03a6bfeacd78af483e766337ebfeb304c0fd7b83c4ea22d9e59f75002b78750"}}
+{"id":"bin/game.bin:000B20","zh_CN":"消耗","source_text_sha256":"cbf762267cfb951ea834686812799b2ef3400303b0dbbe2e6afe794d5368338f"}
+{"id":"bin/game.bin:000B30","zh_CN":"回避","source_text_sha256":"3e8d0ff0d13deb3acdd01554d924e3f1b19d8f4f7cf5a5a122d6856fae18aef8"}
+{"id":"bin/game.bin:000B38","zh_CN":"防御","source_text_sha256":"75ba7a572706c98eaf57aab152664e4b3f6d6bbc0430a2d469155aa95d463466"}
+{"id":"bin/game.bin:000B40","zh_CN":"反击","source_text_sha256":"e1d3a0438c5ce0d79a9ebed07f5a2401d45089079ef073aeb43acfca10ddd1b8"}
+{"id":"bin/game.bin:000B9C","zh_CN":"月面","source_text_sha256":"37f84c855e7ecc2831d5665e923bf6bf888b9593299679d4925f10058b24fac4","review":{"method":"exact terminology/UI override","previous_target_sha256":"53f5d424868b930bca10dcf78fa6d9bc07380611355aedbd9d3181315e3ac28c"}}
+{"id":"bin/game.bin:000BA4","zh_CN":"沼泽","source_text_sha256":"d5dd4f4387519da905e94d30a682b53807afdc66ecfce9b531d87c9325928962"}
+{"id":"bin/game.bin:000BAC","zh_CN":"桥","source_text_sha256":"c2995d6958268e93f5a9c7209716568a49634485a970edb4659deda70f014f5a"}
+{"id":"bin/game.bin:000BB0","zh_CN":"基地","source_text_sha256":"78254108f2206ae1009f7e1c570c1e404fda29df977484ddb50e4164d493fd4a","review":{"method":"exact terminology/UI override","previous_target_sha256":"a70a4587c393976ac0de557c4d4ab838d52188115881ab18cdaf9952f43877ec"}}
+{"id":"bin/game.bin:000BB8","zh_CN":"炮台","source_text_sha256":"549acb75d65ffeda2580eda34c3f1db8c2b04b0315cb02ad62818a68b7a0d3e8","review":{"method":"exact terminology/UI override","previous_target_sha256":"03e108a226bd35564348a3193c225dff57377083a5d5765be716f01f425eddb0"}}
+{"id":"bin/game.bin:000BC0","zh_CN":"工厂","source_text_sha256":"6afcfe4a8f9a3f1a41aa1c9f1e1569b799d5f55940b21d7207de7e9eb6d530cc"}
+{"id":"bin/game.bin:000BC8","zh_CN":"研究所","source_text_sha256":"72e2d8eb017eb6009eb7abfebe0b75374309a141fa40672f771eb6183a0fe082"}
+{"id":"bin/game.bin:000BD0","zh_CN":"亚空间","source_text_sha256":"5eee4c3caada6f0a38b5f631d85da05ddf039938c458a91a8fb062a71f5d1cbc","review":{"method":"exact terminology/UI override","previous_target_sha256":"bd1c33dc7f9d9ee1be622efc2d72cd0c5835ecae7a17a2f2284e022f8d975bfd"}}
+{"id":"bin/game.bin:000BD8","zh_CN":"盖拉","source_text_sha256":"02c4481833eb4e7b007053a8eac47288bfc917a3aa09fd6f0b506b4a6968f9c5"}
+{"id":"bin/game.bin:000BE0","zh_CN":"校舍","source_text_sha256":"2ae29839a92625ef592029f68c3419b98f63e6f81e117208bb694ef6c061bf06"}
+{"id":"bin/game.bin:000BE8","zh_CN":"发电厂","source_text_sha256":"798cf2208f44ab975bbd8e134389778edd6e4782258a521887101e4c1087f2a5"}
+{"id":"bin/game.bin:000BF0","zh_CN":"平流层","source_text_sha256":"c164f5ecd8032b480644ca3836e52623abf3e75d26f324366a115bbd1f115fce"}
+{"id":"bin/game.bin:000CC0","zh_CN":"回合","source_text_sha256":"aee7e141d60573ebeb56518432a47daa789a34d65ae04e8c4c9bf263ff31b5f7","review":{"method":"exact terminology/UI override","previous_target_sha256":"0cf81e4c2481d01b51ec0218e83e0053c4955273bfa804f6bad60831d0d6d436"}}
+{"id":"bin/game.bin:00183C","zh_CN":"回避","source_text_sha256":"3e8d0ff0d13deb3acdd01554d924e3f1b19d8f4f7cf5a5a122d6856fae18aef8"}
+{"id":"bin/game.bin:001844","zh_CN":"精度修正","source_text_sha256":"c2cca9224ca4362335cc65fb1a75c498ff55b99dcc48a4326a347174028d3750"}
+{"id":"bin/game.bin:001850","zh_CN":"移动量","source_text_sha256":"de1f91f231d1d1342e1b610d081c87a33a7caafe8009da594c05f979be112663"}
+{"id":"bin/game.bin:001858","zh_CN":"防御","source_text_sha256":"75ba7a572706c98eaf57aab152664e4b3f6d6bbc0430a2d469155aa95d463466"}
+{"id":"bin/game.bin:001860","zh_CN":"体力","source_text_sha256":"d6d2aa99fd698da376bfe5da1e585e816e6b042d1b03afa35d1458322f31f85d"}
+{"id":"bin/game.bin:001868","zh_CN":"盖塔射线","source_text_sha256":"181cb41ce10adf8cbca5ad81c0c70b0da0d56f514e8906b327bb60bb0e3d9243"}
+{"id":"bin/game.bin:001874","zh_CN":"能量","source_text_sha256":"a6ab4547fdaedad1f911a4f07e861f3185fd716902a06a072f88038cb9cf2580","review":{"method":"exact terminology/UI override","previous_target_sha256":"59dde6608d1a47174c65a6f3f0b8ef23f3a8a56a692f42ec9259b17e79ada898"}}
+{"id":"bin/game.bin:001880","zh_CN":"操纵","source_text_sha256":"8cec9b971315c799c134397a2262f69aca02ba20bf2293b68d4b7bd9c85040a9","review":{"method":"exact terminology/UI override","previous_target_sha256":"4c2e2bb6d4d0284a92c4f1f0f7e2fc93b4aee30cb684264f616b36a6468e89d1"}}
+{"id":"bin/game.bin:001888","zh_CN":"反应","source_text_sha256":"bd147afb759f4175f7912c4614b8b6db2d9fa3b8bc126b279068f081886cd30b"}
+{"id":"bin/game.bin:001890","zh_CN":"射击","source_text_sha256":"d9ee3e0a5c2973fcc6044b705db3772bc4fe69ea0cb4c276a5273f821e9eed31"}
+{"id":"bin/game.bin:001898","zh_CN":"格斗","source_text_sha256":"afd52e9e2a90cac1061d08876c0fbcb34727a2afa5ea51b7cdac8164572ce3ef","review":{"method":"exact terminology/UI override","previous_target_sha256":"57cd33d54f8bba9adbceaa2fa5389c668fb1e15203fd647e71b54f3bec023636"}}
+{"id":"bin/game.bin:0018DC","zh_CN":"耐久力","source_text_sha256":"9ac6dfab9498341d435fda6503c71d1ec0a000a92262ee9526a2c4342e0c09d5","review":{"method":"exact terminology/UI override","previous_target_sha256":"78190ea40d3a07ecaf491464c04e7879349f5a6462f8217c68f5e8307394896c"}}
+{"id":"bin/game.bin:0018EA","zh_CN":"装甲","source_text_sha256":"a7efe890de54d0ba7dcb191de80d430e5d92b523634b1a86b162db7b65299d33","review":{"method":"exact terminology/UI override","previous_target_sha256":"9172f60d7869161e06fc257826338507a54ef59e9d6fa000bd6cece6a9687169"}}
+{"id":"bin/game.bin:0018F1","zh_CN":"机动性","source_text_sha256":"fe565c1072ea16606d3e4bd1b12a45c0ce48fba7ca7d459b4bd52925ab29f259","review":{"method":"exact terminology/UI override","previous_target_sha256":"f357adb2a2537d5bb3eae2791a3b479d86443a71502260be735a87cab4b60f64"}}
+{"id":"bin/game.bin:001900","zh_CN":"空・ ・","source_text_sha256":"6d5bfb521ebf58d6b9e7361b7356509fdc876505091391be6ea75f6b1d18e337","review":{"method":"exact terminology/UI override","previous_target_sha256":"2837902d5018f5b57187f7ab1fe1cfd4b0c0b86661ab236f66fc1ee80ff07879"}}
+{"id":"bin/game.bin:00190C","zh_CN":"空・陆・","source_text_sha256":"7f89aec48ee00e908806c76d98df46af1a4044db35fcac06288ca5b2f1923085","review":{"method":"exact terminology/UI override","previous_target_sha256":"6d0e680f557b6e1e2b9ff7985a7a197d66989b5fb9cc1b1f849e034074979e23"}}
+{"id":"bin/game.bin:001918","zh_CN":" ・陆・海","source_text_sha256":"d7ec7c63509e154b22a15c76611d0806d905b128be055120bb15628a680bf417","review":{"method":"exact terminology/UI override","previous_target_sha256":"53dc23795349cdf88b47a861ce2af5756cb831fd5b8e52c916bb66b0dc335be8"}}
+{"id":"bin/game.bin:001924","zh_CN":"空・ ・","source_text_sha256":"6d5bfb521ebf58d6b9e7361b7356509fdc876505091391be6ea75f6b1d18e337","review":{"method":"exact terminology/UI override","previous_target_sha256":"2837902d5018f5b57187f7ab1fe1cfd4b0c0b86661ab236f66fc1ee80ff07879"}}
+{"id":"bin/game.bin:001930","zh_CN":"空・陆・","source_text_sha256":"7f89aec48ee00e908806c76d98df46af1a4044db35fcac06288ca5b2f1923085","review":{"method":"exact terminology/UI override","previous_target_sha256":"6d0e680f557b6e1e2b9ff7985a7a197d66989b5fb9cc1b1f849e034074979e23"}}
+{"id":"bin/game.bin:00193C","zh_CN":" ・陆・","source_text_sha256":"4281a3a7656c29070734a94d7fab8c67d3c90559b75ebfa650c918830e4ad51d","review":{"method":"exact terminology/UI override","previous_target_sha256":"0772c6f972e59a019b70b29d46817c072087be57df37babdca90deb0af894f60"}}
+{"id":"bin/game.bin:001948","zh_CN":"可行动属性","source_text_sha256":"8ae4d5c95e038014fdca5a6f2f2a3d87d834354035b910e139e3b4a48840c47c","review":{"method":"exact terminology/UI override","previous_target_sha256":"ff5ffd6100c134526826b5ba740d65c2f400d1d75a1d6278b3af4c77449637ad"}}
+{"id":"bin/game.bin:001958","zh_CN":"空・陆・海","source_text_sha256":"72a41371b0f38b7e936b354a262f93c64d5389fcc73c2ddbb6678858ba2a9c3c","review":{"method":"exact terminology/UI override","previous_target_sha256":"8fe7fc446526de81d708b1549acde7dc808737515e6d0038bf6985398d6df547"}}
+{"id":"bin/game.bin:001964","zh_CN":"地形适应","source_text_sha256":"cff66908b031c754be5aae2eff64614ee097c4919051c90d3de9649d458ba102"}
+{"id":"bin/game.bin:0019A4","zh_CN":"全方向","source_text_sha256":"e4c22832f7f55cbd8c9f9f953635c533888c03e3e59901e2e844475dc0d28b4e","review":{"method":"exact terminology/UI override","previous_target_sha256":"f6fb74958c1ac06330bc50a8746fed23916b51e19a766843e6275d11e2117e07"}}
+{"id":"bin/game.bin:0019AB","zh_CN":"四方向","source_text_sha256":"eac44025ffeedb9e232ac8a50af072e8a479ab9d1d980eb2e7d6edb531a1def3","review":{"method":"exact terminology/UI override","previous_target_sha256":"65271abd57e3c01daaf767df44572625031984e363f5b2e6faeb290be3708ac5"}}
+{"id":"bin/game.bin:0019B2","zh_CN":"两方向","source_text_sha256":"66bb416cb79e2d9d056fc92d26d31d935d0dedca6fa9fe4a8124dd11db1894f2","review":{"method":"exact terminology/UI override","previous_target_sha256":"f766d63dabc03e1981fa0a4fce7715b682947e815c9ed867a051fa2dddfb3028"}}
+{"id":"bin/game.bin:0019BC","zh_CN":"圆","source_text_sha256":"08002c6675f7436cb3d3f94de4e300a9c18e134a8ace3375e4c1d628578753c9","review":{"method":"exact terminology/UI override","previous_target_sha256":"30b3ccaf86998b63dcc1a039a0082de9e67c477645c3af3b7b168ed7cacfa278"}}
+{"id":"bin/game.bin:0019C5","zh_CN":"直线上","source_text_sha256":"dabc97ac388bba787730a6280ee68d86724cea88b3f75e2f0dfc245bb05318c3","review":{"method":"exact terminology/UI override","previous_target_sha256":"cb84248184e6b5507291110cd4f0eea333491b1b598fa965d8df4b5740152bf9"}}
+{"id":"bin/game.bin:0019D0","zh_CN":"武器","source_text_sha256":"4fe131173e23f605fa4482cfe6b2a7cb66012a973d7c33eee1c7131c63efcdcd"}
+{"id":"bin/game.bin:0019D8","zh_CN":"攻击力","source_text_sha256":"febbd1262ce9450031f0e48cdefcdaaf1e501ca2c11dc42d698853d4b5de96bf"}
+{"id":"bin/game.bin:0019F4","zh_CN":"消耗GE","source_text_sha256":"8a68d52cfc3cd518438936354dc0adfb19864fcdd2e9557c7020599ac46df190","review":{"method":"exact terminology/UI override","previous_target_sha256":"15bdfb2d9cf0805f2c33c051f518ded37d4ca9d9b321080226394130476f49fc"}}
+{"id":"bin/game.bin:001A00","zh_CN":"消耗EN","source_text_sha256":"9a3116a2974ca14f924aa0def4580df9426131ca05b9df5701941d1bf341043d","review":{"method":"exact terminology/UI override","previous_target_sha256":"a86d0501276d8f13e237e88e0075a5ecd78567eb8d21bff57d4faf4d95b11d82"}}
+{"id":"bin/game.bin:001A0C","zh_CN":"类型","source_text_sha256":"8c7622ae1cc6ad75eacc727c4726e5e67a9e67e1b008fbc392748d4f6752a975"}
+{"id":"bin/game.bin:001A14","zh_CN":"特殊","source_text_sha256":"c32b61e9bdf8579cf2ca3b226d591245980c3d2bab81a5509a76aa16a891c1ca","review":{"method":"exact terminology/UI override","previous_target_sha256":"011c45e196fd1b24b9098a7d3d47dff5c8d2162d28140ccc57b2c10640ebb35a"}}
+{"id":"bin/game.bin:001A1C","zh_CN":"海修正","source_text_sha256":"7a3c2ce79a96f6baf0acbdab5b425a73913c587c305fc833896e53083c6a26f4","review":{"method":"exact terminology/UI override","previous_target_sha256":"1b0a82de0409b0a039b6b102123f4da5217238159ba062743ed0972d128eaa18"}}
+{"id":"bin/game.bin:001A2C","zh_CN":"地形","source_text_sha256":"51695ad45a11d6030e6efb4964c00d23312e41ad15fcc78dec206f4c067cfe34"}
+{"id":"bin/game.bin:001A34","zh_CN":"射程范围","source_text_sha256":"08863b719ab4697971d5b00d20c0504303998055c8319077288bc2a6de8bd9ff","review":{"method":"exact terminology/UI override","previous_target_sha256":"ae72b532f4b8f09e179cb9ed5c523d67c1fa7e1c7355035168da5eb11f727320"}}
+{"id":"bin/game.bin:001A40","zh_CN":"形","source_text_sha256":"88731a8fb9d850bf6f0b4bba50fa393b3eb4c8d2dbbf085e2a5cc44b5d1e2b7f","review":{"method":"exact terminology/UI override","previous_target_sha256":"c2f71c1b10ef9d80fd9451fda2a3fbcf4d5dfe823aba4806a2e08301f286f5cc"}}
+{"id":"bin/game.bin:001A44","zh_CN":"射程","source_text_sha256":"5262a412adb87f6333d4e778713f1deff208593e369d0f0326a4ea59d382ba8d","review":{"method":"exact terminology/UI override","previous_target_sha256":"ae72b532f4b8f09e179cb9ed5c523d67c1fa7e1c7355035168da5eb11f727320"}}
+{"id":"bin/game.bin:001A58","zh_CN":"攻击范围","source_text_sha256":"c50278604bf4aa5530d6e2c40350407a379271849bbfde87419339350ea924cc"}
+{"id":"bin/game.bin:001A64","zh_CN":"范围","source_text_sha256":"0d603e6d0a7ee9251292e08af7a6424025bffa1ef28938797e2d2a595da8a188"}
+{"id":"bin/game.bin:001C08","zh_CN":"$f%02da%c2%s%c0获得了%d经验值。","source_text_sha256":"754a379b62ca0c77ad03a1f7addf6c8bb8431f20999931719f3b11f192a932bf","review":{"method":"MT spacing normalization","previous_target_sha256":"d407ba695390a33299d24ce210a63e8c4ee9e89f142d5f15e34d0481b278e609"}}
+{"id":"bin/game.bin:001C3C","zh_CN":"$f%02da%c2%s%c0已达到级别%d。","source_text_sha256":"01c42a6bdfd2292edc4949d9d2dba882ccbf67a80eefbe96e1494a8373996ddd","review":{"method":"MT spacing normalization","previous_target_sha256":"071e61c0d1144f507548dfdc93ebed8790abf42fac3a2333f480ad01e857eb04"}}
+{"id":"bin/game.bin:001C60","zh_CN":"$/%c2%s%c0的能力已变为等级%d。","source_text_sha256":"04303e26c67325ce3c9080bcf8d5a30c3922af2c8c420f8861f6ff11a9908756"}
+{"id":"bin/game.bin:001CB0","zh_CN":"$f00a还有一个龙马的例子。展示真相比说出真相更快。","source_text_sha256":"3a5c1d424c48f14d2950e43102f06c1ba667951693f530f4c2acaea7b06a280d"}
+{"id":"bin/game.bin:001D04","zh_CN":"$f00a那么，这是说服的材料吗？","source_text_sha256":"21931c285471f55a516237a83c502f7dbb91c1b216e4593a71a5e581d18ce371"}
+{"id":"bin/game.bin:001D28","zh_CN":"$f50c没错。","source_text_sha256":"a7b6118ff24cbe6321504cf5f78deae323eaf9478dcd02d0db2ba7dd3b696af3","review":{"method":"exact terminology/UI override","previous_target_sha256":"c441318cf377cb95bf2010237be7df7676dbc8130ed476060051e38057a97a37"}}
+{"id":"bin/game.bin:001D38","zh_CN":"$f21g哇，这是一个很大的荣幸。我应该说服他吗？","source_text_sha256":"0611ad1bdf111de9d77734cd94e985dc95108e8d78961d9ebd8d047b08f60a05"}
+{"id":"bin/game.bin:001D74","zh_CN":"$f00a你可以在\n那边%1看%2到的教学楼@00\\n里有一个试点候选人“神隼人”。以前，他对学校的不公正行为感到愤怒，并成立了一$/个组织来反对。与$/$f01a学校发生了全面冲突。一般情况下，这样的举动通常会受到学$f03a校的压制，但“神隼人”这个$f03b智商高达300的天才却不同。由于他们的迅速行动、团结一致$f03d，尤其是神隼人的智慧，他们让学校屈服了。从$f15a此，那所学校就被称为“隼人的校舍”。","source_text_sha256":"8bd0786237a332b09650268cc9cd84fd4102e5e6cfd4bbffb527412fb4bd8b71","review":{"method":"MT spacing normalization","previous_target_sha256":"2b257d0ee698788c841f18236c6c8e367985791816a54eaa2c8d63b34f24760b"}}
+{"id":"bin/map04.bin:000044","zh_CN":"盖拉回复！","source_text_sha256":"5b93ada44124490f9d71fb5d86ee969db464238c73822aa8801529da371edc61","review":{"method":"exact terminology/UI override","previous_target_sha256":"78e19865c0b2560c8c3c735eb2fdec32b5507b0f9fc53edd1a0d0c08b5ba8bed"}}
+{"id":"bin/map04.bin:000050","zh_CN":"厨房损\n坏！%d左转直\n至毁灭。这是最后一个回合了！","source_text_sha256":"8a61c0f1fc5f9e60bd2dfef52e3d55120b275d31761102b1e4daa071ae8a9cba","review":{"method":"MT spacing normalization","previous_target_sha256":"cb7b5dfa7878ad944f8e30f4b2bec1a4e1a8bbbea8284f98933dab7428692a48"}}
+{"id":"bin/map04.bin:000090","zh_CN":"需\n要%d回合才能消除对格拉的伤害。","source_text_sha256":"4ccd1a87054ca12fa0d144d9e630141f3ede1e5b6bf33cd738577396a85e8be6"}
+{"id":"bin/map10.bin:00008C","zh_CN":"%d转动直\n至导弹发射。这是阻止导弹发射的最后一个回合！","source_text_sha256":"ea9fe5370724771815a2d18f0c902e7514c3c1a6dafb5cee27a8e7acae63b44a","review":{"method":"MT spacing normalization","previous_target_sha256":"980b32a4b99223254fe3107cc08fe6f4a651d285315a144aa6840094481b7d14"}}
+{"id":"bin/map10.bin:0000D8","zh_CN":"%d转动直至导弹发射。","source_text_sha256":"78d1d268bf840c3067a70c5a73880d203d512de562473a63f579537e898aeea2","review":{"method":"MT spacing normalization","previous_target_sha256":"e8913ab85219ae6eabc2b2259eaff0853d961814395df6cd5e2f0a6e777708e7"}}
+{"id":"bin/map16.bin:000048","zh_CN":"距超武器炮发射还剩%d回合\n。这是最后一回合！","source_text_sha256":"d727f9491622225c5d60122cacae7772349315dfd9e15d1888c207eb0866247a"}
+{"id":"bin/map16.bin:000084","zh_CN":"距超武器炮发射还剩%d回合。","source_text_sha256":"4e211252d080d1a2e8535c3976cb8678ff2d02dc8467178f230c04c07f7ca958"}
+{"id":"bin/map18.bin:00006C","zh_CN":"$f27b%%2得克萨斯船员%%0$s13“D、龙龟……抵达阿拉斯加基地……”","source_text_sha256":"643e0d8acacffeb34d0147a7eacbdbaab47a420269ca04582e3f01876c6d71d6","review":{"method":"MT spacing normalization","previous_target_sha256":"8698d73c20f8d668011ec6adb091e68c82466005eab081bd86318cbcb62e8332"}}
+{"id":"bin/map18.bin:0000B8","zh_CN":"$f27a%%2得克萨斯船员%%0$s13“龙龟前进！我们快到阿拉斯加基地了%d！$/$f27b但是，已经结束了……！”","source_text_sha256":"3b53249906272691309734606863f90f544aeb3d1382474c46009eedfb4914a9","review":{"method":"MT spacing normalization","previous_target_sha256":"91f5c2007eda87a86fd2b06c22d16003b09021ad6c2c6d64ec89c57c30cb346c"}}
+{"id":"bin/map18.bin:000124","zh_CN":"$f27a%%2得克萨斯船员%%0$s13“龙龟前进！%d$/$f27b直到阿拉斯加基地！只剩下少量了，请快点！”","source_text_sha256":"a4c13ba733a8207d9054c271a99f95dbef5b9afd01942225bb9b1535092e2f28","review":{"method":"MT spacing normalization","previous_target_sha256":"641e8d55b433fbfd53befeaf52c59b0ffb279958c623af0dc841413495964e82"}}
+{"id":"bin/map18.bin:00019C","zh_CN":"$f27a%%2得克萨斯船员%%0$s13“龙龟前进！%d到达阿拉斯加基地！”","source_text_sha256":"ecd63665444d958ace8c02cb41d5f4cc6088535a9cb44c87298c8245eb9ed783","review":{"method":"MT spacing normalization","previous_target_sha256":"3de3272394c45badebedb5504e3d29eccbdffc542683231f731da26572fc52bd"}}
+{"id":"bin/title.bin:000120","zh_CN":"下一回合的移动力会提高』呢。」","source_text_sha256":"0888578197d04046a5b22ffa66d6278124e88ebee7087a7434f2c41ac1a7cb0e","review":{"method":"exact terminology/UI override","previous_target_sha256":"c10a2c31f5b9dbff3490997328b485f2a6a36c4d16f9f9fc5f70c626f195c23e"}}
+{"id":"bin/title.bin:000148","zh_CN":"射线收集量』呢。」","source_text_sha256":"ec368bf982d2440da42830dae836e722d43612f05d1207eca72c3ee68fd629bb","review":{"method":"exact terminology/UI override","previous_target_sha256":"0a45d4c475abc2aa6b56c64ead755f88a7cbd18d073f5c9df0ec0a7e9a6b8d00"}}
+{"id":"bin/title.bin:000168","zh_CN":"下一回合恢复EN，或提高盖塔","source_text_sha256":"0261317d9aa22856900a8d4a444b9cff9a48d90ea6546802ae21d00f586dd8f8","review":{"method":"exact terminology/UI override","previous_target_sha256":"0ab6192ac8d89b74b51ddc58edf8f29265d0b05e971ac34b293d5000d626e0f1"}}
+{"id":"bin/title.bin:000190","zh_CN":"%0『未移动且未攻击就结束回合，","source_text_sha256":"dcb28c37e3544eb69b6540200d360cc172808a2b7d3b45c957ffdfce534b50e9","review":{"method":"exact terminology/UI override","previous_target_sha256":"fc72cb10f980ced99599a0fe2cf79876e46eeab1773230f7490bcc137d604edd"}}
+{"id":"bin/title.bin:0001B8","zh_CN":"呢。」","source_text_sha256":"662c2e447931a6a99feca1c9014aee5bb446c450dd4c64b945e383266612f7e5","review":{"method":"exact terminology/UI override","previous_target_sha256":"fb4809a2a2ae36fc20ee46a4207fb359e3a93d525d65ac7af425f0e00a885edf"}}
+{"id":"bin/title.bin:0001C4","zh_CN":"%0『每回合开始时恢复少量HP』","source_text_sha256":"702b3ad3fa7a35bfc717636a645f02c634c5aeb36baed2042217dd8048499dd4","review":{"method":"exact terminology/UI override","previous_target_sha256":"81b5f7c32cdc8e13af751abff5eb90851c16610134cdc7eff61311215a7ff07f"}}
+{"id":"bin/title.bin:0001EC","zh_CN":"%0『暴击率提高』%0呢。」","source_text_sha256":"a433f9971751763159604914a56c1d45c5a64155bba27e924ff748b951855b5b","review":{"method":"exact terminology/UI override","previous_target_sha256":"0c06e03058c48480cb2db78f06c24a6d81b43ceaaf55e9dc9fe0cc76b6e564ac"}}
+{"id":"bin/title.bin:000214","zh_CN":"%0位置互换』%0呢。」","source_text_sha256":"1a246c9607b1616c1a0e482bf1aaea4464567832d7aef93ee21c949382601b8a","review":{"method":"exact terminology/UI override","previous_target_sha256":"238d52ae16d3b0786b0e59bb8cde6bf326e390ab56370ab01899a7c5bf0234b1"}}
+{"id":"bin/title.bin:000230","zh_CN":"%0『将自己与指定友军的","source_text_sha256":"c2d6519af3b9d72e66e6fd422eed5599aa9d7a4c573b683520896b95c7eef62f","review":{"method":"exact terminology/UI override","previous_target_sha256":"562aaaef951f1445ca141d60ad50a287ff3e52d500dee43301984dd7bde90783"}}
+{"id":"bin/title.bin:000258","zh_CN":"%0『盖塔射线收集量提高』%0呢。」","source_text_sha256":"3bd24683cc7a8b2a4b6496ce25c13a45110b776bd3703cd7a666e4060a90d7d5","review":{"method":"exact terminology/UI override","previous_target_sha256":"1a026478f108949f72c88520afebd6b0ad6c0acce696ed790306f169cc5fd3d1"}}
+{"id":"bin/title.bin:000284","zh_CN":"%0来』%0呢。」","source_text_sha256":"363db0ed99dccb5797e7764ccdc66c2f7d35b00472ae6745117b8751bb51d80a","review":{"method":"exact terminology/UI override","previous_target_sha256":"2da70c1949bf1295ae7f8f72fb0599c0850ac3566cba47cdfbecb4085608ec19"}}
+{"id":"bin/title.bin:000298","zh_CN":"%0『将指定敌机吸引到自己身边","source_text_sha256":"563c31b5ac3cd5f04ff4a1abada45ee6f7ec0e0de9d0e75662bb396e512c1229","review":{"method":"exact terminology/UI override","previous_target_sha256":"660e8c23666267d46ec6170b72f62b7a379c3d7c5890ca57e3deab09000fdeeb"}}
+{"id":"bin/title.bin:0002C0","zh_CN":"%0会提高』呢。」","source_text_sha256":"8b81b596785a8bdd9efc404cf51c40e0293b3be20f790e9695ecfef9365b9587","review":{"method":"exact terminology/UI override","previous_target_sha256":"82fafb209cb6c2952a4d39ee1987eaec1a17d965692ef9d0d1a58422a6cadf93"}}
+{"id":"bin/title.bin:0002D8","zh_CN":"%0『HP降到一定值以下时，攻击力","source_text_sha256":"c7aeff4e4e800b2e2286d4b8a073d16af9bd6023dfd9d0cff1d60e8c202d84da","review":{"method":"exact terminology/UI override","previous_target_sha256":"cd08085b2e472bd48db681978a266fd2bef51077dd4c7aeb09bb0e977568a9db"}}
+{"id":"bin/title.bin:000300","zh_CN":"%0状态』%0呢。」","source_text_sha256":"cc5f7aff71e5413b771382b9ffcb76c1ff72d0b7ed38ba93c14a193fe7b4bf79","review":{"method":"exact terminology/UI override","previous_target_sha256":"65f8797bcab2a456cc6b70d9ed1424434bb68e1cbe4774d231b5717cca1636e3"}}
+{"id":"bin/title.bin:000314","zh_CN":"%0『可查看指定敌机的","source_text_sha256":"bbaf1a60916c19960fffe89972e509632386db16b761eb3125b8f47ee211c4ca","review":{"method":"exact terminology/UI override","previous_target_sha256":"25166be14d8d4be6538cc76ad2ac7fa336ea24d46ed2403864cfdcd0a4fbbbef"}}
+{"id":"bin/title.bin:00033C","zh_CN":"%0所受伤害』%0呢。」","source_text_sha256":"366ab035334d91af4a521d9c28b5cf763122f6ce39dc6e09daa2c5da43c3b395","review":{"method":"exact terminology/UI override","previous_target_sha256":"2831a7d5fd7c8e6cf9fcc9a5bfa100e27ded42510c1e9fd5c76fee98e1a31fb9"}}
+{"id":"bin/title.bin:00035C","zh_CN":"%0『每回合首次受伤时，可减少","source_text_sha256":"e6992410b5d706cd84bddaf062acd79b31681f4ee6c535470dc987c5e3ab3e50","review":{"method":"exact terminology/UI override","previous_target_sha256":"d6bdab901ab6e83fa1fc6029bd7849acb053bb46b6157c02a9e2b8b792f34670"}}
+{"id":"bin/title.bin:000384","zh_CN":"恢复HP』%0呢。」","source_text_sha256":"d86b09b0932423747747c6afd13920fce558ba99a19f9add3f5b0bf45956cf04","review":{"method":"exact terminology/UI override","previous_target_sha256":"c7b3d812ed943e5f41601c68239c6478f0764715fcab99d8d7773be99be6a149"}}
+{"id":"bin/title.bin:000398","zh_CN":"%0『能为指定的多个单位","source_text_sha256":"477729c61f5387a4a0561302022a472d9cb49f6f62f32be7e72094e50715fd9e","review":{"method":"exact terminology/UI override","previous_target_sha256":"f08a9cebc42d97ee2c939ea8e94cd36fe3d995b8c6b04de42a6d92589e9855e6"}}
+{"id":"bin/title.bin:0003C0","zh_CN":"呢。」","source_text_sha256":"78700a813625065839c64330d28b00a8e0f9fcdadef874a5be428b7f1a2a8f64","review":{"method":"exact terminology/UI override","previous_target_sha256":"83e1742ccf24f256d318244cebc07a266254b7209d14e6463ed7e1436423af15"}}
+{"id":"bin/title.bin:0003C8","zh_CN":"%0『移动不受周围影响』%0","source_text_sha256":"0829eb4631ef830ee8c228b92b6f33bbcda65eb0dee88cf35a3726849416ae73","review":{"method":"exact terminology/UI override","previous_target_sha256":"1cba7babeaea19e5df469c49b26d2c03f15a0f7c9f3a99d6a8ceff796fa535d6"}}
+{"id":"bin/title.bin:0003F4","zh_CN":"%0『每话可复活一次』%0呢。」","source_text_sha256":"3de1b511c3169b701a2f90c502673a099b2840a10aa5aa848f543544472ea1bc","review":{"method":"exact terminology/UI override","previous_target_sha256":"823aac9c05e847e600c3567fd30f861ec5699600c0e2e21e3e3dfddafaa85c6f"}}
+{"id":"bin/title.bin:000420","zh_CN":"%0脱离战场』%0呢。」","source_text_sha256":"ae6767b1380f29661b57d570932f31dbf378241212940027339b8b62d54f8cae","review":{"method":"exact terminology/UI override","previous_target_sha256":"08863a117d4bebf7087e5b1ed8a7c384bffa1db0310ee75432857c8a17bd2798"}}
+{"id":"bin/title.bin:00043C","zh_CN":"%0『伤害周围所有单位后，","source_text_sha256":"5a3112f20f39ddc94356c4b0b605b854a34aa217cc21447e5d5a10e1e4ebc407","review":{"method":"exact terminology/UI override","previous_target_sha256":"721379939a8fc24c1c34433ef36c093f3daabca123dca09fe1e8503913005c30"}}
+{"id":"bin/title.bin:000464","zh_CN":"%0『每回合可移动两次』%0呢。」","source_text_sha256":"48eaad10d2c3024961b5f1564b9095d53bba8db9aa0d42925230527c5c7ea8b0","review":{"method":"exact terminology/UI override","previous_target_sha256":"39c825357c595c2ae6b5e1c44dd2cc694196f117aa1511a9d704ce4b7d4a7ad2"}}
+{"id":"bin/title.bin:000490","zh_CN":"%0『反击时攻击力提高』%0呢。」","source_text_sha256":"e621645cefc32ca3f6cdd8de75e0bff07abcf0a1496ae47e3764be976266f80b","review":{"method":"exact terminology/UI override","previous_target_sha256":"b24c433279e35ed49d3e5edaa3673d0f0de97a809933a3e888d087dbdc8176ad"}}
+{"id":"bin/title.bin:0004BC","zh_CN":"没关系，人生还长着呢。」","source_text_sha256":"558998cff4d77841140cadcf3ccf1fc8f7e1c3cbc13649882a48e18ed075488c","review":{"method":"exact terminology/UI override","previous_target_sha256":"db8db9a42e8dd16dab6d0bdcd27e97d88c6b10f28e1ddc28831da5e227b28593"}}
+{"id":"bin/title.bin:0008E4","zh_CN":"「你就是驾驶员候补生吧。","source_text_sha256":"1d4c45030f2354e28f519f1a6ddcf1b4a675d76d7db15ca0f4a3be6f2875e372","review":{"method":"exact terminology/UI override","previous_target_sha256":"464d9a7d6cd21b3028487a9ddccef104feea4cbd28536547fc0c627880ed1ced"}}
+{"id":"bin/title.bin:000908","zh_CN":"告诉我你的名字吧。」","source_text_sha256":"86057f8c0a9c385446d36d832ac650bbffb3e618acb931d7eade9a39bfd51d3b","review":{"method":"exact terminology/UI override","previous_target_sha256":"4242e8a324294fd25c05ff9b9f9469aefe6f6dbd404f598fc69d1d670e4a3ad5"}}
+{"id":"bin/title.bin:000924","zh_CN":"ミチル","source_text_sha256":"1fe104411f1920d4621dd44446925859efb5d242ca941c31b10fbeb9dada3051"}
+{"id":"bin/title.bin:00092C","zh_CN":"ミチル「你是男生还是女生？」","source_text_sha256":"16065b3ead3f529e3a37a5358c7d3ce83ec6b577bcbd2bb8a75bcd549dc8f2db","review":{"method":"exact terminology/UI override","previous_target_sha256":"ee44e0e32743808e60465f3ae779ccaa83fab352542ba1909600114678f3a2d0"}}
+{"id":"bin/title.bin:000950","zh_CN":"男","source_text_sha256":"4e79758a990062236c2ff22c15eab6e2e3190610ea6c0f2267637515a2a41ec8","review":{"method":"exact terminology/UI override","previous_target_sha256":"a68402d40477a82d3eae92cf7ce44cc525f0406040af98811b9e415319a3b9fc"}}
+{"id":"bin/title.bin:000954","zh_CN":"女","source_text_sha256":"0ab4610b9257c2985566c82d624c1adf36c03b9949398a544728b4021bdf779d","review":{"method":"exact terminology/UI override","previous_target_sha256":"d87cff0000c6a6950025070adaecca249091417a3f8f4eb6686eb1ba479dfe0c"}}
+{"id":"bin/title.bin:000958","zh_CN":"ミチル「请告诉我你的名字。」","source_text_sha256":"dfed0ceab21008a03344806209d47f1d83acf56ad2772f2a71364a47665f1e3c","review":{"method":"exact terminology/UI override","previous_target_sha256":"3d5a1c8dc3d886d614dd7b7f15a9281c7d595064b7bce7115a913214c6c19dc6"}}
+{"id":"bin/title.bin:000984","zh_CN":"英数符号","source_text_sha256":"8334ebc4d0fc091a5e26fe9c37a2b23d7e68b5da72f34c1fee426419e8362627","review":{"method":"exact terminology/UI override","previous_target_sha256":"a3ad16d9fc748069393f37359e1b37db5f9cf8b0ce597dd725eded199a27c628"}}
+{"id":"bin/title.bin:000990","zh_CN":"片假名","source_text_sha256":"82c79cbaee7ce41601c1a83a0dfb78dddbc6e99b71483d2203c2d8fd0bdadc8f"}
+{"id":"bin/title.bin:00099C","zh_CN":"平假名","source_text_sha256":"3d595f223c93d7618600366d04afdc1d2f948497a0f59b70c6b098177ba57003"}
+{"id":"bin/title.bin:0009B0","zh_CN":"确定","source_text_sha256":"df3535a64718d11cf8080216b26b76d9139828438c59a75569744ab2d399a7a8","review":{"method":"exact terminology/UI override","previous_target_sha256":"f4aafaba3be7ad874ed2fc780a54b0d81c598a4b9546918dbec459f629e8c91e"}}
+{"id":"bin/title.bin:0009B8","zh_CN":"ミチル「这样可以吗？」","source_text_sha256":"c25873ed7b7a29a538fc7c79243f62313925d67a8064461da80b351884bfa247","review":{"method":"exact terminology/UI override","previous_target_sha256":"2cbd45f660455cecf8f68ff2727488a3ef8d79532c8c9077697c8d4c481578e3"}}
+{"id":"bin/title.bin:0009D4","zh_CN":"是","source_text_sha256":"8f90d85ec13a0b1b12d81203f2f3262ca156028a94aeaf91ae52fcd5a9de4170","review":{"method":"exact terminology/UI override","previous_target_sha256":"aa2a331d2dcf56680e516898a4ae11aa832d2097fa7fd231b7be2c736ff15a99"}}
+{"id":"bin/title.bin:0009DC","zh_CN":"／否","source_text_sha256":"a9ac6c12d77d54caf94831a656cffe2d38d250390a77f5a5f75f8e3810f7a05a","review":{"method":"exact terminology/UI override","previous_target_sha256":"e92a12bdb7a5c4623e6ee4a67ba3e56557c2d88e9ea0d93dacb9bd8f8478272e"}}
+{"id":"bin/title.bin:0009E8","zh_CN":"「好名字。","source_text_sha256":"0d46ea96728ce0f64498fb6fb15afe3cc8f23279771c8bfac13a8625816a3b47","review":{"method":"exact terminology/UI override","previous_target_sha256":"cf36b3e8f982e83091724c8d2d9034e88f7bbf9023f2168a1afa2402baef61d7"}}
+{"id":"bin/title.bin:0009F8","zh_CN":"我是ミチル。","source_text_sha256":"0c6edb155ba872f0aa81045217fb4d231744cb66951f5aeed0a0ed7870346555"}
+{"id":"bin/title.bin:000A08","zh_CN":"以后请多关照。」","source_text_sha256":"c1b97ac79fad2af36913eff071d6bdda7e4e6d0f4163382944f18e11b7600266","review":{"method":"exact terminology/UI override","previous_target_sha256":"70d93ea9331781fab9bc8f987311f0a83d1153a2011adb768f4303ab7e2f0543"}}
+{"id":"bin/title.bin:000A20","zh_CN":"ミチル「你有哪些能力？","source_text_sha256":"ead4ce7cf0eba370a6859de2decd2f620815b230c23ced24b46b76c8223a1d5a","review":{"method":"exact terminology/UI override","previous_target_sha256":"29f2a8ed5dba9d655f8d1547721e0833c27e5214e62c08d2d69b6b071f4232e9"}}
