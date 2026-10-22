@@ -1,0 +1,1143 @@
+[
+  {
+    "source": "bin/setup.pac",
+    "original_bytes": 252204,
+    "rebuilt_bytes": 289384,
+    "growth_bytes": 37180,
+    "ratio": 1.147
+  },
+  {
+    "source": "mapsys/mcn_prm.pac",
+    "original_bytes": 9888,
+    "rebuilt_bytes": 27304,
+    "growth_bytes": 17416,
+    "ratio": 2.761
+  },
+  {
+    "source": "prog00/godt.pac",
+    "original_bytes": 28860,
+    "rebuilt_bytes": 46104,
+    "growth_bytes": 17244,
+    "ratio": 1.598
+  },
+  {
+    "source": "prog00/rd12.pac",
+    "original_bytes": 48844,
+    "rebuilt_bytes": 62696,
+    "growth_bytes": 13852,
+    "ratio": 1.284
+  },
+  {
+    "source": "mapsys/briefing.pac",
+    "original_bytes": 121624,
+    "rebuilt_bytes": 135208,
+    "growth_bytes": 13584,
+    "ratio": 1.112
+  },
+  {
+    "source": "prog00/sgr0.pac",
+    "original_bytes": 78696,
+    "rebuilt_bytes": 91504,
+    "growth_bytes": 12808,
+    "ratio": 1.163
+  },
+  {
+    "source": "prog00/sgr1.pac",
+    "original_bytes": 76540,
+    "rebuilt_bytes": 87372,
+    "growth_bytes": 10832,
+    "ratio": 1.142
+  },
+  {
+    "source": "prog00/sgrd3.pac",
+    "original_bytes": 64848,
+    "rebuilt_bytes": 75460,
+    "growth_bytes": 10612,
+    "ratio": 1.164
+  },
+  {
+    "source": "prog00/rd03.pac",
+    "original_bytes": 34324,
+    "rebuilt_bytes": 44804,
+    "growth_bytes": 10480,
+    "ratio": 1.305
+  },
+  {
+    "source": "prog00/grg1.pac",
+    "original_bytes": 67560,
+    "rebuilt_bytes": 78004,
+    "growth_bytes": 10444,
+    "ratio": 1.155
+  },
+  {
+    "source": "prog00/rd10.pac",
+    "original_bytes": 42140,
+    "rebuilt_bytes": 52384,
+    "growth_bytes": 10244,
+    "ratio": 1.243
+  },
+  {
+    "source": "prog00/zan1.pac",
+    "original_bytes": 85496,
+    "rebuilt_bytes": 95484,
+    "growth_bytes": 9988,
+    "ratio": 1.117
+  },
+  {
+    "source": "prog00/grg3.pac",
+    "original_bytes": 57916,
+    "rebuilt_bytes": 67880,
+    "growth_bytes": 9964,
+    "ratio": 1.172
+  },
+  {
+    "source": "prog00/gustf.pac",
+    "original_bytes": 50548,
+    "rebuilt_bytes": 60500,
+    "growth_bytes": 9952,
+    "ratio": 1.197
+  },
+  {
+    "source": "prog00/ht03.pac",
+    "original_bytes": 23064,
+    "rebuilt_bytes": 32932,
+    "growth_bytes": 9868,
+    "ratio": 1.428
+  },
+  {
+    "source": "prog00/kt11v.pac",
+    "original_bytes": 35900,
+    "rebuilt_bytes": 45640,
+    "growth_bytes": 9740,
+    "ratio": 1.271
+  },
+  {
+    "source": "prog00/texas.pac",
+    "original_bytes": 54700,
+    "rebuilt_bytes": 64412,
+    "growth_bytes": 9712,
+    "ratio": 1.178
+  },
+  {
+    "source": "prog00/ht12.pac",
+    "original_bytes": 40004,
+    "rebuilt_bytes": 49276,
+    "growth_bytes": 9272,
+    "ratio": 1.232
+  },
+  {
+    "source": "prog00/zan2.pac",
+    "original_bytes": 82116,
+    "rebuilt_bytes": 91212,
+    "growth_bytes": 9096,
+    "ratio": 1.111
+  },
+  {
+    "source": "prog00/sgr2.pac",
+    "original_bytes": 69108,
+    "rebuilt_bytes": 78200,
+    "growth_bytes": 9092,
+    "ratio": 1.132
+  },
+  {
+    "source": "prog00/hk15.pac",
+    "original_bytes": 33532,
+    "rebuilt_bytes": 42520,
+    "growth_bytes": 8988,
+    "ratio": 1.268
+  },
+  {
+    "source": "prog00/sgrd.pac",
+    "original_bytes": 54584,
+    "rebuilt_bytes": 63508,
+    "growth_bytes": 8924,
+    "ratio": 1.163
+  },
+  {
+    "source": "prog00/ht19v.pac",
+    "original_bytes": 27120,
+    "rebuilt_bytes": 35948,
+    "growth_bytes": 8828,
+    "ratio": 1.326
+  },
+  {
+    "source": "prog00/stel2.pac",
+    "original_bytes": 38084,
+    "rebuilt_bytes": 46884,
+    "growth_bytes": 8800,
+    "ratio": 1.231
+  },
+  {
+    "source": "prog00/grgo2.pac",
+    "original_bytes": 68428,
+    "rebuilt_bytes": 77044,
+    "growth_bytes": 8616,
+    "ratio": 1.126
+  },
+  {
+    "source": "prog00/grgos.pac",
+    "original_bytes": 70824,
+    "rebuilt_bytes": 79384,
+    "growth_bytes": 8560,
+    "ratio": 1.121
+  },
+  {
+    "source": "prog00/bt23.pac",
+    "original_bytes": 39020,
+    "rebuilt_bytes": 47572,
+    "growth_bytes": 8552,
+    "ratio": 1.219
+  },
+  {
+    "source": "prog00/sgrd2.pac",
+    "original_bytes": 49220,
+    "rebuilt_bytes": 57708,
+    "growth_bytes": 8488,
+    "ratio": 1.172
+  },
+  {
+    "source": "prog00/rd13.pac",
+    "original_bytes": 25988,
+    "rebuilt_bytes": 34424,
+    "growth_bytes": 8436,
+    "ratio": 1.325
+  },
+  {
+    "source": "prog00/rd13v.pac",
+    "original_bytes": 24604,
+    "rebuilt_bytes": 33036,
+    "growth_bytes": 8432,
+    "ratio": 1.343
+  },
+  {
+    "source": "prog00/gr1.pac",
+    "original_bytes": 75948,
+    "rebuilt_bytes": 84328,
+    "growth_bytes": 8380,
+    "ratio": 1.11
+  },
+  {
+    "source": "prog00/sgrd4.pac",
+    "original_bytes": 51552,
+    "rebuilt_bytes": 59884,
+    "growth_bytes": 8332,
+    "ratio": 1.162
+  },
+  {
+    "source": "prog00/grg2.pac",
+    "original_bytes": 51836,
+    "rebuilt_bytes": 60160,
+    "growth_bytes": 8324,
+    "ratio": 1.161
+  },
+  {
+    "source": "prog00/bgr.pac",
+    "original_bytes": 63956,
+    "rebuilt_bytes": 72128,
+    "growth_bytes": 8172,
+    "ratio": 1.128
+  },
+  {
+    "source": "prog00/gr3.pac",
+    "original_bytes": 50332,
+    "rebuilt_bytes": 58484,
+    "growth_bytes": 8152,
+    "ratio": 1.162
+  },
+  {
+    "source": "prog00/sgrd1.pac",
+    "original_bytes": 46636,
+    "rebuilt_bytes": 54756,
+    "growth_bytes": 8120,
+    "ratio": 1.174
+  },
+  {
+    "source": "prog00/robos.pac",
+    "original_bytes": 46728,
+    "rebuilt_bytes": 54808,
+    "growth_bytes": 8080,
+    "ratio": 1.173
+  },
+  {
+    "source": "prog00/kt11.pac",
+    "original_bytes": 63576,
+    "rebuilt_bytes": 71612,
+    "growth_bytes": 8036,
+    "ratio": 1.126
+  },
+  {
+    "source": "prog00/stel1.pac",
+    "original_bytes": 58156,
+    "rebuilt_bytes": 66076,
+    "growth_bytes": 7920,
+    "ratio": 1.136
+  },
+  {
+    "source": "prog00/hk16.pac",
+    "original_bytes": 33008,
+    "rebuilt_bytes": 40900,
+    "growth_bytes": 7892,
+    "ratio": 1.239
+  },
+  {
+    "source": "prog00/grgo1.pac",
+    "original_bytes": 63596,
+    "rebuilt_bytes": 71448,
+    "growth_bytes": 7852,
+    "ratio": 1.123
+  },
+  {
+    "source": "prog00/ht10.pac",
+    "original_bytes": 31436,
+    "rebuilt_bytes": 38992,
+    "growth_bytes": 7556,
+    "ratio": 1.24
+  },
+  {
+    "source": "prog00/rd01.pac",
+    "original_bytes": 22644,
+    "rebuilt_bytes": 30148,
+    "growth_bytes": 7504,
+    "ratio": 1.331
+  },
+  {
+    "source": "prog00/hk05.pac",
+    "original_bytes": 37652,
+    "rebuilt_bytes": 45040,
+    "growth_bytes": 7388,
+    "ratio": 1.196
+  },
+  {
+    "source": "prog00/tmac.pac",
+    "original_bytes": 53480,
+    "rebuilt_bytes": 60816,
+    "growth_bytes": 7336,
+    "ratio": 1.137
+  },
+  {
+    "source": "demo/title.pac",
+    "original_bytes": 181340,
+    "rebuilt_bytes": 188612,
+    "growth_bytes": 7272,
+    "ratio": 1.04
+  },
+  {
+    "source": "demo/title2.pac",
+    "original_bytes": 206324,
+    "rebuilt_bytes": 213596,
+    "growth_bytes": 7272,
+    "ratio": 1.035
+  },
+  {
+    "source": "prog00/grgo3.pac",
+    "original_bytes": 74688,
+    "rebuilt_bytes": 81940,
+    "growth_bytes": 7252,
+    "ratio": 1.097
+  },
+  {
+    "source": "prog00/gr31.pac",
+    "original_bytes": 42192,
+    "rebuilt_bytes": 49388,
+    "growth_bytes": 7196,
+    "ratio": 1.171
+  },
+  {
+    "source": "prog00/kingd.pac",
+    "original_bytes": 40540,
+    "rebuilt_bytes": 47688,
+    "growth_bytes": 7148,
+    "ratio": 1.176
+  },
+  {
+    "source": "prog00/gremp.pac",
+    "original_bytes": 77824,
+    "rebuilt_bytes": 84968,
+    "growth_bytes": 7144,
+    "ratio": 1.092
+  },
+  {
+    "source": "prog00/ssk.pac",
+    "original_bytes": 28780,
+    "rebuilt_bytes": 35844,
+    "growth_bytes": 7064,
+    "ratio": 1.245
+  },
+  {
+    "source": "prog00/borg.pac",
+    "original_bytes": 51616,
+    "rebuilt_bytes": 58664,
+    "growth_bytes": 7048,
+    "ratio": 1.137
+  },
+  {
+    "source": "prog00/gr2.pac",
+    "original_bytes": 61048,
+    "rebuilt_bytes": 68060,
+    "growth_bytes": 7012,
+    "ratio": 1.115
+  },
+  {
+    "source": "prog00/sgr3.pac",
+    "original_bytes": 49972,
+    "rebuilt_bytes": 56832,
+    "growth_bytes": 6860,
+    "ratio": 1.137
+  },
+  {
+    "source": "prog00/zan3.pac",
+    "original_bytes": 75960,
+    "rebuilt_bytes": 82788,
+    "growth_bytes": 6828,
+    "ratio": 1.09
+  },
+  {
+    "source": "mapef/mform08.pac",
+    "original_bytes": 4460,
+    "rebuilt_bytes": 11156,
+    "growth_bytes": 6696,
+    "ratio": 2.501
+  },
+  {
+    "source": "mapef/mform16.pac",
+    "original_bytes": 3676,
+    "rebuilt_bytes": 10340,
+    "growth_bytes": 6664,
+    "ratio": 2.813
+  },
+  {
+    "source": "prog00/rd00.pac",
+    "original_bytes": 26704,
+    "rebuilt_bytes": 33300,
+    "growth_bytes": 6596,
+    "ratio": 1.247
+  },
+  {
+    "source": "prog00/hk14.pac",
+    "original_bytes": 42460,
+    "rebuilt_bytes": 49004,
+    "growth_bytes": 6544,
+    "ratio": 1.154
+  },
+  {
+    "source": "mapef/mform18.pac",
+    "original_bytes": 3996,
+    "rebuilt_bytes": 10428,
+    "growth_bytes": 6432,
+    "ratio": 2.61
+  },
+  {
+    "source": "prog00/hk02.pac",
+    "original_bytes": 37220,
+    "rebuilt_bytes": 43604,
+    "growth_bytes": 6384,
+    "ratio": 1.172
+  },
+  {
+    "source": "mapef/mform20.pac",
+    "original_bytes": 4052,
+    "rebuilt_bytes": 10404,
+    "growth_bytes": 6352,
+    "ratio": 2.568
+  },
+  {
+    "source": "prog00/kujir.pac",
+    "original_bytes": 41064,
+    "rebuilt_bytes": 47364,
+    "growth_bytes": 6300,
+    "ratio": 1.153
+  },
+  {
+    "source": "prog00/ht15.pac",
+    "original_bytes": 29132,
+    "rebuilt_bytes": 35420,
+    "growth_bytes": 6288,
+    "ratio": 1.216
+  },
+  {
+    "source": "prog00/ht15v.pac",
+    "original_bytes": 27028,
+    "rebuilt_bytes": 33256,
+    "growth_bytes": 6228,
+    "ratio": 1.23
+  },
+  {
+    "source": "prog00/gr12.pac",
+    "original_bytes": 51776,
+    "rebuilt_bytes": 57980,
+    "growth_bytes": 6204,
+    "ratio": 1.12
+  },
+  {
+    "source": "prog00/rd16.pac",
+    "original_bytes": 36372,
+    "rebuilt_bytes": 42548,
+    "growth_bytes": 6176,
+    "ratio": 1.17
+  },
+  {
+    "source": "prog00/gr23.pac",
+    "original_bytes": 50168,
+    "rebuilt_bytes": 56304,
+    "growth_bytes": 6136,
+    "ratio": 1.122
+  },
+  {
+    "source": "mapef/mform01.pac",
+    "original_bytes": 4288,
+    "rebuilt_bytes": 10404,
+    "growth_bytes": 6116,
+    "ratio": 2.426
+  },
+  {
+    "source": "prog00/kt10.pac",
+    "original_bytes": 56436,
+    "rebuilt_bytes": 62520,
+    "growth_bytes": 6084,
+    "ratio": 1.108
+  },
+  {
+    "source": "prog00/hk12.pac",
+    "original_bytes": 43128,
+    "rebuilt_bytes": 49160,
+    "growth_bytes": 6032,
+    "ratio": 1.14
+  },
+  {
+    "source": "prog00/texasv.pac",
+    "original_bytes": 36816,
+    "rebuilt_bytes": 42824,
+    "growth_bytes": 6008,
+    "ratio": 1.163
+  },
+  {
+    "source": "mapef/mform09.pac",
+    "original_bytes": 3528,
+    "rebuilt_bytes": 9412,
+    "growth_bytes": 5884,
+    "ratio": 2.668
+  },
+  {
+    "source": "prog00/hk11.pac",
+    "original_bytes": 32212,
+    "rebuilt_bytes": 38080,
+    "growth_bytes": 5868,
+    "ratio": 1.182
+  },
+  {
+    "source": "prog00/grc.pac",
+    "original_bytes": 18724,
+    "rebuilt_bytes": 24568,
+    "growth_bytes": 5844,
+    "ratio": 1.312
+  },
+  {
+    "source": "prog00/rd14.pac",
+    "original_bytes": 57008,
+    "rebuilt_bytes": 62852,
+    "growth_bytes": 5844,
+    "ratio": 1.103
+  },
+  {
+    "source": "prog00/rd11.pac",
+    "original_bytes": 36632,
+    "rebuilt_bytes": 42472,
+    "growth_bytes": 5840,
+    "ratio": 1.159
+  },
+  {
+    "source": "prog00/grgoc.pac",
+    "original_bytes": 22056,
+    "rebuilt_bytes": 27876,
+    "growth_bytes": 5820,
+    "ratio": 1.264
+  },
+  {
+    "source": "prog00/sgrc.pac",
+    "original_bytes": 17552,
+    "rebuilt_bytes": 23372,
+    "growth_bytes": 5820,
+    "ratio": 1.332
+  },
+  {
+    "source": "prog00/zanc.pac",
+    "original_bytes": 21240,
+    "rebuilt_bytes": 27060,
+    "growth_bytes": 5820,
+    "ratio": 1.274
+  },
+  {
+    "source": "prog00/gra.pac",
+    "original_bytes": 20556,
+    "rebuilt_bytes": 26372,
+    "growth_bytes": 5816,
+    "ratio": 1.283
+  },
+  {
+    "source": "prog00/grb.pac",
+    "original_bytes": 21012,
+    "rebuilt_bytes": 26828,
+    "growth_bytes": 5816,
+    "ratio": 1.277
+  },
+  {
+    "source": "prog00/grgc.pac",
+    "original_bytes": 19656,
+    "rebuilt_bytes": 25472,
+    "growth_bytes": 5816,
+    "ratio": 1.296
+  },
+  {
+    "source": "prog00/grga.pac",
+    "original_bytes": 17172,
+    "rebuilt_bytes": 22984,
+    "growth_bytes": 5812,
+    "ratio": 1.338
+  },
+  {
+    "source": "prog00/grgb.pac",
+    "original_bytes": 17444,
+    "rebuilt_bytes": 23256,
+    "growth_bytes": 5812,
+    "ratio": 1.333
+  },
+  {
+    "source": "prog00/grgoa.pac",
+    "original_bytes": 20412,
+    "rebuilt_bytes": 26224,
+    "growth_bytes": 5812,
+    "ratio": 1.285
+  },
+  {
+    "source": "prog00/grgob.pac",
+    "original_bytes": 19856,
+    "rebuilt_bytes": 25668,
+    "growth_bytes": 5812,
+    "ratio": 1.293
+  },
+  {
+    "source": "prog00/sgra.pac",
+    "original_bytes": 15788,
+    "rebuilt_bytes": 21600,
+    "growth_bytes": 5812,
+    "ratio": 1.368
+  },
+  {
+    "source": "prog00/sgrb.pac",
+    "original_bytes": 15924,
+    "rebuilt_bytes": 21736,
+    "growth_bytes": 5812,
+    "ratio": 1.365
+  },
+  {
+    "source": "prog00/zanb.pac",
+    "original_bytes": 20100,
+    "rebuilt_bytes": 25912,
+    "growth_bytes": 5812,
+    "ratio": 1.289
+  },
+  {
+    "source": "prog00/zana.pac",
+    "original_bytes": 19424,
+    "rebuilt_bytes": 25232,
+    "growth_bytes": 5808,
+    "ratio": 1.299
+  },
+  {
+    "source": "prog00/ladyc.pac",
+    "original_bytes": 17728,
+    "rebuilt_bytes": 23532,
+    "growth_bytes": 5804,
+    "ratio": 1.327
+  },
+  {
+    "source": "prog00/ht18.pac",
+    "original_bytes": 44428,
+    "rebuilt_bytes": 50224,
+    "growth_bytes": 5796,
+    "ratio": 1.13
+  },
+  {
+    "source": "prog00/gremp2.pac",
+    "original_bytes": 46760,
+    "rebuilt_bytes": 52520,
+    "growth_bytes": 5760,
+    "ratio": 1.123
+  },
+  {
+    "source": "prog00/hk03.pac",
+    "original_bytes": 22588,
+    "rebuilt_bytes": 28316,
+    "growth_bytes": 5728,
+    "ratio": 1.254
+  },
+  {
+    "source": "prog00/hk10.pac",
+    "original_bytes": 30144,
+    "rebuilt_bytes": 35860,
+    "growth_bytes": 5716,
+    "ratio": 1.19
+  },
+  {
+    "source": "prog00/kt02.pac",
+    "original_bytes": 42576,
+    "rebuilt_bytes": 48288,
+    "growth_bytes": 5712,
+    "ratio": 1.134
+  },
+  {
+    "source": "prog00/kt04.pac",
+    "original_bytes": 40104,
+    "rebuilt_bytes": 45780,
+    "growth_bytes": 5676,
+    "ratio": 1.142
+  },
+  {
+    "source": "prog00/ht11.pac",
+    "original_bytes": 37112,
+    "rebuilt_bytes": 42764,
+    "growth_bytes": 5652,
+    "ratio": 1.152
+  },
+  {
+    "source": "prog00/ht16.pac",
+    "original_bytes": 68840,
+    "rebuilt_bytes": 74476,
+    "growth_bytes": 5636,
+    "ratio": 1.082
+  },
+  {
+    "source": "prog00/rd05.pac",
+    "original_bytes": 51196,
+    "rebuilt_bytes": 56816,
+    "growth_bytes": 5620,
+    "ratio": 1.11
+  },
+  {
+    "source": "prog00/ht19.pac",
+    "original_bytes": 47572,
+    "rebuilt_bytes": 53144,
+    "growth_bytes": 5572,
+    "ratio": 1.117
+  },
+  {
+    "source": "prog00/kt01.pac",
+    "original_bytes": 39408,
+    "rebuilt_bytes": 44960,
+    "growth_bytes": 5552,
+    "ratio": 1.141
+  },
+  {
+    "source": "mapef/mform19.pac",
+    "original_bytes": 3628,
+    "rebuilt_bytes": 9112,
+    "growth_bytes": 5484,
+    "ratio": 2.512
+  },
+  {
+    "source": "prog00/rd15.pac",
+    "original_bytes": 38912,
+    "rebuilt_bytes": 44340,
+    "growth_bytes": 5428,
+    "ratio": 1.139
+  },
+  {
+    "source": "prog00/rd15v.pac",
+    "original_bytes": 35488,
+    "rebuilt_bytes": 40860,
+    "growth_bytes": 5372,
+    "ratio": 1.151
+  },
+  {
+    "source": "prog00/hk13.pac",
+    "original_bytes": 38340,
+    "rebuilt_bytes": 43496,
+    "growth_bytes": 5156,
+    "ratio": 1.134
+  },
+  {
+    "source": "prog00/ht02.pac",
+    "original_bytes": 29896,
+    "rebuilt_bytes": 34832,
+    "growth_bytes": 4936,
+    "ratio": 1.165
+  },
+  {
+    "source": "prog00/hk00.pac",
+    "original_bytes": 35804,
+    "rebuilt_bytes": 40728,
+    "growth_bytes": 4924,
+    "ratio": 1.138
+  },
+  {
+    "source": "mapef/mform21.pac",
+    "original_bytes": 3176,
+    "rebuilt_bytes": 8056,
+    "growth_bytes": 4880,
+    "ratio": 2.537
+  },
+  {
+    "source": "prog00/ht05.pac",
+    "original_bytes": 38952,
+    "rebuilt_bytes": 43752,
+    "growth_bytes": 4800,
+    "ratio": 1.123
+  },
+  {
+    "source": "prog00/kt03.pac",
+    "original_bytes": 39576,
+    "rebuilt_bytes": 44308,
+    "growth_bytes": 4732,
+    "ratio": 1.12
+  },
+  {
+    "source": "prog00/ht13.pac",
+    "original_bytes": 38928,
+    "rebuilt_bytes": 43644,
+    "growth_bytes": 4716,
+    "ratio": 1.121
+  },
+  {
+    "source": "prog00/ht01.pac",
+    "original_bytes": 25128,
+    "rebuilt_bytes": 29836,
+    "growth_bytes": 4708,
+    "ratio": 1.187
+  },
+  {
+    "source": "prog00/hk01.pac",
+    "original_bytes": 30228,
+    "rebuilt_bytes": 34892,
+    "growth_bytes": 4664,
+    "ratio": 1.154
+  },
+  {
+    "source": "prog00/ht00.pac",
+    "original_bytes": 28156,
+    "rebuilt_bytes": 32580,
+    "growth_bytes": 4424,
+    "ratio": 1.157
+  },
+  {
+    "source": "mapef/mform10.pac",
+    "original_bytes": 3268,
+    "rebuilt_bytes": 7652,
+    "growth_bytes": 4384,
+    "ratio": 2.341
+  },
+  {
+    "source": "prog00/kt00.pac",
+    "original_bytes": 38436,
+    "rebuilt_bytes": 42732,
+    "growth_bytes": 4296,
+    "ratio": 1.112
+  },
+  {
+    "source": "mapef/mform04.pac",
+    "original_bytes": 2540,
+    "rebuilt_bytes": 6776,
+    "growth_bytes": 4236,
+    "ratio": 2.668
+  },
+  {
+    "source": "prog00/hk04.pac",
+    "original_bytes": 37380,
+    "rebuilt_bytes": 41592,
+    "growth_bytes": 4212,
+    "ratio": 1.113
+  },
+  {
+    "source": "prog00/rd02.pac",
+    "original_bytes": 36504,
+    "rebuilt_bytes": 40696,
+    "growth_bytes": 4192,
+    "ratio": 1.115
+  },
+  {
+    "source": "mapef/mform03.pac",
+    "original_bytes": 2956,
+    "rebuilt_bytes": 6996,
+    "growth_bytes": 4040,
+    "ratio": 2.367
+  },
+  {
+    "source": "prog00/ht17.pac",
+    "original_bytes": 49460,
+    "rebuilt_bytes": 53500,
+    "growth_bytes": 4040,
+    "ratio": 1.082
+  },
+  {
+    "source": "mapef/mform06.pac",
+    "original_bytes": 3148,
+    "rebuilt_bytes": 7180,
+    "growth_bytes": 4032,
+    "ratio": 2.281
+  },
+  {
+    "source": "prog00/rd06.pac",
+    "original_bytes": 31392,
+    "rebuilt_bytes": 35340,
+    "growth_bytes": 3948,
+    "ratio": 1.126
+  },
+  {
+    "source": "prog00/rd04.pac",
+    "original_bytes": 29328,
+    "rebuilt_bytes": 33188,
+    "growth_bytes": 3860,
+    "ratio": 1.132
+  },
+  {
+    "source": "prog00/kt15v.pac",
+    "original_bytes": 26812,
+    "rebuilt_bytes": 30656,
+    "growth_bytes": 3844,
+    "ratio": 1.143
+  },
+  {
+    "source": "prog00/ht14.pac",
+    "original_bytes": 39240,
+    "rebuilt_bytes": 43028,
+    "growth_bytes": 3788,
+    "ratio": 1.097
+  },
+  {
+    "source": "mapef/mform12.pac",
+    "original_bytes": 2752,
+    "rebuilt_bytes": 6468,
+    "growth_bytes": 3716,
+    "ratio": 2.35
+  },
+  {
+    "source": "mapef/mform14.pac",
+    "original_bytes": 2604,
+    "rebuilt_bytes": 6296,
+    "growth_bytes": 3692,
+    "ratio": 2.418
+  },
+  {
+    "source": "mapef/mform15.pac",
+    "original_bytes": 2428,
+    "rebuilt_bytes": 6040,
+    "growth_bytes": 3612,
+    "ratio": 2.488
+  },
+  {
+    "source": "mapef/mform13.pac",
+    "original_bytes": 1980,
+    "rebuilt_bytes": 5484,
+    "growth_bytes": 3504,
+    "ratio": 2.77
+  },
+  {
+    "source": "prog00/ht04.pac",
+    "original_bytes": 23076,
+    "rebuilt_bytes": 26572,
+    "growth_bytes": 3496,
+    "ratio": 1.151
+  },
+  {
+    "source": "mapef/mform02.pac",
+    "original_bytes": 2768,
+    "rebuilt_bytes": 6136,
+    "growth_bytes": 3368,
+    "ratio": 2.217
+  },
+  {
+    "source": "mapsys/mapalway.pac",
+    "original_bytes": 42672,
+    "rebuilt_bytes": 45724,
+    "growth_bytes": 3052,
+    "ratio": 1.072
+  },
+  {
+    "source": "mapef/mform17.pac",
+    "original_bytes": 2112,
+    "rebuilt_bytes": 5152,
+    "growth_bytes": 3040,
+    "ratio": 2.439
+  },
+  {
+    "source": "mapef/mform11.pac",
+    "original_bytes": 2348,
+    "rebuilt_bytes": 5372,
+    "growth_bytes": 3024,
+    "ratio": 2.288
+  },
+  {
+    "source": "mapef/mform07b.pac",
+    "original_bytes": 2172,
+    "rebuilt_bytes": 5056,
+    "growth_bytes": 2884,
+    "ratio": 2.328
+  },
+  {
+    "source": "mapef/mform07a.pac",
+    "original_bytes": 2112,
+    "rebuilt_bytes": 4944,
+    "growth_bytes": 2832,
+    "ratio": 2.341
+  },
+  {
+    "source": "mapef/mform06b.pac",
+    "original_bytes": 2228,
+    "rebuilt_bytes": 5048,
+    "growth_bytes": 2820,
+    "ratio": 2.266
+  },
+  {
+    "source": "mapef/m_form01.pac",
+    "original_bytes": 2116,
+    "rebuilt_bytes": 4788,
+    "growth_bytes": 2672,
+    "ratio": 2.263
+  },
+  {
+    "source": "mapef/mform06a.pac",
+    "original_bytes": 2076,
+    "rebuilt_bytes": 4748,
+    "growth_bytes": 2672,
+    "ratio": 2.287
+  },
+  {
+    "source": "mapef/mform05.pac",
+    "original_bytes": 1760,
+    "rebuilt_bytes": 4256,
+    "growth_bytes": 2496,
+    "ratio": 2.418
+  },
+  {
+    "source": "mapef/m_form03.pac",
+    "original_bytes": 1628,
+    "rebuilt_bytes": 3304,
+    "growth_bytes": 1676,
+    "ratio": 2.029
+  },
+  {
+    "source": "mapef/m_form02.pac",
+    "original_bytes": 1428,
+    "rebuilt_bytes": 2656,
+    "growth_bytes": 1228,
+    "ratio": 1.86
+  },
+  {
+    "source": "mapef/m_form04.pac",
+    "original_bytes": 1172,
+    "rebuilt_bytes": 2228,
+    "growth_bytes": 1056,
+    "ratio": 1.901
+  },
+  {
+    "source": "mapef/m_form06.pac",
+    "original_bytes": 1088,
+    "rebuilt_bytes": 1976,
+    "growth_bytes": 888,
+    "ratio": 1.816
+  },
+  {
+    "source": "mapef/m_form05.pac",
+    "original_bytes": 724,
+    "rebuilt_bytes": 1412,
+    "growth_bytes": 688,
+    "ratio": 1.95
+  },
+  {
+    "source": "mapef/m_formdb.pac",
+    "original_bytes": 332,
+    "rebuilt_bytes": 776,
+    "growth_bytes": 444,
+    "ratio": 2.337
+  },
+  {
+    "source": "prog00/unit.pac",
+    "original_bytes": 212,
+    "rebuilt_bytes": 372,
+    "growth_bytes": 160,
+    "ratio": 1.755
+  },
+  {
+    "source": "mapef/mformdb.pac",
+    "original_bytes": 156,
+    "rebuilt_bytes": 292,
+    "growth_bytes": 136,
+    "ratio": 1.872
+  },
+  {
+    "source": "bin/battle.bin",
+    "original_bytes": 299728,
+    "rebuilt_bytes": 299728,
+    "growth_bytes": 0,
+    "ratio": 1.0
+  },
+  {
+    "source": "bin/briefing.bin",
+    "original_bytes": 116940,
+    "rebuilt_bytes": 116940,
+    "growth_bytes": 0,
+    "ratio": 1.0
+  },
+  {
+    "source": "bin/debug.bin",
+    "original_bytes": 44712,
+    "rebuilt_bytes": 44712,
+    "growth_bytes": 0,
+    "ratio": 1.0
+  },
+  {
+    "source": "bin/flight.bin",
+    "original_bytes": 140204,
+    "rebuilt_bytes": 140204,
+    "growth_bytes": 0,
+    "ratio": 1.0
+  },
+  {
+    "source": "bin/game.bin",
+    "original_bytes": 122408,
+    "rebuilt_bytes": 122408,
+    "growth_bytes": 0,
+    "ratio": 1.0
+  },
+  {
+    "source": "bin/map04.bin",
+    "original_bytes": 3192,
+    "rebuilt_bytes": 3192,
+    "growth_bytes": 0,
+    "ratio": 1.0
+  },
+  {
+    "source": "bin/map10.bin",
+    "original_bytes": 4224,
+    "rebuilt_bytes": 4224,
+    "growth_bytes": 0,
+    "ratio": 1.0
+  },
+  {
+    "source": "bin/map16.bin",
+    "original_bytes": 2988,
+    "rebuilt_bytes": 2988,
+    "growth_bytes": 0,
+    "ratio": 1.0
+  },
+  {
+    "source": "bin/map18.bin",
+    "original_bytes": 2726,
+    "rebuilt_bytes": 2726,
+    "growth_bytes": 0,
+    "ratio": 1.0
+  },
+  {
+    "source": "bin/title.bin",
+    "original_bytes": 31508,
+    "rebuilt_bytes": 31508,
+    "growth_bytes": 0,
+    "ratio": 1.0
+  },
+  {
+    "source": "gr.exe",
+    "original_bytes": 475136,
+    "rebuilt_bytes": 475136,
+    "growth_bytes": 0,
+    "ratio": 1.0
+  }
+]

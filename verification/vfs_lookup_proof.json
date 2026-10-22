@@ -1,0 +1,73 @@
+{
+  "filename_lookup_confirmed": true,
+  "method": "Independent static original MIPS call-chain verification",
+  "source": "Japanese SLPS-02232 original EXE",
+  "source_sha256": "edc4b01e09708d64db21430ed341e4fb222799089a2ca360f329a8fe15f5bb8b",
+  "original_exe_unmodified": true,
+  "gp": "0x80082AC8",
+  "filename": "GR.VFS",
+  "filename_pointer": "0x80082D8C",
+  "filename_string": "0x80082D84",
+  "evidence": [
+    {
+      "address": "0x8001A408",
+      "detail": "LUI gp,0x8008; ADDIU gp,gp,0x2AC8 initializes GP."
+    },
+    {
+      "address": "0x80051F24",
+      "detail": "LW a1,0x2C4(gp) loads GR.VFS filename pointer; JAL 0x80052200 passes filename and destination mount-header structure."
+    },
+    {
+      "address": "0x80052228",
+      "detail": "Sets read-system flag 0x20 before JAL 0x80036168 with filename, byte offset 0 and length16; reads original VFS header by filename."
+    },
+    {
+      "address": "0x80052240",
+      "detail": "Validates VFS magic0x30534656 from freshly read16-byte header."
+    },
+    {
+      "address": "0x80052250",
+      "detail": "JAL 0x80033EE8 converts read-system current file MSF at0x80085754 into LBA."
+    },
+    {
+      "address": "0x80052268",
+      "detail": "Computes TOC base as current file LBA+1 and stores it in mount-header+4."
+    },
+    {
+      "address": "0x80052274",
+      "detail": "Computes VFS data base as current file LBA+header.u32@8 and stores it in mount-header+8."
+    },
+    {
+      "address": "0x8002FEC0",
+      "detail": "Initializes file lookup callback0x80085760 to0x80034AE4, not a fixed GR.VFS extent."
+    },
+    {
+      "address": "0x80035B08",
+      "detail": "File read resolves filename in request+0x27 through callback0x80085760 and retains returned location/size."
+    },
+    {
+      "address": "0x80036FEC",
+      "detail": "When flag0x20 is set, lookup wrapper0x80036FA4 forces direct filename lookup0x80034AE4 rather than archive cache."
+    },
+    {
+      "address": "0x80034BC0",
+      "detail": "Filename lookup normalizes path, appends;1 and calls ISO filesystem search0x80034E14."
+    },
+    {
+      "address": "0x80034E14",
+      "detail": "ISO filesystem search traverses directories and compares filenames; diagnostics identify DsSearchFile."
+    },
+    {
+      "address": "0x80035054",
+      "detail": "On filename match, copies current directory result location/size into destination structure."
+    },
+    {
+      "address": "0x800522F4",
+      "detail": "TOC read uses computed LBA from mount-header+4; per-member CD positions are generated from member-relative offset+computed data base at0x80052360..6C."
+    }
+  ],
+  "conclusion": "The inspected disc VFS initialization and member-read path derives its absolute sectors from ISO filename lookup. Relocating GR.VFS requires updating its ISO9660 directory extent and byte size, preserving relative VFS header/member offsets, and updating disc volume metadata/sector integrity; this path requires no fixed LBA255 code patch.",
+  "hardcoded_original_lba_in_inspected_mount_path": false,
+  "cached_toc_scope": "VFS TOC is freshly read from current file LBA+1 at initialization; SDK directory cache is populated from disc, not an embedded original GR.VFS TOC.",
+  "limits": "Static call-chain evidence, not gameplay validation or a proof about every unrelated executable constant. Rebuild must still verify ISO little/big-endian extents, volume size, sector EDC/ECC and a boot/runtime smoke test."
+}

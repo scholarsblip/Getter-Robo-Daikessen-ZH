@@ -1,0 +1,30 @@
+{
+  "source_preparation": {
+    "original_bin_preserved": true,
+    "vfs_files": 395,
+    "pac_extracted": 14245,
+    "pac_failures": 0,
+    "all_three_regenerated_corpora_byte_exact": true
+  },
+  "packaged_font_regeneration": {
+    "characters": 1450,
+    "plan_sha256": "fc81520beb038ba0e5c58fe08f1b61f3c9c1d00c176a2902e878d783788774c3",
+    "all_four_font_outputs_match_final_build": true
+  },
+  "packaged_builder_dry_run": {
+    "core_applied": 963,
+    "scenario_occurrences": 29964,
+    "scenario_oversize": 0,
+    "rebuilt_exe_sha256": "ca1da2fb1317188e7e684eb7306717950f6a11b1fdcb5b8ff9644ea40395cbc8",
+    "rebuilt_vfs_sha256": "00c16db073d6d8e42806abfeb3f7a959343589c8c015e6de9636426d6166ee7c",
+    "rebuilt_vfs_bytes": 25371648,
+    "matches_final_release_build": true
+  },
+  "negative_checks": {
+    "invalid_source_rejected": true,
+    "existing_destination_rejected": true,
+    "original_and_existing_sentinel_unchanged": true
+  },
+  "all_python_sources_parse": true,
+  "limits": "Rebuild test here regenerates font and dry-run EXE/VFS; final full-image and patch roundtrip checks are recorded separately by release packaging. Does not claim complete gameplay or semantic translation review."
+}

@@ -1,0 +1,17 @@
+{
+  "original_bin_sha256": "08f189c914fa753af0ba690579712636f1d8b21eb7777c89b6fc10041c725807",
+  "files": {
+    "core_corpus.jsonl": {
+      "bytes": 837491,
+      "sha256": "f2b067d8770b1d2ab2020a5dba2e5a74ae1a1f8f24551c67ee49e681521d6563"
+    },
+    "scenario_corpus.jsonl": {
+      "bytes": 17474286,
+      "sha256": "09da53793135767dcaa487d6cfd68519035c0d9b1ba06ad2bfdab7c5a21950e9"
+    },
+    "scenario_corpus_occurrences.jsonl": {
+      "bytes": 19556556,
+      "sha256": "b3ce2ab6bc8035b4cf319ac850c9792392074d9b0ba930e1fee40a91931740b0"
+    }
+  }
+}

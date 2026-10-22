@@ -1,0 +1,20 @@
+{
+  "scenario_rows": 1886,
+  "manual_row_fixes": 8,
+  "strict_generic_controls_passed": 1886,
+  "format_characters": 0,
+  "unresolved_entity_rows": 165,
+  "targeted_bad_terms_remaining": {
+    "屁": 0,
+    "鸬鹚": 0,
+    "罗濑津": 0,
+    "兰道": 0,
+    "新一": 0,
+    "真一": 0,
+    "Getter": 0,
+    "Blai": 0,
+    "Zill": 0,
+    "真正的演习": 0
+  },
+  "sha256": "de518e1ef2e338cd43e4bf58a9783152d203ce1568bf18dce6f6086dd58198fe"
+}

@@ -1,0 +1,50 @@
+{
+  "source": "Original Japanese SLPS-02232 static MIPS references",
+  "confirmed_protected_fields": [
+    {
+      "id": "SLPS_022.32:073690",
+      "ja": "げんき",
+      "required_raw_hex": "82b082f182ab00",
+      "reason": "Hidden player-name equality trigger; original kana keyboard can enter this literal.",
+      "evidence": [
+        {
+          "address": "0x8005521C",
+          "operation": "Obtains player/character object then calls0x800527BC to obtain name pointer."
+        },
+        {
+          "address": "0x80055228",
+          "operation": "Loads literal0x80082E90 (file0x73690)."
+        },
+        {
+          "address": "0x80055230",
+          "operation": "Calls string-compare0x80035774 with literal andname."
+        },
+        {
+          "address": "0x80055238",
+          "operation": "Nonzero result skips reward path; equalitycalls0x80091E30 witha1=3,a2=1."
+        }
+      ]
+    }
+  ],
+  "default_name_fields": [
+    {
+      "id": "SLPS_022.32:07354C",
+      "ja": "ななし",
+      "references": [
+        "0x8004E4B8",
+        "0x8004E904"
+      ],
+      "operation": "Both references pass literal asstring argumenttosetter0x8005D674."
+    },
+    {
+      "id": "SLPS_022.32:0737D4",
+      "ja": "ななし",
+      "references": [
+        "0x8005CDB0"
+      ],
+      "operation": "Passes literal asstring argumenttosetter0x8005D674."
+    }
+  ],
+  "default_name_conclusion": "No string comparisons foundamongtheseidentifiedreferences. Conservative preservation is acceptable; no assertionaboutunknownruntimeuse.",
+  "no_source_edits": true
+}

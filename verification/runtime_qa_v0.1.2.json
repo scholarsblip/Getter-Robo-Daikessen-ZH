@@ -1,0 +1,81 @@
+{
+  "build": "Getter_Robo_Daikessen_ZH_v0.1.2-experimental",
+  "core": "SwanStation1.0.0 cc94ebc",
+  "core_sha256": "4e34b6ce04b8783f30ab7dd1b7da80569004ec2c852136ff27d6bdc52d0f0995",
+  "bios": "OpenBIOS",
+  "bios_sha256": "992a0369a55ca20308fe03acaa7e376a11b815b2b29e688d7a9451f2f41f2a34",
+  "options": {
+    "swanstation_GPU_Renderer": "Software",
+    "swanstation_CPU_ExecutionMode": "Interpreter",
+    "swanstation_BIOS_PathNTSCJ": "openbios.bin"
+  },
+  "cold_boot_frames": 26000,
+  "original_state_loaded": false,
+  "ram_injection": false,
+  "passed": [
+    "cold boot",
+    "character setup and ability Chinese fonts",
+    "first Chinese story dialogue",
+    "first tactical battle map",
+    "Chinese target prompt and terrain",
+    "HP883/883 and EN49/49 match original",
+    "Chinese weapon list",
+    "Chinese global menu",
+    "mission-condition screen",
+    "normal turn ending and movement reset",
+    "school entry event from normal movement then Wait",
+    "school entry FMV",
+    "post-school Chinese story and additional units",
+    "return to tactical map after event",
+    "weapon selection and target cursor after event",
+    "actual attack animation on enemy phase",
+    "multiple combatants and HP reduction during animation",
+    "normal tactical return after attacks"
+  ],
+  "not_yet_verified": [
+    "later chapters",
+    "full dialogue semantic review"
+  ],
+  "screenshots": {
+    "ability": "translated_v0.1.2/final_cold/frame_003840.png",
+    "story": "translated_v0.1.2/final_cold/frame_016000.png",
+    "battle": "translated_v0.1.2/final_cold/frame_026000.png",
+    "weapons": "translated_v0.1.2/battle_menus/frame_000060.png",
+    "global_menu": "translated_v0.1.2/global_objective/frame_000060.png",
+    "objective": "translated_v0.1.2/global_objective/frame_000300.png",
+    "school_fmv": "translated_v0.1.2/final_attempt/s6/frame_001200.png",
+    "post_school_story": "translated_v0.1.2/final_attempt/s7/frame_004200.png",
+    "post_event_map": "translated_v0.1.2/final_attempt/s13/frame_000800.png",
+    "weapon_details": "translated_v0.1.2/final_attempt/s8/frame_002400.png",
+    "target_cursor": "translated_v0.1.2/final_attempt/s15/frame_000250.png",
+    "attack_giant_bear": "translated_v0.1.2/one_turn/s2/frame_000300.png",
+    "attack_bt23": "translated_v0.1.2/one_turn/s2/frame_000600.png",
+    "attack_jaguar": "translated_v0.1.2/one_turn/s2/frame_000900.png",
+    "post_attack_map": "translated_v0.1.2/one_turn/s2/frame_001800.png"
+  },
+  "report": "translated_v0.1.2/final_cold/report.json",
+  "notes": [
+    "PCSX-ReARMed r26 failed original after FMV with both HLE and OpenBIOS; SwanStation passes that original transition.",
+    "Generic PCSX HLE metadata in early Swan reports was corrected; actual Swan firmware was explicitly OpenBIOS.",
+    "All state reloads remained within the same game image and core."
+  ],
+  "attack_attempt": {
+    "result": "actual animation verified",
+    "trigger": "One normal End Turn from final_attempt/s13/end.state triggered enemy attacks before player movement. No injected inputs or RAM changes.",
+    "observed": [
+      "Giant Bear HP805/937 with Chinese unit name and Early Saotome cry",
+      "BT23 HP1055/1133 with 3D combat and Japanese speaker label Akira",
+      "Jaguar HP637/769 with Chinese unit name and Hayato cry",
+      "Return to free tactical cursor after attacks"
+    ],
+    "followup_state": "translated_v0.1.2/one_turn/s2/end.state",
+    "remaining_translation_coverage": [
+      "Japanese speaker label アキラ at frame_000600",
+      "Japanese effect label ダメージ remains visible in combat"
+    ]
+  },
+  "known_remaining_issues": [
+    "Combat speaker label アキラ remains Japanese in one observed line.",
+    "Combat effect label ダメージ remains Japanese."
+  ]
+}

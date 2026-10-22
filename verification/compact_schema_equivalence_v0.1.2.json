@@ -1,0 +1,36 @@
+{
+  "schema": "id, zh_CN, source_text_sha256 (SHA256 of original JA UTF-8), optional review",
+  "original_metadata_stays_local": true,
+  "corpora": {
+    "core": {
+      "rows": 967,
+      "target_texts_exactly_unchanged": true,
+      "all_authoritative_metadata_exactly_equal_after_merge": true,
+      "control_streams_exactly_equal": true,
+      "legacy_ja_mode_compatible": true,
+      "compact_jsonl_sha256": "e69f06e915e4b5fc642de2ac52a94ec18ff642f9248bf933de46ceed073b20de"
+    },
+    "scenario": {
+      "rows": 1886,
+      "target_texts_exactly_unchanged": true,
+      "all_authoritative_metadata_exactly_equal_after_merge": true,
+      "control_streams_exactly_equal": true,
+      "legacy_ja_mode_compatible": true,
+      "compact_jsonl_sha256": "990edb35438d63398c56d600104e9e1e638b79c65a7ee2544ca91b83c7228fdd"
+    }
+  },
+  "negative_checks": {
+    "core_source_hash_rejected": true,
+    "scenario_source_hash_rejected": true,
+    "printf_or_control_mutation_rejected": true
+  },
+  "font_mapping_input_exactly_matches_all_compact_targets": true,
+  "unchanged_build_reference": {
+    "exe_sha256": "ca1da2fb1317188e7e684eb7306717950f6a11b1fdcb5b8ff9644ea40395cbc8",
+    "vfs_sha256": "00c16db073d6d8e42806abfeb3f7a959343589c8c015e6de9636426d6166ee7c",
+    "vfs_bytes": 25371648,
+    "font_plan_sha256": "fc81520beb038ba0e5c58fe08f1b61f3c9c1d00c176a2902e878d783788774c3",
+    "target_bin_sha256": "855f4a1581f9509340f57b0ccb43170a1b3db7c0513c11d1db0f029a48ffe8cf"
+  },
+  "equivalence_basis": "All authoritative merged rows (except unused legacy MT provenance), target strings/control streams and font input are identical to the previously verified build; compact-public-schema change does not alter asset generation. No new full image or game run was required."
+}

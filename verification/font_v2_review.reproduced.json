@@ -1,0 +1,51 @@
+{
+  "version": "font-v2-reclaimed-native-map-cave",
+  "native_entry_cases": 1091,
+  "custom_index_cases": 3276,
+  "invalid_fallback_cases": 17,
+  "mips_branch_and_load_delays_modeled": true,
+  "callee_saved_registers_pass": true,
+  "compiled_bytes": 1736,
+  "reclaimed_region_bytes": 2200,
+  "native_compact_bytes": 1172,
+  "startup_bss_zero_simulation": "pass; unchanged0x800833b0..0x8008b7a8 zero loop preserves cave0x800807f4..0x8008108c",
+  "native_initializer_skip": "pass; branch to0x80052098, symbol/kana initialization bytes unchanged",
+  "references_to_reclaimed_data": [
+    {
+      "target": "0x800807f4",
+      "references": [
+        {
+          "source": "SLPS_022.32",
+          "offset": 462716,
+          "kind": "u32_le"
+        }
+      ]
+    },
+    {
+      "target": "0x80080b6c",
+      "references": [
+        {
+          "source": "SLPS_022.32",
+          "offset": 462720,
+          "kind": "u32_le"
+        }
+      ]
+    },
+    {
+      "target": "0x80080ee4",
+      "references": [
+        {
+          "source": "SLPS_022.32",
+          "offset": 462724,
+          "kind": "u32_le"
+        }
+      ]
+    }
+  ],
+  "other_direct_gp_references": [],
+  "original_japanese_duplicates": "U+space0x8140 uses unchanged simple path;0x8E9Fand0x90AB duplicate later entries resolve earlier native page as original.",
+  "reviewed_binary_sha256": "a88cc39442f8fed37a11e3bc186467c4112c0166eb3da348bf18576decfe8fe5",
+  "blocking_findings": [],
+  "elapsed_seconds": 3.9,
+  "limits": "Static and instruction-level tests do not prove GPU/runtime/gameplay compatibility or completeness of indirect pointer-use analysis."
+}

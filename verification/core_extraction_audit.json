@@ -1,0 +1,284 @@
+{
+  "entries": 967,
+  "unique_texts": 862,
+  "kind_counts": {
+    "dialogue": 107,
+    "ui_label": 348,
+    "ui_message": 119,
+    "scenario_title": 20,
+    "weapon_name": 256,
+    "unit_name": 116,
+    "character_name": 1
+  },
+  "candidate_only": 3972,
+  "interior_reference_fields": [
+    "bin/game.bin:000456"
+  ],
+  "noop_rebuild_checks": [
+    {
+      "source": "SLPS_022.32",
+      "fields": 546,
+      "bytes": 475136,
+      "source_sha256": "edc4b01e09708d64db21430ed341e4fb222799089a2ca360f329a8fe15f5bb8b",
+      "rebuilt_sha256": "edc4b01e09708d64db21430ed341e4fb222799089a2ca360f329a8fe15f5bb8b",
+      "byte_exact": true
+    },
+    {
+      "source": "bin/battle.bin",
+      "fields": 9,
+      "bytes": 299728,
+      "source_sha256": "d75a3cd77990060b84a9f318b5df5395a38204b9e48a642c524887992721e1a0",
+      "rebuilt_sha256": "d75a3cd77990060b84a9f318b5df5395a38204b9e48a642c524887992721e1a0",
+      "byte_exact": true
+    },
+    {
+      "source": "bin/briefing.bin",
+      "fields": 134,
+      "bytes": 116940,
+      "source_sha256": "971b05960dbf97632d91aee4d8f6b527a75a215dfe48d13bfb54d26cd13d43f5",
+      "rebuilt_sha256": "971b05960dbf97632d91aee4d8f6b527a75a215dfe48d13bfb54d26cd13d43f5",
+      "byte_exact": true
+    },
+    {
+      "source": "bin/debug.bin",
+      "fields": 34,
+      "bytes": 44712,
+      "source_sha256": "9360b551f82d2c559c240f0a71284961ab5b7d5e23e4c4b392b1aa370540f9d2",
+      "rebuilt_sha256": "9360b551f82d2c559c240f0a71284961ab5b7d5e23e4c4b392b1aa370540f9d2",
+      "byte_exact": true
+    },
+    {
+      "source": "bin/exec.bin",
+      "fields": 0,
+      "bytes": 8,
+      "source_sha256": "f13ee6ed54ea2aae9fc49a9faeb5da6e8ddef0e12ed5d30d35a624ae813e0485",
+      "rebuilt_sha256": "f13ee6ed54ea2aae9fc49a9faeb5da6e8ddef0e12ed5d30d35a624ae813e0485",
+      "byte_exact": true
+    },
+    {
+      "source": "bin/flight.bin",
+      "fields": 41,
+      "bytes": 140204,
+      "source_sha256": "fb9fa41ac9629a10e2d465c81b03508bd2f04ed2d44c6da73e9c1b3f6540df30",
+      "rebuilt_sha256": "fb9fa41ac9629a10e2d465c81b03508bd2f04ed2d44c6da73e9c1b3f6540df30",
+      "byte_exact": true
+    },
+    {
+      "source": "bin/game.bin",
+      "fields": 146,
+      "bytes": 122408,
+      "source_sha256": "74e1d780f7e39f389c89e14fc12d85494661cc8b6781446a8c6f681a70415adc",
+      "rebuilt_sha256": "74e1d780f7e39f389c89e14fc12d85494661cc8b6781446a8c6f681a70415adc",
+      "byte_exact": true
+    },
+    {
+      "source": "bin/map01.bin",
+      "fields": 0,
+      "bytes": 1728,
+      "source_sha256": "a8d210df66bc9016c61d0b2eedc7abbcfb6961cea195af356e761d2701992dbf",
+      "rebuilt_sha256": "a8d210df66bc9016c61d0b2eedc7abbcfb6961cea195af356e761d2701992dbf",
+      "byte_exact": true
+    },
+    {
+      "source": "bin/map02.bin",
+      "fields": 0,
+      "bytes": 48,
+      "source_sha256": "7912e803aae5759b8ce8469ab17342f93f1d5b59408c485939a7f4339ab209c0",
+      "rebuilt_sha256": "7912e803aae5759b8ce8469ab17342f93f1d5b59408c485939a7f4339ab209c0",
+      "byte_exact": true
+    },
+    {
+      "source": "bin/map03.bin",
+      "fields": 0,
+      "bytes": 1068,
+      "source_sha256": "bb1795f183b41bdc57ab373aa7c0682b296009995072823df219106f0bbc699d",
+      "rebuilt_sha256": "bb1795f183b41bdc57ab373aa7c0682b296009995072823df219106f0bbc699d",
+      "byte_exact": true
+    },
+    {
+      "source": "bin/map04.bin",
+      "fields": 3,
+      "bytes": 3192,
+      "source_sha256": "d4beec8bd4f3ccc817af21844aac0408e9176f5e8c239bc744db73eeff5bd89f",
+      "rebuilt_sha256": "d4beec8bd4f3ccc817af21844aac0408e9176f5e8c239bc744db73eeff5bd89f",
+      "byte_exact": true
+    },
+    {
+      "source": "bin/map05.bin",
+      "fields": 0,
+      "bytes": 48,
+      "source_sha256": "7912e803aae5759b8ce8469ab17342f93f1d5b59408c485939a7f4339ab209c0",
+      "rebuilt_sha256": "7912e803aae5759b8ce8469ab17342f93f1d5b59408c485939a7f4339ab209c0",
+      "byte_exact": true
+    },
+    {
+      "source": "bin/map06.bin",
+      "fields": 0,
+      "bytes": 256,
+      "source_sha256": "d4b4d8768fa3b9354cc79bd835d6f9b4804c46ed905eccacc5b74948eb0cb40c",
+      "rebuilt_sha256": "d4b4d8768fa3b9354cc79bd835d6f9b4804c46ed905eccacc5b74948eb0cb40c",
+      "byte_exact": true
+    },
+    {
+      "source": "bin/map06a.bin",
+      "fields": 0,
+      "bytes": 756,
+      "source_sha256": "5df41feb677e05fbcb8971239923516fe5c635304484df4e550ed6bdbf7bb2d1",
+      "rebuilt_sha256": "5df41feb677e05fbcb8971239923516fe5c635304484df4e550ed6bdbf7bb2d1",
+      "byte_exact": true
+    },
+    {
+      "source": "bin/map06b.bin",
+      "fields": 0,
+      "bytes": 756,
+      "source_sha256": "3c5eb0ed0a206eaa0cc841441320e4c2166791df758e3316e74abaff7b1cb0e5",
+      "rebuilt_sha256": "3c5eb0ed0a206eaa0cc841441320e4c2166791df758e3316e74abaff7b1cb0e5",
+      "byte_exact": true
+    },
+    {
+      "source": "bin/map07.bin",
+      "fields": 0,
+      "bytes": 48,
+      "source_sha256": "7912e803aae5759b8ce8469ab17342f93f1d5b59408c485939a7f4339ab209c0",
+      "rebuilt_sha256": "7912e803aae5759b8ce8469ab17342f93f1d5b59408c485939a7f4339ab209c0",
+      "byte_exact": true
+    },
+    {
+      "source": "bin/map07a.bin",
+      "fields": 0,
+      "bytes": 420,
+      "source_sha256": "950e5f6b5e657d3b16d41004ba369bbfbdedc2ba66d3ecb501e74087604a408b",
+      "rebuilt_sha256": "950e5f6b5e657d3b16d41004ba369bbfbdedc2ba66d3ecb501e74087604a408b",
+      "byte_exact": true
+    },
+    {
+      "source": "bin/map07b.bin",
+      "fields": 0,
+      "bytes": 492,
+      "source_sha256": "18e39365416088849d0ce4dbd56565c504b02fbd2dba974898b9834c116ffde1",
+      "rebuilt_sha256": "18e39365416088849d0ce4dbd56565c504b02fbd2dba974898b9834c116ffde1",
+      "byte_exact": true
+    },
+    {
+      "source": "bin/map08.bin",
+      "fields": 0,
+      "bytes": 1880,
+      "source_sha256": "0f64523edb4cefc26e18b31d2592974897eb2203c894df0879f92c300c1a94df",
+      "rebuilt_sha256": "0f64523edb4cefc26e18b31d2592974897eb2203c894df0879f92c300c1a94df",
+      "byte_exact": true
+    },
+    {
+      "source": "bin/map09.bin",
+      "fields": 0,
+      "bytes": 48,
+      "source_sha256": "7912e803aae5759b8ce8469ab17342f93f1d5b59408c485939a7f4339ab209c0",
+      "rebuilt_sha256": "7912e803aae5759b8ce8469ab17342f93f1d5b59408c485939a7f4339ab209c0",
+      "byte_exact": true
+    },
+    {
+      "source": "bin/map10.bin",
+      "fields": 2,
+      "bytes": 4224,
+      "source_sha256": "ac23ef7dd2539295eac1822a199e93da208023cf9fc11023a2489347f598aca6",
+      "rebuilt_sha256": "ac23ef7dd2539295eac1822a199e93da208023cf9fc11023a2489347f598aca6",
+      "byte_exact": true
+    },
+    {
+      "source": "bin/map11.bin",
+      "fields": 0,
+      "bytes": 956,
+      "source_sha256": "80554e66e8d1e909c873a323ca2b8118d15c586b8b1b05354fadd1a40cf0d687",
+      "rebuilt_sha256": "80554e66e8d1e909c873a323ca2b8118d15c586b8b1b05354fadd1a40cf0d687",
+      "byte_exact": true
+    },
+    {
+      "source": "bin/map12.bin",
+      "fields": 0,
+      "bytes": 1916,
+      "source_sha256": "fc7eb8332846f9a6bb5ce7fae6cf9bb49d8bd885f3bdbfa5950e3f33663ebed6",
+      "rebuilt_sha256": "fc7eb8332846f9a6bb5ce7fae6cf9bb49d8bd885f3bdbfa5950e3f33663ebed6",
+      "byte_exact": true
+    },
+    {
+      "source": "bin/map13.bin",
+      "fields": 0,
+      "bytes": 584,
+      "source_sha256": "b289102c9ff63b92f43966f6707c1e7e05fd787deb66e8ca8754dede9c9d07a4",
+      "rebuilt_sha256": "b289102c9ff63b92f43966f6707c1e7e05fd787deb66e8ca8754dede9c9d07a4",
+      "byte_exact": true
+    },
+    {
+      "source": "bin/map14.bin",
+      "fields": 0,
+      "bytes": 660,
+      "source_sha256": "608a227cc1708d3057154f80b8f875fce605b69717f45b5d93411a658fc9ea51",
+      "rebuilt_sha256": "608a227cc1708d3057154f80b8f875fce605b69717f45b5d93411a658fc9ea51",
+      "byte_exact": true
+    },
+    {
+      "source": "bin/map15.bin",
+      "fields": 0,
+      "bytes": 2192,
+      "source_sha256": "c6950a694d0e39758cc3a2cf38bbb93e26cb632716db773e93795cc0e55dec29",
+      "rebuilt_sha256": "c6950a694d0e39758cc3a2cf38bbb93e26cb632716db773e93795cc0e55dec29",
+      "byte_exact": true
+    },
+    {
+      "source": "bin/map16.bin",
+      "fields": 2,
+      "bytes": 2988,
+      "source_sha256": "cd6c006684bf1e4a820ebb9d6c3100d8cb1c0afb4035b6465dc796be2daac233",
+      "rebuilt_sha256": "cd6c006684bf1e4a820ebb9d6c3100d8cb1c0afb4035b6465dc796be2daac233",
+      "byte_exact": true
+    },
+    {
+      "source": "bin/map17.bin",
+      "fields": 0,
+      "bytes": 540,
+      "source_sha256": "f7c5071e896cb8155023c55463e662a543569b058ad2de2d8d50064b3e9a999b",
+      "rebuilt_sha256": "f7c5071e896cb8155023c55463e662a543569b058ad2de2d8d50064b3e9a999b",
+      "byte_exact": true
+    },
+    {
+      "source": "bin/map18.bin",
+      "fields": 4,
+      "bytes": 2726,
+      "source_sha256": "9c9ed7d30b95984575473a02097eac2e4fae0f0b542bfc9dcfb98d8a8a0ec76f",
+      "rebuilt_sha256": "9c9ed7d30b95984575473a02097eac2e4fae0f0b542bfc9dcfb98d8a8a0ec76f",
+      "byte_exact": true
+    },
+    {
+      "source": "bin/map19.bin",
+      "fields": 0,
+      "bytes": 3516,
+      "source_sha256": "79b4cec32a39660d438ccf55511e1d7063f42725f9d7dc13e97b8d99f4bfacb0",
+      "rebuilt_sha256": "79b4cec32a39660d438ccf55511e1d7063f42725f9d7dc13e97b8d99f4bfacb0",
+      "byte_exact": true
+    },
+    {
+      "source": "bin/map20.bin",
+      "fields": 0,
+      "bytes": 576,
+      "source_sha256": "b17fd8767d5d700159c1e1ad3646ab54aa7d3307579a14e4123324b40f3d095b",
+      "rebuilt_sha256": "b17fd8767d5d700159c1e1ad3646ab54aa7d3307579a14e4123324b40f3d095b",
+      "byte_exact": true
+    },
+    {
+      "source": "bin/map21.bin",
+      "fields": 0,
+      "bytes": 4772,
+      "source_sha256": "66c051d3f8a8c2a93282177e52175430217c4978e3b73c3bfd3f1e7241ab6365",
+      "rebuilt_sha256": "66c051d3f8a8c2a93282177e52175430217c4978e3b73c3bfd3f1e7241ab6365",
+      "byte_exact": true
+    },
+    {
+      "source": "bin/title.bin",
+      "fields": 46,
+      "bytes": 31508,
+      "source_sha256": "a349fa22862d62df3e860dcdbb0728314d66bb11fb8e3a7b24951348843505aa",
+      "rebuilt_sha256": "a349fa22862d62df3e860dcdbb0728314d66bb11fb8e3a7b24951348843505aa",
+      "byte_exact": true
+    }
+  ],
+  "exe_mirror_byte_exact": true
+}

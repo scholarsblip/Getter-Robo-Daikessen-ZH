@@ -1,0 +1,141 @@
+{
+  "version": "v0.1.2-experimental",
+  "game_bin": "./work/output/Getter_Robo_Daikessen_ZH_v0.1.2_experimental/Getter_Robo_Daikessen_ZH_v0.1.2-experimental.bin",
+  "game_sha256": "855f4a1581f9509340f57b0ccb43170a1b3db7c0513c11d1db0f029a48ffe8cf",
+  "test_type": "bounded runtime extension, normal controller inputs",
+  "same_build_savestates_used_for_access": true,
+  "system_ram_injection": false,
+  "build_modified": false,
+  "core": {
+    "name": "SwanStation",
+    "version": "1.0.0 cc94ebc",
+    "sha256": "4e34b6ce04b8783f30ab7dd1b7da80569004ec2c852136ff27d6bdc52d0f0995",
+    "GPU_Renderer": "Software",
+    "CPU_ExecutionMode": "Interpreter",
+    "bios": "OpenBIOS",
+    "bios_sha256": "992a0369a55ca20308fe03acaa7e376a11b815b2b29e688d7a9451f2f41f2a34"
+  },
+  "passed": [
+    {
+      "case": "player-initiated attack",
+      "steps": [
+        "resume matching-build tactical state after earlier enemy attacks",
+        "select Lady Command (女郎指挥艇)",
+        "select Attack then 消音火神炮",
+        "select enemy 基基 one tile left and confirm"
+      ],
+      "observed": [
+        "native 3D combat plays",
+        "enemy HP1520→1200, damage320",
+        "EXP31 message renders",
+        "normal tactical map returned"
+      ],
+      "replay_state": "./work/qa/extended_v012/e6/end.state",
+      "replay_schedule": [
+        {
+          "start": 10,
+          "end": 15,
+          "buttons": [
+            "left"
+          ]
+        },
+        {
+          "start": 60,
+          "end": 65,
+          "buttons": [
+            "a"
+          ]
+        }
+      ],
+      "recommended_frames": 2100
+    },
+    {
+      "case": "native in-game memory-card save/load",
+      "native_card_option": "swanstation_MemoryCards_Card1Type=PerGameTitle",
+      "isolated_save_dir": "./work/qa/extended_v012/memorycards",
+      "steps": [
+        "open real global menu; select 存档",
+        "select empty slot1; game writes card sectors",
+        "exit save screen; terminate core process",
+        "new core process opens existing native .mcd; use matching-build state only to access menu",
+        "open real 读取 menu; slot shows Chapter1 interruption data",
+        "confirm selected slot; select 是 at normal game confirmation",
+        "game reads card data and returns to tactical map",
+        "select enemy; HP1200/1520 is preserved"
+      ],
+      "not_a_savestate_claim": "Emulator states were used only to place the test at menus between short runs. The successful reload was the game own Load command, reading a native card file persisted across core process termination. The original harness has no Libretro SRAM persistence, so an isolated PerGameTitle card was explicitly selected.",
+      "frontend_copy": "./work/qa/extended_v012/qa_save_frontend.py",
+      "frontend_differences": [
+        "add --save-dir CLI option",
+        "point libretro save directory request31 to specified isolated folder",
+        "fix root/log paths because the copy is outside tools"
+      ],
+      "memory_card": {
+        "path": "./work/qa/extended_v012/memorycards/Getter_Robo_Daikessen_ZH_v0.1.2-experimental_1.mcd",
+        "bytes": 131072,
+        "sha256": "8e12fab26be7cb649e61ba84cf72f360338774b2f473ce23dc9b549361e1f405",
+        "header": "MC",
+        "game_save_filename": "BISLPSP02232GR_A..."
+      }
+    }
+  ],
+  "remaining_scope": [
+    "first chapter only; later chapters/routes not tested",
+    "full semantic proofreading not completed",
+    "mixed speaker name 早乙女ミチル visible in EXP31 message",
+    "default custom-character name アキラ remains Japanese",
+    "bitmap battle damage label ダメージ remains Japanese",
+    "FMV, some bitmap UI and English Empty save-slot label remain untranslated",
+    "some MT confirmation wording is awkward; successful save/load does not mean final linguistic proofreading"
+  ],
+  "screenshots": [
+    {
+      "filename": "screenshots/01_player_weapon.png",
+      "source": "./work/qa/extended_v012/e5/frame_000200.png",
+      "sha256": "10d2ced53f1ffeab538d9672001a8bb45752f957f4c7db763eda026f9a9da734"
+    },
+    {
+      "filename": "screenshots/02_player_target.png",
+      "source": "./work/qa/extended_v012/e6/frame_000200.png",
+      "sha256": "c96154ebe39619246221259adf5a91b376ad10e570800b3c073bef3122c108aa"
+    },
+    {
+      "filename": "screenshots/03_player_damage.png",
+      "source": "./work/qa/extended_v012/e8/frame_000500.png",
+      "sha256": "e4f4ebbcbe7f46c88ec1cffeef811d9dcd73e5ce2cd86c6cb8fed8bd48124d61"
+    },
+    {
+      "filename": "screenshots/04_player_exp.png",
+      "source": "./work/qa/extended_v012/e8/frame_001800.png",
+      "sha256": "666e6961600064e9931cf24ea4e5b309e1fcbe7bc479f889e7b5f9749d6eab32"
+    },
+    {
+      "filename": "screenshots/05_game_save.png",
+      "source": "./work/qa/extended_v012/e11/frame_000500.png",
+      "sha256": "117ff03fcc5d89d9c490cd3d1a0bc24367de3d28429f68abbd0d86f9d9d18992"
+    },
+    {
+      "filename": "screenshots/06_game_load.png",
+      "source": "./work/qa/extended_v012/e13/frame_000500.png",
+      "sha256": "9a60e9768fe913372247fb16cc34be8f2f80a78b9a17cf8d0fcacefb23049bf5"
+    },
+    {
+      "filename": "screenshots/07_load_confirmation.png",
+      "source": "./work/qa/extended_v012/e14/frame_000300.png",
+      "sha256": "9734f6f8174e9262bc917bf8710531518f52e422512789b044db8115658c5b87"
+    },
+    {
+      "filename": "screenshots/08_loaded_map.png",
+      "source": "./work/qa/extended_v012/e15/frame_002000.png",
+      "sha256": "ab4daa2fd70aa2abdf1c6c28fc72a66204abe377f1646b977c31e2d5fe226d8e"
+    },
+    {
+      "filename": "screenshots/09_loaded_hp.png",
+      "source": "./work/qa/extended_v012/e17/frame_000150.png",
+      "sha256": "42d456f2545df713c9977debe1d9edd8d2991f6bc48c31716a86e53ec03c4234"
+    }
+  ],
+  "option_provenance": "https://raw.githubusercontent.com/libretro/swanstation/master/src/libretro/libretro_core_options.h",
+  "screenshots_in_public_repository": false,
+  "screenshot_note": "Evidence was inspected locally; screenshot source paths identify original QA runs, and files are not part of this code repository."
+}
